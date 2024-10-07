@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "UNDERSTANDING TECHNOLOGY"
+      },
+      {
+        "id": "2",
+        "value": "• Meaning of Technology"
+      },
+      {
+        "id": "3",
+        "value": "• Types/classes"
+      },
+      {
+        "id": "4",
+        "value": "• Technology related profession"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "– Explain the meaning and importance of technology in relation to their environment."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-Students as a class discuss the meaning of technology"
+      },
+      {
+        "id": "2",
+        "value": "-Students in small group examine the importance of technology to man."
+      },
+      {
+        "id": "3",
+        "value": "-Students in pairs identify different aspects of technology"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Images of the various professionals at work. Charts and AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Potters showing importance of technology."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "CAREER PROSPECT AND OPPORTUNITIES IN TECHNOLOGY"
+      },
+      {
+        "id": "2",
+        "value": " Meaning of career"
+      },
+      {
+        "id": "3",
+        "value": "Definition/Technology related careers/Importance"
+      },
+      {
+        "id": "4",
+        "value": "Employment prospects for Technology Students"
+      },
+      {
+        "id": "5",
+        "value": "Fields of Technology/Educational routes."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Identify technology related professions and their importance."
+      },
+      {
+        "id": "3",
+        "value": "State the various fields of technology and their prospects."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-Students as a class discuss the meaning of career and its prospects"
+      },
+      {
+        "id": "2",
+        "value": "-Students in small groups examine the importance of career to man."
+      },
+      {
+        "id": "3",
+        "value": "-Students in small groups, state the various fields of technology and their prospects."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO- VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Charts and posters showing the artisan, Craft man and engineers at work."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "workshop-safety"
+      },
+      {
+        "id": "2",
+        "value": "Definition"
+      },
+      {
+        "id": "3",
+        "value": "Causes"
+      },
+      {
+        "id": "4",
+        "value": "Types"
+      },
+      {
+        "id": "5",
+        "value": "Prevention of workshop accidents."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Explain the meaning of safety"
+      },
+      {
+        "id": "3",
+        "value": "Outline causes of workshop accident."
+      },
+      {
+        "id": "4",
+        "value": "Outline types of workshop accident"
+      },
+      {
+        "id": "5",
+        "value": "State the prevention techniques."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class discuss the prevention techniques."
+      },
+      {
+        "id": "2",
+        "value": "Students as a class visit a nearby workshop."
+      },
+      {
+        "id": "3",
+        "value": "Students in groups analyze the prevention techniques"
+      },
+      {
+        "id": "4",
+        "value": "Embedded Core Skills:Critical thinking and problem solving."
+      },
+      {
+        "id": "5",
+        "value": "Learning Resources:"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Pictures & Chart showing different workshop habits."
+      },
+      {
+        "id": "3",
+        "value": "Video clips showing various types of workshop accident."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCE"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "WORKSHOP SAFETY (CONTINUATION)"
+      },
+      {
+        "id": "2",
+        "value": "Workshop Safety Devices"
+      },
+      {
+        "id": "3",
+        "value": "Workshop Rules and Regulations."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Identify some basic workshop safety devices."
+      },
+      {
+        "id": "3",
+        "value": "Outline some w St Students as a class visit workshop and identify workshop safety devices."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class visit workshop and identify workshop safety devices."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups observe some workshop rules and regulation."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking, and Problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Life display of workshop safety devices."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES:"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PROPERTIES OF MATERIALS GROWTH (WOOD)"
+      },
+      {
+        "id": "2",
+        "value": "Growth of a tree"
+      },
+      {
+        "id": "3",
+        "value": "classes of wood"
+      },
+      {
+        "id": "4",
+        "value": "Identification of the two classes/Examples of hard wood and soft wood."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Explain how a tree grows"
+      },
+      {
+        "id": "3",
+        "value": "List the classes of wood."
+      },
+      {
+        "id": "4",
+        "value": "Outline examples of hardwood and softwood."
+      },
+      {
+        "id": "5",
+        "value": "Identify the differences between Softwood & Hardwood."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " -Students in pairs explain how a tree grows."
+      },
+      {
+        "id": "2",
+        "value": "-Students in pairs list some hardwood found in Nigeria"
+      },
+      {
+        "id": "3",
+        "value": "-Students as a class visit a saw mill or timber yard."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Imagination, Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "A chart showing the growth of a Timber."
+      },
+      {
+        "id": "3",
+        "value": "Life objects of some hardwood and softwood"
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES:"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PROPERTIES OF MATERIAL (WOOD) CONTINUATION"
+      },
+      {
+        "id": "2",
+        "value": "Parts that features in the cross section of timber and their functions"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Identify the various parts on the cross section of a log."
+      },
+      {
+        "id": "3",
+        "value": "classify and describe the properties of wood."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups identify some parts of the cross section of timber."
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs list some properties of wood."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "A chart showing the various part, that feature in the cross section of a wood."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES:"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PROPERTIES OF MATERIALS (METAL)"
+      },
+      {
+        "id": "2",
+        "value": "Identification of metal by their physical properties"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Outline the various properties of metal."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups list some properties of metal"
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs examine various types of alloys."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Col abortion and Communication"
+      },
+      {
+        "id": "2",
+        "value": " Digital Literacy"
+      },
+      {
+        "id": "3",
+        "value": "Student Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Specimen of various types of metal"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PROPERTIES OF MATERIAL (METAL) CONTINUATION"
+      },
+      {
+        "id": "2",
+        "value": "classification, Examples and forms of metal"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "classify and identify the two types of metals."
+      },
+      {
+        "id": "3",
+        "value": "  Outline the various forms of metal."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups identify various forms of metal and their characteristics"
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups outline the economic importance of metal."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Communication and Collaboration"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Chart showing various forms of metals."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.nde-ed.org"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PROPERTIES OF MATERIALS CERAMICS & GLASS"
+      },
+      {
+        "id": "2",
+        "value": "Identification, properties and types."
+      },
+      {
+        "id": "3",
+        "value": "PROPERTIES OF MATERIALS   (RUBBER & PLASTICS)"
+      },
+      {
+        "id": "4",
+        "value": "Types, Examples and Properties"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Types, Examples and Properties"
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "4",
+        "value": "Differentiate between rubbers & plastic."
+      },
+      {
+        "id": "5",
+        "value": "Discuss types and properties of plastic & rubber."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in groups examine various types of ceramics and glass."
+      },
+      {
+        "id": "2",
+        "value": "Students in groups list some properties of Plastic & Rubber"
+      },
+      {
+        "id": "3",
+        "value": "Students in pairs discuss the characteristic of plastic & rubber."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and personal development."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Specimen of various ceramic and glass products."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.acucuratus.com"
+      },
+      {
+        "id": "5",
+        "value": "Specimen of plastic & product."
+      },
+      {
+        "id": "6",
+        "value": "www.pediaa.com"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "REVISION"
+      },
+      {
+        "id": "2",
+        "value": "What has been the most useful thing you have learned in this term class?"
+      },
+      {
+        "id": "3",
+        "value": "What do you feel you have missed during this class?"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "EXAMINATIONS"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

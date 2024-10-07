@@ -1,0 +1,951 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Welcome test"
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure: prefixes and suffixes "
+      },
+      {
+        "id": "3",
+        "value": "(c ) Words for the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson,"
+      },
+      {
+        "id": "2",
+        "value": "students should be able to: (I)’ describe prefixes and suffixes ith copious examples (ii) .fürnpc:words.using prefixes and suffixes, (iii) use the newly formed words in sentences"
+      },
+      {
+        "id": "3",
+        "value": "Learners are to be guided to learn;the following words: infamy, reaplendent, collage, germane, arable, molecular circumvent, dearth, elude lethargic"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": "(I) Students, as a class, describe prefixes and suffixes (ii) Students in small groups form new words using prefix and suffixes (Is) Students in pairs use the newly formed words in sentences"
+      },
+      {
+        "id": "3",
+        "value": "Students as individuals or as a group, look up the meanings of the given words in a dictionary, and use each word in, at least, a.sentence. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(I) Communication and Collaboration "
+      },
+      {
+        "id": "2",
+        "value": "(ii) Critical thinking and problem solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "(I) Charts/Flashcards WEB RESOURCES (a) https://www.dictionary.com/what-are-prefixes-and-suffixes https://www.dictionary.com/what-are-prefixes-and-suffixes  (b) https://www.myenglishteacher.eu/blog/blog/prefixes-suffixes-list https://www.myenglishteacher.eu/blog/blog/prefixes-suffixes-list"
+      },
+      {
+        "id": "3",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Structure: prepositions and prepositional phrases "
+      },
+      {
+        "id": "2",
+        "value": "b) Comprehension (listening skill) Summary"
+      },
+      {
+        "id": "3",
+        "value": "(c) Vocabulary development: antonyms"
+      },
+      {
+        "id": "4",
+        "value": "d) Words for the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i) Describe prepositions and prepositional phrases; (ii) identify prepositions and prepositional phrases in sentences (iii) use prepositions and prepositional phrases in sentences appropriately "
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to : (i) listen attentively to a speech/recorded speech in order to deduce the subjects matter (ii) identify keywords/ sentences that signal main ideas; (iii) put the sentences together n a summary form ."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: analyse antonyms; explain different ways forming antonyms; generate words and their antonyms."
+      },
+      {
+        "id": "4",
+        "value": "Learners are to be guided to learn the following words: communicable pizza, hazardous abdicate, buffet, champagne, durable, beret, shepherd, photosynthesis"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students, in small groups, brainstorm on the description of prepositions and prepositional phrases (ii) Students, in pair, identify prepositions and prepositional phrases in a given  passage (iii) Students as a class use prepositions and prepositional phrases in sentences (iv) Students visit the site below for further studies and form sentences with different prepositions."
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, in small groups; listen to a recorded message via Bluetooth device or any other digital device and write its main highlights in their own words. (ii) related to the main idea and share with the class. (iii) Students are guided to summarise the text following the sample provided. "
+      },
+      {
+        "id": "3",
+        "value": "(i) Students, in small groups, analyze antonyms. (ii) Students, as a class, explain different ways of forming antonyms. (iii) Individual students generate at least ten words and their antonyms. (iv) For further studies, students visit the site"
+      },
+      {
+        "id": "4",
+        "value": "Students as individuals or as a group look up the meanings of  the given words in a dictionary and use each word in at least, a sentence "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Critical thinking and problem solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii)Leadership and Personal- development (iii) Digital literacy"
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i) Charts/Flashcards WEB RESOURCES  https://www/englishgrammer101.com/module-7/ prepositions /lesson-1-prepositions-and-preponsitional-phrases (b) https://www/khan https://www/khan  academy/org/humanities/grammar/parts-of-speech-the-preposition /types-of-prepositions-and-phrases (c)https://www.k12readers.com/term/ preponsitional-phrases"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES  Tape recorder /Bluetooth MP 3  https://www.skillyouneed.com/ips/listening%20skills.html https://www.skillyouneed.com/ips/listening skills.html "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCE Charts/Flashcards  WEB RESOURCES https://examplesyour dictionary.com/examples-of-antonyms.html https://study.com/aca demy/lesson/what-are-structure: definition-example-quiz.html "
+      },
+      {
+        "id": "4",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Oral consonant Cluster e.g. /kw/, /str/, /spr/ (ii) formula: cvc"
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure Tenses (i) present tenses (ii) past tenses (iii) past participle (iv) present continuous (v) past continuous (vi) present perfect (vii) past perfect"
+      },
+      {
+        "id": "3",
+        "value": "c ) Writing: Formal letter A letter to the chairman of your local government area or any agency requesting some amenities needed in your community"
+      },
+      {
+        "id": "4",
+        "value": "(d) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: (i) describe a consonant -cluster (ii) Identify words that contain two and three consonant clusters(iii) pronounce words that contain two and three consonant clusters"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to:  (i) explain each of the tense forms (ii) differentiate each of the tense forms from one another (iii) use each of the tenses to forms appropriately in sentences."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: (i) highlight the features of a formal letter; (ii) develop an outline for a formal letter; (iii) write a letter to the chairman of their local government area on the given topic. "
+      },
+      {
+        "id": "4",
+        "value": "Learners are to be guided to learn the following words: differentiate, predict, integration, unanimous, berate, caustic, defunct, engender, immerse, nuance"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students as a class describe consonant dusters. (ii) Students as individuals identify words that contain two and three consonant clusters. (iii) Students one after the other pronounce words that contain two and three consonant clusters (iv) For further studies, students visit the site below:https://en.n.wikipedia.org/wiki/Consonant.Cluster https://en.n.wikipedia.org/wiki/Consonant.Cluster "
+      },
+      {
+        "id": "2",
+        "value": "(i) Students as individuals explain each of the tenses (ii) Students as a class study different texts that contain various tense form and pull out verbs that depict the forms (iii) Students as individuals give oral speech in order to assess their level of understanding of the tenses. (iv) For further studies, students should visit the site below: https://www.englishclub.com/grammar/verb-tenses.html"
+      },
+      {
+        "id": "3",
+        "value": "(i) Students, in small groups, observe, think and reflect on, what constitutes the features of a formal letter based on the sample provided. (ii) Students, in pairs, generate an outline for a formal letter and share with the class for a review. (iii) Individual students writs letters to the chairman of their local government area on the given topic below: https://examples-yourdictionary examples-of-antomyms.html"
+      },
+      {
+        "id": "4",
+        "value": "Students, as individuals or as a group, look up the meanings of the given words in a dictionary, and use each word in, at least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii)Leadership and Personal development (iii) Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and ColIaboration (ii) Leadership and Personal Development (iii) Critical thinking and problem sblving (iv) Digital literacy"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development (iii) Creativity and imagination"
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCE (i)Charts/Flashcards  WEB ESOURCES https://usefulenglish.r u/phonetics/practiceconsonant-clusters https://www.wikipedia.org/wiki/Consonant.Cluster https://www.wikipedia.org/wiki/Consonant.Cluster "
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCE (i)Charts/Flashcards WEB RESOURCES (i) https //www. english.club.com/grammar/verbtenses.html https://www.mbarendezvous.com/tense/ "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Charts depicting types of essays  https://www.toppr.com guides/english /writing/informal/letters https://www.scribendi.com/academy/articles/how-to-write – formal-letter-en-html"
+      },
+      {
+        "id": "4",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Comprehension: (i) reading to comprehend the meaning of the word in the content (ii) summary "
+      },
+      {
+        "id": "2",
+        "value": "(b) Oral: words of four syllables stressed on the Second, second, third, syllable"
+      },
+      {
+        "id": "3",
+        "value": "(c ) Structure: Synonyms (i) words that are exactly the same meaning (ii) words that are nearly the same in meaning"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to (i) identify the topic in each paragraph (ii) establish the relationship between the topic sentence(s) and the main idea in a given passage (iv) put the topic sentences together in a summary form."
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i) divide words into syllables with adequate examples; (ii) apply the principles guiding stress placement on syllables in words; (iii) pronounce words appropriately with the right syllable stressed in each word."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: (i) analyse synonyms (ii) explain different way in the same in meaning of generating synonyms"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students listen to the teacher read the passage with the view to identifying the topic sentence(s) in each paragraph. (ii) Students pair up to establish the relationship between the topic sentence and the main idea in a paragraph. (iii) Students, as individuals, put the topic sentences together in a summary form. "
+      },
+      {
+        "id": "2",
+        "value": "(i) Student s, as a class, analyse what a syllable is using learning tools (Digit al or textbooks) and break disyllabic and polysyllabic words into syllables. (ii) Students, in pairs, observe some stressed words and discuss the principles guiding the stressed syllables in the given words. (iii) Students, in small groups, apply stress placement rules to pronounce a set of words. (iv) For further studies, students visit the site below:  https://www.toeflgoanywhere.org/learn-those-4-word-stress-rules-improve-your-pronunciation https://www.toeflgoanywhere.org/learn-those-4-word-stress-rules-improve-your-pronunciation https://www.toeflgoanywhere.org/learn-those-4-word-stress-rules-improve-your-pronunciation"
+      },
+      {
+        "id": "3",
+        "value": "(i) Students in small groups synonyms. (ii) Students, as a dass, explain different ways of generating synonyms. (iii) Individual students to generate at least ten words and their synonyms (iv) For further studies, students visit the sfte below:"
+      },
+      {
+        "id": "4",
+        "value": "(i) Students brainstorm on types of religions. (ii) Students, in small groups, brainstorm and analyse what religion is. (iii) Students, as individuals, list terms associated with religions. (iv) Students, as a class, enumerate the importance of religion to the society. (v) For further studies, student should visit the site below: https://www.macmillandictionary.com/amp/thesaurus-category/british/words-used-to-describe-religious-people https://www.macmillandictionary.com/amp/thesaurus-category/british/words-used-to-describe-religious-people https://www.macmillandictionary.com/amp/thesaurus-category/british/words-used-to-describe-religious-people"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Critical Thinking and Problem Solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration (ii) Critical Thinking and Problem Solving (iii) Leadership and Personal Development (iv) Digital literacy"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii) Critical Thinking and Problem Solving (iii) Leadership and Personal Development "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development (iii) Digital literacy "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES Charts/Flashcards on new words in the passage  https://owl.purdue.edu/engagement/ged_preparation/part1lessons14/index.html https://owl.purdue.edu/engagement/ged_preparation/part1lessons14/index.html "
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i) Chart/Flashcards (ii) pronouncing Dictionary by Daniel Jones WEB RESOURCES  (i)  <https://www.toeflgoanywhere.org/learn-these-4-word-stress-rules-improve-your-pronunciation https://www.toeflgoanywhere.org/learn-these-4-word-stress-rules-improve-your-pronunciation https://www.toeflgoanywhere.org/learn-these-4-word-stress-rules-improve-your-pronunciation https://www.teachingenglish.org.uk/article/word-stress https://www.teachingenglish.org.uk/article/word-stress"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES (i) Chart/Flashcards WEB RESOURCES https://examples.yourdictionary.com/examples-of-synonyms.html https://examples.yourdictionary.com/examples-of-synonyms.html (ii) https://www.lexico.com/definition/synonym https://www.lexico.com/definition/synonym"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES (i) Chart/Flashcards https://www.macmillandictionary.com/amp/thesaurus-category/british/words-used-to-describe-religious-people https://www.macmillandictionary.com/amp/thesaurus-category/british/words-used-to-describe-religious-people https://www.macmillandictionary.com/amp/thesaurus-category/british/words-used-to-describe-religious-people  (ii)  https://www.vocabulary.com/lists/1445080 https://www.vocabulary.com/lists/1445080 "
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Structure: phrasal verbs (i) identification of phrasal verb (ii) relationship with adverbial particles e.g come across, come away, come around, come through, etc."
+      },
+      {
+        "id": "2",
+        "value": "(b) Comprehension listening (i) identification of main point and ideas (ii) recognition of the writer’s mood, tone and purpose (iii) identification of topic sentences and supporting sentences in the passage"
+      },
+      {
+        "id": "3",
+        "value": "(c) Writing: Expository essay: drug abuse or child abuse "
+      },
+      {
+        "id": "4",
+        "value": "(d) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i) Describe phrasal verbs are;(ii) give copious examples of phrasal verbs and their meanings; (iii) use phrasal verbs in sentences appropriately"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to : (i) listen attentively to a speech/recorded speech in order to deduce the subjects matter (ii) recognize the writer’s or speaker’s mood, tone and purpose (iii) identify the topic sentences in each paragraph and establish its relationship to the supporting sentences"
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: (i) discuss what an expository essay is (ii) discuss drug abuse or child abuse and its consequences;  (iii) write expository essay on (a) drug abuse OR (b) child abuse"
+      },
+      {
+        "id": "4",
+        "value": "Learners are to be guided to learn the following words: dynamic, freight, bullions, infamy, con-fluence, juunilee, defama-tory, knell, mercurial, indigent "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " (i) Students as a class, describe what phrasal verbs are; (ii) Students, as individual give examples of phrasal verbs and their meanings; (iii) Students, in pair, identify proportions and prepositional phrases in a given passage  (iv) Students visit the site below for further studies and form sentences with different prepositions."
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, in small groups; listen to a recorded message (via Bluetooth device or any other digital device) and state its subject matter. (ii) students, in pairs, point out the speaker’s mood, tone and purpose (iii) Students, as individuals, highlight the key points in the message"
+      },
+      {
+        "id": "3",
+        "value": "(i) A field trip to a Rehabilitation Centre (ii) Students, in small groups, discuss what an expository essay is (iii) Students, in pairs, discuss drug abuse or child abuse and its consequences;  (iv) Students as individual write expository essay on drug abuse or child abuse "
+      },
+      {
+        "id": "4",
+        "value": "Students, as individuals or as a group, look up the meanings of the given words in a dictionary, and use each word in, at least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Critical thinking and problem solving (iii) Leadership and Personal Development (iv) Digital Literacy"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration (ii) Critical thinking and problem solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i) Charts/Flashcards  WEB RESOURCES (i)  https://www.gingersoftware.com/content/grammar-rules/verb/phrasal-verbs https://www.gingersoftware.com/content/grammar-rules/verb/phrasal-verbs (ii) https://www.englishclub.com/vocabulary/phrasal-verbs-list.html https://www.englishclub.com/vocabulary/phrasal-verbs-list.html "
+      },
+      {
+        "id": "2",
+        "value": " AUDIO VISUAL RESOURCES (i) chart showing factors that enhance effective listening and factors that hinder effective listening (ii) digital device (audio) WEB RESOURCES https://www.skillyouneed.com/ips/listening%20skills.html https://www.skillyouneed.com/ips/listening skills.html "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Charts or picture showing drug abuse WEB RESOURCES (i) https://owl.purdue.edu/owl/generalwriting/academicwriting/essaywriting/expositoryessay.html https://owl.purdue.edu/owl/generalwriting/academicwriting/essaywriting/expositoryessay.html https://owl.purdue.edu/owl/generalwriting/academicwriting/essaywriting/expositoryessay.html https://www.time4writing.com/writing-resources/expositoryessay.html https://www.time4writing.com/writing-resources/expositoryessay.html"
+      },
+      {
+        "id": "4",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Oral: intonation (i) rising tune (ii) falling tune "
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure Main verbs Present and Past"
+      },
+      {
+        "id": "3",
+        "value": "(c) Vocabulary development Words associated with Photography "
+      },
+      {
+        "id": "4",
+        "value": "(d) Summary: Writing summary"
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: (i) explain intonation; (ii) listen to a speech recorded speech and recognise falling tunes and rising tunes; (iii) distinguish between rising tune and falling tune "
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i) explain what main verbs are; (ii) give adequate examples of main verbs (iii) use main verbs in present arid past sentences."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: i) list terms associated with Photography; (i) describe types of Photography; (iii) state the importance of Photography"
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson, students should be able to: (i) describe what summary is; (ii) explain the dos and don’ts of summary writing; (iii) summarise any given passage."
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words: humorous, prevalence, genetic, Imperial, porridge, occurrence, rustic, tyranny, sinew naval"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students, in small groups, discuss intonation. (ii) Students, in small groups: listen to a speech recorded speech and recognise falling tunes and rising tunes. (iii) Students, as individuals, distinguish between rising tunes and falling tunes in a given speech. (iv) For further studies, students should visit the site below: https://www.learn-english-today.com/pronunciations/intonation.html >https://www.learn-english-today.com/pronunciations/intonation.html ."
+      },
+      {
+        "id": "2",
+        "value": "(i) Students as a class explain what main verbs are (ii) Students as individuals, give examples of main verbs (present and past forms) (iii) Students, inpairs use main verbs in present and past forms in sentences."
+      },
+      {
+        "id": "3",
+        "value": "(I) A field trip to a photographer’s studio. (ii) Students in small groups, list terms associated with Photograph: (iii) Students[as a class, . describe types of — Photography (iv) Students as individuals state the importance of Photography (v) For further studies  visit below: https://dictionary.cambridg.org/topics/art/photography https://dictionary.cambridg.org/topics/art/photography "
+      },
+      {
+        "id": "4",
+        "value": "(I) Students, as a class, describe what summary is; and highlight its importance to them. (ii) Studernts work with their peers, to study a text and its summary to establish the dos and donts of summary writing. (iii) Students, in small groups, determine the main ideas in a text, write a draft, edit it and present the final draft to the class for a review"
+      },
+      {
+        "id": "5",
+        "value": "Students, as individuals or as a group, look up the meanings of the given words in a dictionary, and use each word in, at Least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal  Development (iii) Digital Literacy"
+      },
+      {
+        "id": "2",
+        "value": " (i) Communication and Collaboration (ii) Leadership and Personal Development (iii) Critical Thinking and Problem Solving "
+      },
+      {
+        "id": "3",
+        "value": "(I) Communication and colIaboration’ (ii) Leadership and Personal Development (iii,) Digital Literacy "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Problem Solving (iii) Creativity and Imagination (iv) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (ii) Digital Literacy, "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i) digital device c play a recorded speech (ii) Chart WEB RESOURCES  (i) https://www.learn-english-today.com/pronunciations/intonation.html https://www.learn-english-today.com/pronunciations/intonation.html (ii)  https://www.fluentucom/blog/english/english-intonation/ https://www.fluentucom/blog/english/english-intonation/"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i) charts/ flashcards WEB RESOURCCS  (i) https://www.grammarly.com/blog/main-verb https://www.grammarly.com/blog/main-verb (ii) https://examples.yurdictionary.corn/examples-of-past-tense-versbs-html https://examples.yurdictionary.corn/examples-of-past-tense-versbs-html"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES (I) ChartslFIahcard showing the common vocabulary associated WEB RESOURCES  (i)  https://dictionary.cambridg.org/topics/art/photography https://dictionary.cambridg.org/topics/art/photography (ii) https://www.google.com/amp/sdigitalphotography-school.com/deciphering-photo--jardgon-learn-to-speak-photography https://www.google.com/amp/sdigitalphotography-school.com/deciphering-photo–jardgon-learn-to-speak-photography https://www.google.com/amp/sdigitalphotography-school.com/deciphering-photo–jardgon-learn-to-speak-photography"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES (i) A chart showing the dos and donts of summary writing WEB RESOURCES  (I)  https://courses.lumenlearning.com/englishcomp1v2xmaster/chapter/how-to-write-a-summary https://courses.lumenlearning.com/englishcomp1v2xmaster/chapter/how-to-write-a-summary https://courses.lumenlearning.com/englishcomp1v2xmaster/chapter/how-to-write-a-summary  (ii)  https://toppr.com/guides/english/writing/summary https://toppr.com/guides/english/writing/summary"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": "",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Structure Auxiliaries present? past will—–would shall—-should may—-might can—–could dare—-need used to "
+      },
+      {
+        "id": "2",
+        "value": "(b)  Vocabulary development: Words associated with Transportation."
+      },
+      {
+        "id": "3",
+        "value": "(c) Writing:  Speech Writing (i) Welcome address (ii) Send off speech (iii) Vote of thanks (iv). FareWell address "
+      },
+      {
+        "id": "4",
+        "value": "(d)  Words for the week "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: (i) Explain the meaning of modal auxiliary verbs; (ii) Discuss the semantic implications of an auxiliary verbs (a) use the auxñanes ‘will and ‘would -half and should’ may’ and- might’ can and’ could üitedtor,dare and need in sentences "
+      },
+      {
+        "id": "2",
+        "value": "By the end of the Iesson students should be able to: (i) List all forms of transportation; (ii) analyse the advantages and  disadvantages of each form of transportation;(iii) list words that are associated with air transportation, rail transportation, sea transportation and road transportation. "
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to: (i) mention and explain each type of speech; (ii) distinguish between a speech and other types of essays; (iii) write a welcome address, send-off speech, vote of thanks and a farewell speech."
+      },
+      {
+        "id": "4",
+        "value": "Learners are to be guided to learn the following words:  zealous, bureaucracy, flamboyant, sedentary,quarrelsome, knuckle, sergeant, criticism, pension, ovation"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(l) Students- in small groups brainstorm on the meanings of auxiliary verbs (ii) Students as a class study the analyses of this extra learning of modal auxiliary verbs and give examples in sentences (iii) Students as individuals use auxiliary in both present and past forms in different sentences "
+      },
+      {
+        "id": "2",
+        "value": "(i) A field trip to an Airport/ a Seaport (ii) Students, as a class brainstorm on types of Transportation (iii) Students in small groups analyse the advantages and disadvantages of each type of Transportation (iv) Students, in pairs, list words that are associated with air transportation, rail transportation, sea transportation and road transportation. (v) For further studies, students should visit the site below: https://www.enchantedlearning.com/com/wordlist/transportatio.shtml https://www.enchantedlearning.com/com/wordlist/transportatio.shtml  "
+      },
+      {
+        "id": "3",
+        "value": " (i) Students, as a class, brainstorm on speech writing and types of speech. (ii) Students, as individuals, distinguish between a speech and other types of essays. (iii) Students, in pairs, write a welcome address, send- off speech, vote of thanks and a farewell speech "
+      },
+      {
+        "id": "4",
+        "value": "Students, as individuals or as a group, look up the meanings of the given words in a dictionary, and use each word in, at least, a sentence. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Leadership Personal development "
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration   (ii) Leadership and Personal Development (iii) Digital Literacy  "
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and  Collaboration (ii) Leadership and Personal Development (iii) Creativity and imagination"
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and  Collaboration (ii) Digital Literacy  "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES chart showing ate Iifif5 verbs WEB RESOURCES (i) https://www.britannica.com/topic/auxiliary https://www.britannica.com/topic/auxiliary (ii)  https://www.Lexico.com/grammar/auxiliary https://www.Lexico.com/grammar/auxiliary"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i) A chart or picture showing types of transportation WEB RESOURCES  (i) https://www.emchanedlearning.com/com/wordlist/transportatio.shtml https://www.emchanedlearning.com/com/wordlist/transportatio.shtml  (ii) https://www.vocalbulary.com/lists/210578 https://www.vocalbulary.com/lists/210578 "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL – RESOURCES Charts/Flashcards WEB RESOURCES <https://writingcooperative.com/how-to-write-a-well-structured-speech-ec3851821529(ii) https://writingcooperative.com/how-to-write-a-well-structured-speech-ec3851821529(ii) https://writingcooperative.com/how-to-write-a-well-structured-speech-ec3851821529(ii) "
+      },
+      {
+        "id": "4",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Oral: consonant sounds (i) contrasting: /s/ and /z/"
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure Punctuation marks (I) Period/full stop (.) (ii) comma (,) (iii) question mark (?)  "
+      },
+      {
+        "id": "3",
+        "value": "(c) Writing Argumentative essay ‘Indeed democracy is better than military rule’ "
+      },
+      {
+        "id": "4",
+        "value": "(d) Words for the week  "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:  (i) recognize and pronounce /s/ and /z/ consonant sounds correctly; (ii) analyse the contrast between /s/ and /z/ sounds; (iii) generate words that show the contrast between /s/ and /z/ sounds."
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to:  (i) Recognise the sign that represent a punctuation mark (ii) explain the uses of full stop, comma, question mark; (iii) use full stop, comma and question mark appropriately in sentences."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to: (i) highlight the features of an argumentive essay; (ii) develop an outline for an argumentative essay; (iii) write an argumentative essay on ‘Indeed democracy is better than military rule."
+      },
+      {
+        "id": "4",
+        "value": "Learners are to be guided to learn the following words: astonish, indoctrinate, neo-colonialism, proactive, lampoon, supervise, collaborate, strategize , inculcate, iconoclastic."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i)Students, in small groups, listen to a recorded speech (via Bluetooth or any digital device) with a view to hearing /s/ and /z/ sounds. (ii) Students, in pairs, analyse the contrast between /s/ and /z/ sounds. (iii) Students, as individuals generates words that show the contrast between /s/ and /z/ sounds. (iv) For further studies, students should visits the sites below:  https://rachelsenglish.com/english-pronounce-s-z-consonants https://rachelsenglish.com/english-pronounce-s-z-consonants "
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, as a class, list various punctuation marks and their signs (ii) Students, in pairs, punctuate a given unpunctuated passage. (iii) Students, in small groups, generate example to reflect at least 15 uses of comma, (iii) For further studies students should visit the site below: https://grammar.yourdictionary.com/punctuation/What/fourteen-punctuation-mark.html https://grammar.yourdictionary.com/punctuation/What/fourteen-punctuation-mark.html https://grammar.yourdictionary.com/punctuation/What/fourteen-punctuation-mark.html "
+      },
+      {
+        "id": "3",
+        "value": "(i) Students are presented with the topic. ‘Indeed democracy is better than military rule’. (ii) Students who agree with the statement move to one side of the room and those who disagree move to the other side. Then, they take turns explaining why they are standing on that position. (iii) Students, as a class, discuss the characteristics and elements of an argumentative essay.(iv) Students, in small groups, work in a more structured manner to take a point of view on an assigned topic and generate reasons to support their views. "
+      },
+      {
+        "id": "4",
+        "value": "Students, as individuals or asa group, look up the meanings of the given words in a dictionary, dod use each word in, at least, a sentence. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and  Collaboration (ii) Leadership and Personal Development (iii) Creativity and imagination(iv) Digital Literacy "
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and  Collaboration (ii) Leadership and Personal Development  (iii)Digital Literacy "
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and  Collaboration (ii) Leadership and Personal Development (iii) Critical Thinking and Problem solving "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and  Collaboration (ii) Digital Literacy  "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i) Chart/Flashcard (ii)Digital device/MP3 WEB RESOURCES  (i)  https://rachelsenglish.com/english-pronounce-s-z-consonantshttps://rachelsenglish.com/english-pronounce-s-z-consonants (ii)https://pronuncian.com/podcasts/episode3 https://pronuncian.com/podcasts/episode3 "
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i) Charts/Flashcards showing different types of punctuation marks WEB RESOURCES (i) https://grammar.yourdictionary.com/punctuation/what/fourteen-punctuation-mark.html https://grammar.yourdictionary.com/punctuation/what/fourteen-punctuation-mark.html https://grammar.yourdictionary.com/punctuation/what/fourteen-punctuation-mark.html  (ii)  https://www.enchanteedlearning.com/grammar/punctuationhttps://www.enchanteedlearning.com/grammar/punctuation "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Charts depicting types the features of an argumentative essay WEB RESOURCES  (i)  https://owl.purdue.edu/owl/generalwriting/academicwriting/essaywriting/argumentativeessays.html https://owl.purdue.edu/owl/generalwriting/academicwriting/essaywriting/argumentativeessays.html https://owl.purdue.edu/owl/generalwriting/academicwriting/essaywriting/argumentativeessays.html (ii) https://owlcation.com/academia/How-to-write-an-AgrumentEssay https://owlcation.com/academia/How-to-write-an-AgrumentEssay>"
+      },
+      {
+        "id": "4",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary "
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Structure: (i) Spelling Homophones (words that sound alike) e.g. allowed/aloud flower/flour flew/flu night/knight key/quay "
+      },
+      {
+        "id": "2",
+        "value": "(b) Writing: Review of formal a informal letter writh  "
+      },
+      {
+        "id": "3",
+        "value": "(c) Words for the week "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, student should be able to: (i) explain what homophones are; (ii) distinguish between two homophonic words; (iii) use two homophonic words in a sentence"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, student should be able to: (i) highlight the differences between formal and informal letters; (ii) write the formats of formal and informal letters; (iii) Write a letter for admission to a school and a letter to a friend. "
+      },
+      {
+        "id": "3",
+        "value": "Learners are to be guided to learn the following words: rendezvous, mortuary, cheques, lethal, decisive, pseudonym, trivial, bilingual, pule, console."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students, in small groups, brainstorm on the meaning of homophones and give examples. (ii) Students, in pairs, distinguish between pairs of homophonic words. (iii) Individual students use pairs of homophonic words in sentences."
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, in small groups, brainstorm on the differences between formal and informal letters. (ii) Students, in pairs, write the formats of formal and informal letter. (iii) Individual students write a letter for admission to a school and a letter to a friend.  "
+      },
+      {
+        "id": "3",
+        "value": "Students, as individuals or as a group, look up the meanings of the given words in a dictionary, and use each word in, at least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Critical Thinking and Problem solving (ii)Communication and  Collaboration (iii) Leadership and Personal Development "
+      },
+      {
+        "id": "2",
+        "value": "(i)Communication and  Collaboration (ii) Leadership and Personal Development "
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and  collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES Charts/Flashcards   (i) https://howtospell.co.uk/homophones.php https://howtospell.co.uk/homophones.php  (ii) https://www.spellingcity.com/homophones.html https://www.spellingcity.com/homophones.html"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES Chart WEB RESOURCES (i) https://keydifferences.com/difference-between-formal-and-informal-letter.html https://keydifferences.com/difference-between-formal-and-informal-letter.html  (ii) https://www.successcds.net/learn-nglish/writing-skills/letter-writing-format-formal-letter-informal-letter-samples-topics.html https://www.successcds.net/learn-nglish/writing-skills/letter-writing-format-formal-letter-informal-letter-samples-topics.html https://www.successcds.net/learn-nglish/writing-skills/letter-writing-format-formal-letter-informal-letter-samples-topics.html "
+      },
+      {
+        "id": "3",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Structure: Punctuation: Apostrophe, colon, semi colon, inverted commas:  "
+      },
+      {
+        "id": "2",
+        "value": "(b) Comprehension: (i) Replacement qudfition form (ii) grammatical names and functions  "
+      },
+      {
+        "id": "3",
+        "value": "(c)Words of the week "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By  the end of the lesson, Students should be able to: (i) recognize the sign that represents a punctuation mark; (ii) explain the uses of apostrophe  "
+      },
+      {
+        "id": "2",
+        "value": " By the end of the lesson, Students should be able to:    (i) replace or substitute a given word with another word (that has contextual meaning); (ii) mention the grammatical name of a group of underlined words in a sentence; (iii) state the functions of any given grammatical name underlined in a sentence."
+      },
+      {
+        "id": "3",
+        "value": "Learners are to be guided to learn the following words: Perusal, enigma, in vehement, bombshell, vehicular, armoury, assimilate, memorable, strawberry, primate."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i)   Students, in small groups, brainstorm on the types of punctuation marks, their signs and usage. (ii) Students, in pairs, punctuate a given unpunctuated passage (iii) For further studies students should visit the site below:  https://grammar.yourdictionary.com/punctuate/what/fourteen-punctuation-mark/html https://grammar.yourdictionary.com/punctuate/what/fourteen-punctuation-mark/html https://grammar.yourdictionary.com/punctuate/what/fourteen-punctuation-mark/html "
+      },
+      {
+        "id": "2",
+        "value": "(i) Students in small groups read a given passage and substitute the underline words with words that are contextually related. (ii) Students, in pairs, recognise the grammatical names and functions of underlined groups of words in a given passage."
+      },
+      {
+        "id": "3",
+        "value": "Students as individuals or as a group look up the meanings of the given words in a dictionary, and use each word in at least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i)Communication and  Collaboration (ii) Leadership and Personal Development (iii) Digital Literacy"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and  Collaboration (ii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and  Collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES Charts/Flashcards (i)https://grammar.your dictionary.com/ punctuation/what/fourteen-punctuation-mark.html (ii)  https://www.enchantedlearning.com/grammar/punctuation https://www.enchantedlearning.com/grammar/punctuation"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES Charts/Flashcards 2. https://www.tammysenolishbloq.com/2018/04/grammatical-names-noun-clause-adverbial.html https://www.tammysenolishbloq.com/2018/04/grammatical-names-noun-clause-adverbial.html https://www.tammysenolishbloq.com/2018/04/grammatical-names-noun-clause-adverbial.html "
+      },
+      {
+        "id": "3",
+        "value": "(i) Hard copy dictionary (ii) online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "English",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

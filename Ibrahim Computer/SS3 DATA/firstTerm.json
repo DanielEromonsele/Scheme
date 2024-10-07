@@ -1,0 +1,981 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "NETWORK - Definition of networking -Types of networking -Network topology -Network devices -Benefits of networking ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Teacher leads students to define and list types of networking e.g. Ethernet, Token ring, Arcnet. -Displays each network topology in class -Drawing of flow diagram for each network topology in the class -List network devices e.g. (Hubs, Modems, Switches, Router) -State benefits of networking e.g. Sharing resources, easy communication, etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "INTRODUCTION FOR WORLD WIDE WEB - Definitions and full meaning of www -Brief history of www -Introduction to www -Basic terminologies protocols",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to define and gives full meaning of www. -Brief history of www in the class -Basic terminologies: www, website, webpage, home page. -Lists the protocols with full meaning, e.g. HTTP, html -Hypertext transfer protocols -Hypertext markup language"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "USES/BENEFIT OF WWW - Navigating through websites -Software for web development, cables and connectors -Network cables and connectors",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to display and demonstrate a website on the internet(H.O.E) -Navigate through websites e.g. finegoving.org -Displaying network cables and connectors in the class, e.g. twisted pair, fiber option, telephone -Displays data cables -Power cables, data cables: Printer, USB, monitor etc. -List types of connectors: e.g. male, female."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "DATA BASE - Definition -Examples of DBMS -Basic technologies -Forms of data base organization",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to define database and D.B packages -Mention examples of database packages: e.g. DbaseIII, DbaseIV, Foxbase. -Basic technologies: e.g. file, record, field, keys. -List different forms of data base organization -Displays an existing data base (file) in the system and features e.g. file designed as tables -Tables composed of rows and columns (field) contains specific types of information."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "DATA BASE - Creating database -Basic operations",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher guides students to create a database in the system(H.O.E) -Define the structure -Indicate field type -Enter and save data -Basic operations: (i) Searching (ii) Sorting (iii) Modifying (iv) Generating report"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "GRAPHICS(INTRODUCTION TO COREL DRAW) - Definition of graphics, examples of graphics -Features in CorelDraw e.g. environment: tools, color pallets.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to define graphics -Examples of graphics packages: (i) Paint (ii) Harvard graphics (iii) Photoshop (iv) Corel draw, etc -Features: Tools, and color pallets -Opening Corel; draw from programs(H.O.E)"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "GRAPHICS(COREL DRAW) - Simple design -Basic programming III (one-dimensional array) -DIM statement ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Application to make simple design e.g. (i) Complimentary card, Business card (ii) Birthday and congratulatory cards (iii) School logo, Nigeria flag. -Guide students to close and exit Corel draw -Define one dimensional array (i.e. using DIM statement) -Operations on array: input of an array, output of an array, arithmetic array."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "BASIC PROGRAMMING III - Review of the for next statement, while end statement -Write BASIC program",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Teacher guides students to write simple program segments on each operation and program using FOR-NEXT and WHILE-END statement. -State data in vector of 10 integer with and without a FOR-NEXT statement -Calculate the average of one dimensional array with 100 numeric value. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "BASIC PROGRAMMING III - Calculate the area of 10 different rectangles with and without while-end statements. – High Level Language (HLL) Definition of HLL Examples:- BASIC, FORTRAN, ALGOL etc.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher guides students to calculate area of 10 different rectangles with and without the WHILE-END statement -Output the sum of the first 100 integers -Output the value elements of a given array -Define high level language(HLLs) -BASIC, FORTRAN, ALGOL, C, PASCAL, P/I, PROLOG, COBOL, as given examples -BASIC, FORTRAN, ALGOL(scientific) "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "HIGH LEVEL LANGUAGE - Classification of (HLLs) -Features of BASIC, C, PASCAL, COBOL. -Advantages of HLL over ML, LLL",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to classify HLLs based on suitable application of C, PASCAL, P/I (General Purpose), LISP, PROLOG(Artificial Intelligent AI), SNOBOL(Special Purpose Programming Language), COBOL(Business) -Interpreted Language: BASIC -Compiled Language: PASCAL, COBOL, FORTRAN -State the advantages of HLLs over ML, LLL -State features of HLLs, BASIC, C,L PASCAL, COBOL, etc "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "OVERVIEW OF NUMBER BASES - Review of number bases: decimal, hexadecimal. -Conversion in number bases",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-List digits in each number bases: i) Binary-2, Octal-8, Decimal-10, Hexadecimal-12 ii) Leads students to carry out conversion of a given number to another number base. E.g. 8base 10 to binary number =8 =1000base 2"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "OVERVIEW OF NUMBER BASES - Basic arithmetic in number bases -Addition and subtraction",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Carry out simple arithmetic operation using each number bases. (i)) Addition operation e.g. 110 base2 + 111 base2 + 004 base5 +234 base5  (ii) Subtraction operation e.g. 122 base4 - 132 base4, 1110 base2 - 0101 base2 etc,"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "_id": "14",
+    "Weeks": "14",
+    "Subject": "Computer Studies",
+    "Class": "SS3",
+    "Term": "first Term",
+    "Topics": "",
+    "Status": "EXAMINATION"
+  }
+]

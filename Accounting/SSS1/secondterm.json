@@ -1,0 +1,829 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Welcome test and cash book-three column cash book working exercise on three column cash books",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] post transactions into three column cash book  balance up the three column cash book"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students as a class post entries to the three column cash book -students as a class balance up the three column cash book"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "-Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Audio-Visual Resources Recall /improvised cash book Display of work on the topics  Web resources "
+      },
+      {
+        "id": "2",
+        "value": "https://www.wallstretmojo.com/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Cash book three column cash book working exercise",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: post complex transactions into three column cash book balance up the three column cash book"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in small groups, solve questions on three column cash book -students as a class visit the site for the meaning of petty cash book and terms used in petty cash book "
+      },
+      {
+        "id": "2",
+        "value": "https://www.accountingformanagement.org/petty-cash-body/book"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "-Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Audio-visual Resources Real/improved cash book Display of work on the topics  Web Resources "
+      },
+      {
+        "id": "2",
+        "value": "https://www.wallstreetm.ojo.com/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Petty cash book Meaning -terminologies Imprest system Reimbursement and working exercises",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] regulate the meaning of petty cash book and terminologies associated with petty cash book  explain the concept of imprest system  demonstrate the concept of reimbursement Iv] prepare a typical petty cash book"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-class presentation on the process of imprest system -students as a class, prepare petty cash book -student as individual post entries to the petty cash book and calculate how much float is given"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "-Critical thinking and problem solving -Digital literacy -Leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Audio-visual Resources Poster on the format of petty cash book Picture of a petty cashier, real or improved petty voucher Reimbursement demonstrated in practical term  Web Resources  "
+      },
+      {
+        "id": "2",
+        "value": "https://www.accounting.formanacement.org/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Posting subsidiary books into ledges cash book, sales day book, purchases day book, return inwards and return outwards",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] transfer entries in subsidiary books to ledgers"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups post entries from subsidiary books to ledgers"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "https://www.accountingnotes.net/"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Trial balance Meaning , uses Rules for extraction, extraction of trial balance Working exercises",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] explain the meaning of trial balance  discuss the rules guiding the extraction of trial balance  extract a trial balance "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in&nbsp; pairs to I] define trial balance Ii] discuss the rules for extracting trial balance -students as a class prepare trial balance -students to visit the link below to study on accounting concepts and conventions "
+      },
+      {
+        "id": "2",
+        "value": "https://www.termscomspared.com/differencebetween"
+      },
+      {
+        "id": "3",
+        "value": " accounting concepts and accounting conventions"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "-critical&nbsp; thinking and problem solving &nbsp;-digital literacy Leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Accounting concepts and conventions Meaning and types of accounting Concepts Meaning and types of accounting convention",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] write out accounting concepts and conventions Ii] distinguish between accounting concepts and conventions Iii] justify the need for accounting concepts&nbsp; and conventions"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class explain accounting concepts&nbsp; and conventions and the types -students in small groups draw up the differences between accounting concepts and conventions -students in pairs explain the reasons for accounting concepts and conventions"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Final accounts of a sole trader -trading profit or loss account –meaning , reasons, format",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Final accounts of a sole trader -trading profit or loss account –meaning , reasons, format",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] define trading profit or loss account Ii] construct a trading profit or loss account from an illustration Iii] interpret the end result in trading , profit or loss account"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in pairs define trading profit or loss account -students as a class, prepare trading , profit or loss account -students in small groups interpret the end result in the trading , profit or loss account prepared"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Balance sheet Meaning and format Assets and liabilities Working exercises on final accounts",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to I] describe balance sheet in your own words Ii] state the purposes of balance sheet Iii] explain with adequate examples assets and liabilities"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in pairs give the meaning of balance sheet Students as a class , state the purposes of balance sheet -students in small groups, explain with examples. Assets and liabilities and prepare a balance sheet"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Simple accounting ratio-meaning, types and working exercise</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "<td>Iv] draw out a typical balance sheet</td>"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: I] appraise the need for adjustment to final account Ii] compare and contrast between types of reserves Iii] discriminate between provisions&nbsp; and reserves&nbsp;"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "<td>-students as a class prepare balance sheet</td>"
+      },
+      {
+        "id": "2",
+        "value": "-students as a class explain adjustment and give reasons for adjustments -students in small groups compare the types of reserves -students in pairs draw up the differences between provisions and reserves&nbsp;"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "-critical thinking and problem solving -Digital literacy -leadership&nbsp; and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "https://www.playaountting.com/"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

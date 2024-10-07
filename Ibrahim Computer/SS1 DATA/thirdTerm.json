@@ -1,0 +1,902 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "COMMUNICATION SYSTEM - Full meaning of ICT -Types of ICT e.g. Broadcasting, Telecommunications, Data Networks, Information Systems, Satellite communications. -Broadcasting: Radio, Television, Satellite TV systems. ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Leads students to state the full meaning of ICT -State types of communications. STUDENT'S ACTIVITIES - Identify ICT gadgets "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer, Radio, Television"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "COMMUNICATION SYSTEMS - Telecommunications: ( Public Switched Telephone Network (PSTN), Mobile phone system (GSM), Circuit switched packet telephone system, Satellite telephone system, Fixed wireless telephone system,Data Networks: (Personal Area Network (PAN), Local Area Network(WAN), Internet.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Display available ICT gadgets, radio, television and computer,Shows satellite dish in an out-of-class activity. STUDENT'S ACTIVITIES - Access information on internet or other information devices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Internet facility, GSM phone, fax machine. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "COMMUNICATION SYSTEMS - Information system: Data processing system, Global positioning system(GPS)-Applications of ICT: Teleconferencing, video conferencing, tele-presence,telecommunication and networking,tele-computing,messaging, information search, retrieval and archival.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES  -Leads students to list ICT application areas -Leads students to list ICT based gadgets.STUDENT ACTIVITIES Identify application areas of ICT in an out-of-class activity or through internet or on pictures."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer, television, internet, ICT-based gadgets available"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "APPLICATION AREA OF ICT - ICT-based gadgets – mobile phones, computer, fax machines, automated teller machine(ATM), dispensing machines, point of sales machine, automated cash register(ACR), radio set, etc. -Operation of ICT based gadgets",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Guides students to operate ICT-based gadgets. STUDENT'S ACTIVITIES - Operate ICT-based gadgets under teacher’s supervision. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer with DOS installed, charts and pictures."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "BASIC COMPUTER OPERATION - Description of the booting process,Types of booting: Cold and warm.Components of window desktop: Icons, taskbar, background.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Leads students to describe booting process -Leads students to identify icons on the desk top. STUDENT'S ACTIVITIES - Power the computer under the supervision of the teacher,Observe light blinking as booting continues"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer, power source."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "BASIC COMPUTER OPERATIONS - Running an application program e.g. Microsoft word -The process of shutting down the computer",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Guides students to run an application program in the computer. STUDENT'S ACTIVITIES - Run application program under teacher’s supervision  "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer system"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "WORD PROCESSING - Definition of Word Processing and Word Processor -Examples of Word Processors: Microsoft Word, word perfect, word star. -Features of word processors",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES  -Leads students to define word processing and word processor -States the features of a word processor. STUDENT'S ACTIVITIES - Open word processing environment under teacher’s supervision. -Carry out basic word processing operations, hands-on-experience(h-o-e) "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERALS - Computer, word processing packages."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "WORD PROCESSING - Word processing environment -Using a word processor to: create, edit, format, save, retrieve, print and close.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Guides students to carry out basic operations on word processing hands-on-experience(h-o-e). STUDENT'S ACTIVITIES - Create document, edit document, save document, close document file and exit word."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer system "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "PRESENTATION PACKAGES - Definition of presentation package -Example of presentation packages e.g. Microsoft power-point.Features of presentation package: Creation of slides, insertion of pictures, insertion of video and audio, animation, slide shows, creating graphics,crating of organization and other charts.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES  -Leads students to define and list presentation package -States the features of a presentation package.STUDENT'S ACTIVITIES - Identify a presentation program environment"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer with presentation package "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "USING PRESENTATION PACKAGE - Microsoft power point(Open the application, create a new presentation, insert slide contents: text, graphics and pictures)",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Guides students to identify the features of a presentation program,Leads students to carry out basic operation on presentation program. STUDENT'S ACTIVITIES - Carry out simple presentation operation with power point.  "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer with presentation package (e.g. Power point). "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "USING PRESENTATION PACKAGE - Microsoft power point-Animation contents, add new slides, save presentation, close –presentation, close application.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER'S ACTIVITIES - Lead students to carry out basic operation on presentation program. STUDENT ACTIVITIES - Carry out simple presentation operation with power point"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer with presentation package(e.g. Power point)"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "EXAMINATION"
+  }
+]

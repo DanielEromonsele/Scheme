@@ -1,0 +1,410 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Revision /work, energy and power, measurement and units,  work done in a force field, types of energy, energy conversion and law of conversion of energy Work –energy theorem",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i) analyse work, energy and power Ii] measure and deduce the unit of work, energy and power; Iii] distinguish between types of energy and state the law of conservation of energy"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are allowed to carry their chairs  from one point to another in a bid to provide definitions for work, energy and power, Ii] students in small groups compare and contrast work energy and power Iii] The students go online for more info on work, energy and power "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "Critical thinking and problem solving    Ii] communication & collaboration iii] Leadership & personal development iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. audio visual resources I] wooden  box Ii] strings /rope Iii] inclined plane (plank) Slotted weights of different grams B. web resources"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Heat energy? Concept of heat and temperature, Effects of heat, Uses of heat,  challenge of phase, rise and fall in temperature, expansion/contraction change of resistance",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i)compare heat and temperature, (ii) investigate the effects of heat and state the uses of heat Iii] use kinetic theory to explain change in temperature"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are provided with Bunsen burner with several objects to place over it and then provide definitions for heat energy Ii] The students in small groups justify the effect of heat on temperature change Iii] the students go online for more info on heat and temperature "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy "
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. Audio visual resources (i) water, iodine, wax (ii) Source of heat Iii] ice block B. web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Thermometers and its types , calculator",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i) describe thermometer and compare its types"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "(i) the students in small groups are provided with several types of thermometers to compare and contrast"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "communication & collaboration Iii] leadership & personal development iv. Digital literacy  "
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio visual resources i) Different types of thermometer Cold and hot water B. Web Resources "
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Heat transfer, conduction, convection , radiation and their application; Land and sea Breeze , thermos flask",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i) differentiate between conduction, convention and radiation in terms of the kinetic molecular theory (ii) compare land and sea breeze; Iii] analyse the working principle of a thermos flask Iii] Perform an experiment to compare the conductivity of metals"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are given different metals covered with wax to experiment on the rate at which heat flows through them Ii] the students in small groups compare and contract conduction, convection and radiation Iii] the students go online for more info "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy  "
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio visual resources I] source of heat Ii] metal rods coated with wax Iii] polished and unpolished metallic materials e.g. empty tin milk iv] Charts on Land and Sea Breeze B. Web resources https:physics.info"
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Expansivity Expansion of solid, effects and application of expansivity ",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] Explain thermal expansion; Ii] compare the advantages and disadvantages of expansion Iii] investigate the  effects of expansion on substances e.g. solid, liquid and gas"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students are allowed to: experiment with ring and metal bulb and then come up with definition of expansivity Iii] The students in small groups make presentations on the applications of expansivity Iii] The students go online for more info on expansivity "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A.  Audio Visual resources (i] water Ii] sources of heat Iii] ice block B. Web resources"
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Expansivity: Linear, area and volume, anomalous expansion of water, real and apparent expansivity",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i) distinguish between linear, area and volume Expansivity Ii] analyze the anomalous expansion of water"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small groups are provided with iced water   to study its behavior as it changes state Ii] The students go online  for more info on the anomalous expansion of  water"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] communication & collaboration ii] leadership & personal development iii. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio Visual Resources I] iron rod Ii] water Iii] beaker Iv]Source of heat v] thermometer B. Web Resources "
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "Mid Term Break"
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Electric charges: production, types, distribution, storage, gold-leaf electroscope and its uses, Lighting and lighting conductor",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] charge a body by  friction induction and contact Ii] produce charges by rubbing two suitable materials against each other Iii] make simple electroscope and state its uses v]investigate the action of lighting conductor at a point v] describe the cold leaf electroscope "
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small group are provided with bar magnets and iron fillings to demonstrate the field pattern around a magnet Ii] The students go online for more info on the  concept of fields"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "] communication & collaboration ii] leadership & personal development iii. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio Visual Resources Bar magnet Iron fillings Pendulum bob String and retort stand (iv] compass needle (v] The globe   B.web Resources "
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Production of continuous electric current via, chemical heat, mechanical and solar energy",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] generate a continuous flow of charges; Ii] experiment to show that charges in motion constitute electric current Iii] compare the various sources of electricity  "
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small groups are provided with battery, ammeter, electric bulb, connecting wires etc to demonstrate the production of electricity from chemical Ii] The students go online for more info on the production of electricity"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. Audio visual resources I] electric cells Ii] wires (conductor) Iii] ammeter, voltmeter galvanometer Iv] plug key V] pheostat B. web resources"
+        }
+      ]
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Projects and practical",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Students in small groups produce gold-leaf Electroscopes"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "_id": "13",
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]
+  

@@ -1,0 +1,498 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Revision/introduction to laser",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (a] Explain the term LASER with emphasis on its types, applications and dangers"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss laser and its application Ii] The students go online  for more info on laser"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "B web Resources https://physics .info"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Fibre options",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] described the concept of fibre optics with emphasis on i] the principle of transmission of light through an optical fibre ii] the applications of fibre optics"
+        },
+        {
+          "id": "2",
+          "value": "i] The students are given fibre optics cable to explore and come up with a definition of fibre optics ii]  The students in small groups make presentations on the principles of transmission of light through optics fibre iii] The students go online for more information for more info fibre optics"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "i] The students are given fibre optics cable to explore and come up with a definition of fibre optics ii]  The students in small groups make presentations on the principles of transmission of light through optics fibre iii] The students go online for more information for more info fibre optics"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A  audio visual Resources Fibre optics cable   B Audio Resources Fibre optics cables B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Semiconductor ( electronics) electrical conduction through solid materials",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] distinguish between conductors semiconductors and insulators and insulators in terms of band theory Ii] differentiate between intrinsic and extrinsic semiconductors with examples Iii] explain doping and distinguish between P types and N-type semiconductors Iv] analyse junction diode & its voltage current characteristic V] discuss the use of a diode as a rectifier"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are provided with copper wire , rubber and bowl of water to compare their level of conduction of electricity Ii] The students in small groups discuss semiconductors in the intrinsic and extrinsic form Ii] The students go online  for more info"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources I] water Ii] rubber Iii] salt water Iv] diode B web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Electric field: shunt and multiplier principle of potentiometer, electric field intensity electric potential and coulombs law",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] convert Galvanometer to ammeter and voltmeter ii] state the principle of potentiometer, Iii] differentiate between electric field intensity and electric potential; Iv] solve simple problems on electric field intensity and electric potential v] state  coulombs law and solve related questions"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students’ as a class discuss  the nature of field around a wire carrying electric current Ii] The students go  online  for more info on electric field"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual resources I] Galvanometer Ammeter voltmeter Ii] connecting wires Iii] potentiometer iv] battery   B Web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Electrolysis electrical conduction through liquids and gases, electrolytes and non-electrolytes, faraday’s laws of electrolysis and application",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] determine the conditions under which liquids and gases conduct electricity Ii] investigate the behavior of change carriers in liquids and gases Iii] state faraday’s law of electrolysis and its application; Iv] solve related questions on faraday’s law"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small groups demonstrate the conduction of electricity through liquids and gases Ii] The students as a clas distinguish between electrolytes and non-electrolyte Iii] The students go online for more info on electrolysis"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio visual Resources I] dilute H"
+        },
+        {
+          "id": "2",
+          "value": " Ii Ammeter Rheostat Iii] battery Iv] connecting wires V] voltmeter (copper plates) B web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Electro magnetic waves and capacitance",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] distinguish between electromagnetic waves and mechanical waves; Ii] state some uses of electromagnetic waves and their sources Iii] compare and contrast in terms of frequency and wavelength , six radiations in the electromagnet spectrum"
+        },
+        {
+          "id": "2",
+          "value": "[iv] distinguish between capacitance and capacitor, (v] state types of capacitors and their applications; V] determine the energy stored in a capacitor, Vii] calculate the equivalent capacitance for series and parallel arrangement of capacitor"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students  are provided with copper wires, iron rods and battery to create electromagnets Ii] The students in small groups discuss the various types of electromagnet waves Iii] the students go online for more info  on electromagnetic waves"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual resources I] different types of capacitors Ii] battery cell Iii] connecting wires Iv] zero Galvanometer v] metal plates vi] insulators   B web Resources   https:en.m.wikipedia.org/wikielectromegnetic+waves"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "Mid Term Break"
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Gravitational field Newton’s law of universal gravitation ‘G’ as a universal constant , keeper’s law , solar system satellites and escape velocity",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] state Newton’s law of Universal Gravitation Ii] calculate the gravitational force between two masses or planets Iii] relate Kepler’s laws to the motion of the solar systems, Iv] distinguish between Natural and Artificial satellites v] discuss how artificial satellite are launched vi] describe the uses of satellites; vii] use the inverse square law to calculate the escape velocity of an object from the earth’s gravitational field"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students drop several objects simultaneously and study the rates at which they fail  to the ground  Ii] The students in small groups perform experiment to verify the Newton’s law of universal gravitation Iii] students go online for more info on gravitational field"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources Stone, paper, biro etc B web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Rockets and satellite component part of Rockets and Satellites, functions of Rockets",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] describe the component parts and the functions of the rockets and satellites"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss rockets and satellites Ii] The students go online for more info rockets and"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "B web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Energy and society",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] identify the sources of energy Ii] distinguish between renewable and non-renewable sources of energy Iii] discuss the uses and importance of energy in development of society [v] explain the impact/effect of energy usage on the environment V] identify energy sources that are environmentally friendly and those that are hazardous to the environment and conservation of energy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class compare and contrast renewable and non-renewable energy Ii] the students in small groups justify the importance enrgy in the development of societies Iii] the students go online for more info on  energy and society"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources I] water Ii] sun Iii] coal. Oil and natural gas Iv] sand (glass) V] charts showing sources and methods of energy utilization and conversion   B web Resources https://physics .info https:wikipedia.org   Khan Academy video (energy and society)"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "Magnet and magnetic field",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] define concept of magnetic field around a bar magnet; Ii] distinguish between temporary and permanent magnet; Iii] discuss methods of making magnet as well as the methods of demagnetization v] establish the relationship between magnetic force and the motion of a charge in a magnetic field Vi] explain terms used in magnetism [a] angle of declination [b] angle of dip [c] neutral point"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": " I] The students in small groups are provided with bar magnets and into filling to evaluate the behavior of the poles of the magnets as well as the field patterns Ii] The students go online for more info on magnetic and magnetic field"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual Resources I] bar magnet Ii] iron filling Iii] solenoid Iv] wire V] battery Vi] source of electricity   B Web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "_id": "13",
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS3",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]
+  

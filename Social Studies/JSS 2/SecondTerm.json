@@ -1,0 +1,1081 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Characteristics of different group behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Positive group behaviors are constructive, while negative group behaviors are destructive."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides the students to explain the positive and negative group behaviors."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participates in the guided explanation in the class."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Benefits of positive group behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Companionship, survival and security, application and status, power and control, and achievement."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning and consequences of drug abuse and harmful substances; meaning of drug and drug abused."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Drug: any natural substance other than food or artificially made chemical which is used as a medicine to treat or prevent diseases. Drug or substance abuse is the illicit use of any substance or drug in a way that is not approved or supervised by a medical practitioner."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Uses relevant charts to explain the meaning of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Types of drugs that are usually abused."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "-Stimulants or depressants: tobacco, tea, coffee, kola nuts, amphetamines and cocaine. -Hallucinogens: cannabis (Indian hemp), mescaline and phencyclidine."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Uses real kola nut or tobacco to illustrate the types. Also, Indian hemp to illustrate examples of hallucinogens."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Pays adequate attention."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Forms of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Use of illegal drugs, illegal use of legal drugs, overdosage or underdosage of legal drugs etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Breaks the class into groups for purpose of discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Methods of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "By eating, drinking, inhaling/sniffing, injecting and rubbing."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Uses snuff and paracetamol to illustrate the example."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate actively."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Causes of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Self-medication, ignorance, isolation and loneliness, criminal intention."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides the students to list the causes of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Engage in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8i",
+    "Weeks": "8i",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of drug abuse on the individual."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Mental disorder, diseases, sleeplessness, addiction, poor attitude to work, shame or disgrace, death, etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Uses a video clip to explain the consequences of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Watch with attention."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8ii",
+    "Weeks": "8ii",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of drug abuse on the community."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Social vices, increase in the rate of school dropouts, resource wastage, reduction in community population."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Gets a guest speaker to explain the consequences of drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the guest speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9i",
+    "Weeks": "9i",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of drug abuse on the nation internationally."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Loss of work force, increase in drug-related health problems, heavy investments on treatment on drug abusers, increase in crime."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Gets a guest speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the guest speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9ii",
+    "Weeks": "9ii",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of drug abuse on the international community."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Poor international relation, social justice."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Solutions to drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Choosing good friends, forming drug free clubs, constructive use of time, acquisition of coping skills (i.e. assertiveness, refusal or resistance skills, communication skills, decision making skills), education on drug use in school."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Shows video clips of ways to discourage drug abuse."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Watch the video."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

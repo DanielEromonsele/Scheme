@@ -1,0 +1,1000 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Readiness Assessment Test/last term’s work Test Revision"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: (I) recall most of the concepts taught last term"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students in pairs discuss the topics that were taught that were taught last term -students as a class provide answers to the questions that will be given"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "-textbooks Charts Real life objects"
+      },
+      {
+        "id": "2",
+        "value": "Charts Real life objects"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Credit (I) meaning of credit"
+      },
+      {
+        "id": "2",
+        "value": " (II) sources of credit e.g. loan Overdraft , mortage, etc "
+      },
+      {
+        "id": "3",
+        "value": "(III) functions of credit to both buyers and sellers"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -define credit, mention and discuss sources of credit to buyers -discuss the link between sources of credit and credit instruments -discuss the merits and demerits of credits to both buyers and sellers"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students, as a class, give the meaning of credit -students, in pairs discuss various sources of credit -students in small groups , dramatize buying and selling on credit -students, in small group, design and prepare samples of source of credit and present in the class on a play card"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "communication -Leadership and personal development -critical thinking and problem solving -digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Textbooks Charts of various credits instruments Play card"
+      },
+      {
+        "id": "2",
+        "value": "http://investopedia.com/terms/credit.asp"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Trade association (I) meaning of trade association"
+      },
+      {
+        "id": "2",
+        "value": "(II) aims and functions of trade association"
+      },
+      {
+        "id": "3",
+        "value": "(III) chambers of commerce Meaning and functions"
+      },
+      {
+        "id": "4",
+        "value": ""
+      },
+      {
+        "id": "5",
+        "value": ""
+      },
+      {
+        "id": "6",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -define trade association -highlight the aims and the functions of trade association; Define chambers of commerce and discuss its functions"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students as a class, define trade association -students, in pairs, discuss the functions of trade association -students, as a class discuss the meaning of chambers of commerce and its functions -students visit chamber of commerce office for better understanding of their functions and performance"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "communication -Leadership and personal development -critical thinking and problem solving -digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Textbooks Charts of different trade association Picture of chambers of commerce building"
+      },
+      {
+        "id": "2",
+        "value": "http://www.google.com/  execution  to Nigerian stock exchange house (NSE) "
+      },
+      {
+        "id": "3",
+        "value": "https://pa.com/"
+      },
+      {
+        "id": "4",
+        "value": "http://www.accountlearning.com/trade-assocaition"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Other forms of trade association"
+      },
+      {
+        "id": "2",
+        "value": "(I) consortium, cartel, merger , syndicate, price rings, etc."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -discuss other forms of trade association and give practical examples Mention and describe types of merger; Justify the reason why companies merge -discuss the criticisms against merger"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students in pairs discuss other forms of trade association such as consortium, carte, syndicate -students in groups discuss reasons why firms merge students in groups discuss the criticisms annalist merger "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Textbooks Pictures of organizations that have merged"
+      },
+      {
+        "id": "2",
+        "value": "http://www.pasnowingw.com/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Insurance"
+      },
+      {
+        "id": "2",
+        "value": "(I) definition of insurance"
+      },
+      {
+        "id": "3",
+        "value": "(II) importance of insurance to individuals and business "
+      },
+      {
+        "id": "4",
+        "value": "(III) basic principles of insurance Iv] types of risk e.g. insurable and non insurable risk, speculative risk, etc"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -list and discuss various insurance -distinguish between underwriter -describe terminologies in insurance is so called; Differentiate between endowment policy and whole life policy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students in pairs discuss the various types of insurance -students in pairs discuss the terminologies of insurance -students , in small groups , discuss the endowment policy and whole life policy insurance and share with the class"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Textbook -chart showing different types of insurance policies -insurance documents"
+      },
+      {
+        "id": "2",
+        "value": "http://www.study.com/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid Term Break"
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consumer protection "
+      },
+      {
+        "id": "2",
+        "value": "(I) meaning of consumers protection"
+      },
+      {
+        "id": "3",
+        "value": " (II) means of consumers protection"
+      },
+      {
+        "id": "4",
+        "value": "(III) reasons for consumers protection"
+      },
+      {
+        "id": "5",
+        "value": "(IV) right of consumers"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -define consumers projection -give justifications for consumers protection; -state the rights of consumers -discuss various means by which consumers can be protected"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students, as a class give the definition of consumer protection -students, in pairs discuss reasons why consumers must be protected -students in small groups discuss various means by which consumers can be protected"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Textbooks Pictures of offices of consumer protection agencies"
+      },
+      {
+        "id": "2",
+        "value": "http://www.thegov.ng/"
+      },
+      {
+        "id": "3",
+        "value": "http://www.wikipedia/"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consumer protection (contd)"
+      },
+      {
+        "id": "2",
+        "value": "(I) agencies responsible for consumers protection"
+      },
+      {
+        "id": "3",
+        "value": "(II) government legislations that protect consumers"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -list and discuss agencies that protect consumers; Enumerate and discuss various legislations that protect consumers"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students, in pairs discuss agencies that protect consumers -students in small groups, discuss various legislations that protect consumers -students can visit some of the government agencies that protect consumers"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving -Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "-textbook Picture of offices of consumer protection agencies"
+      },
+      {
+        "id": "2",
+        "value": "http://wwwstudy.com/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Transportation"
+      },
+      {
+        "id": "2",
+        "value": " (I) meaning and importation"
+      },
+      {
+        "id": "3",
+        "value": "(II) forms of transportation Land, air, pipeline, etc."
+      },
+      {
+        "id": "4",
+        "value": "(III) advantages and disadvantaged of each form of transportation "
+      },
+      {
+        "id": "5",
+        "value": "(IV) documents used in transportation"
+      },
+      {
+        "id": "6",
+        "value": "(V) factors to be considered in choosing means of transportation"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -define transportation; Discuss the importance of transportation Mention different forms of transportation and discuss the advantages and disadvantages of each -list and explain factors to be considered in the choice of a means of transportation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students as a class define transportation and state its importance -students, in pairs discuss the various forms of transportation -students in pairs discuss factors to be considered in the choice of means of transportation -students, in small groups, create different types of documents used in transportation (land, air, rail, pipeline) etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving -Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "-textbooks -charts showing documents used in transportation"
+      },
+      {
+        "id": "2",
+        "value": "http://www.expert.com/"
+      },
+      {
+        "id": "3",
+        "value": "http://www.iex.com/"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Commerce",
+    "Class": "SS2",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

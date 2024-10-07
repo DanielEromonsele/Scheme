@@ -1,0 +1,981 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "CENTRAL PROCESSING UNIT(CPU) - Arithmetic and logic unit and control unit -Function of ALU and Control unit ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Teacher leads students to list CPU components e.g. ALU, Control unit, etc. -States functions of ALU and control unit e.g. explains ALU-accept and executes any arithmetic and logic operations while control unit controls all operations inputted to the system.  "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "MEMORY UNIT - Types of memory -Description of: i) Primary memory ii) Secondary memory",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to list types of memory e.g. i) Primary memory(main memory) ii) Secondary memory(auxiliary) -Description of: primary memory i) Random access memory(RAM) ii) Read only memory(ROM) Secondary memory: Flash drive, hard disk, compact disk(CD), digital video disk (DVD) "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "MEMORY UNIT - Differences between primary and secondary memory",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to display auxiliary storage devices as secondary storage e.g. floppy disk, flash drive, compact disk, etc. -Units of storage: Bits, nibble, bytes, kilobytes(KB), megabytes(MB), gigabytes,(GB), terabytes (TB)"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "MEMORY UNIT - (i) Conversion from one unit to the other (ii) Comparison of auxiliary storage devices.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to compare presently available storage devices(size, memory capacity) e.g. size, speed, technology(optical, magnetic and semiconductor) – Teacher leads students to carry one simple arithmetic on conversion from one unit to another. E.g. 1Kilobyte (KB)=1000 bytes etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "LOGIC CIRCUITS - Definition of logic gate -Types of logic gates",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to define logic gate -Guides students to list types of logic gates e.g. AND, NOT, OR, by the use of drawing charts."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "LOGIC CIRCUITS - Symbols of each logic gate -Input and output signals for AND, NOT, OR gates.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Displays symbols of logic gates on a chart – Teacher guides students to identify the signals in each gate symbol."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "LOGIC CIRCUITS - Truth table construction for AND, NOT, OR -Equation for: AND, NOT,OR gates.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Teacher guides students to construct truth table for gate -Write logic equations, etc"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "LOGIC CIRCUITS - Uses of logic gates -Logic circuits II(AL)Alternative logic gates)",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to state the differences among the three gates -As building blocks for hardware/electronic components. -Description of alternative logic gates. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "ALTERNATIVE LOGIC GATES II - Types of alternative logic gates -Symbols of each logic gate -Input/output signals",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to list types of alternative logic gates, e.g. NAND, NOR, etc. -Displays symbols of alternative logic gates on a chart -Guides students to identify the signals in each gate symbol, i.e. NAND, NOR."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "ALTERNATIVE LOGIC GATE II - Truth table construction -Equation for: NAND, NOR gates -Uses of logic gates",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher guides students to construct truth table for each gate: i.e. NAND, NOR -Write a logic equation for each -Uses of logic gates: As building blocks for hardware or electronic components etc -Construction of simple comparators using NOR/NAND, XOR gates "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "COMPUTER DATA CONVERSION - Definition -Types of registers -Function of each register and main memory",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to define: i) Register ii) Address iii) Business – Teacher guides students to list types of MDR, CIR, and SQR. -State the functions of each register and main memory."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "COMPUTER DATA CONVERSION - Differences between register and main memory -Outline steps -Factors affecting speed data transfer",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher guides students to identify differences between register and main memory -Outline steps in data conversion e.g. ‘data-fetch-execute’ cycle in a simple form. -States factors affecting data transfer: BUS-Speed, BUS-Width, etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "_id": "14",
+    "Weeks": "14",
+    "Subject": "Computer Studies",
+    "Class": "SS2",
+    "Term": "first Term",
+    "Topics": "",
+    "Status": "EXAMINATION"
+  }
+]

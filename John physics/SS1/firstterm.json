@@ -1,0 +1,327 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Introduction to physics, Definition, importance of physics, branches of physics , scholars and achievement in the field of physics",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] analyse physics as a discipline with emphasis  on its importance in different branches; Ii] investigate the achievements in the field of physics"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] with a view to defining physics the students as a class rub their biros against their heads and use it to pick pieces of paper Ii] the students in small groups brainstorm and provide the importance of physics to mankind Iii] The students go online to research on the achievements in the fields of physics   https: physics about.com/achievements* in *physics "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I] critical thinking & problem solving Ii] communication & collaboration, Iii] leadership & personal development Iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio Visual resources a) chart comparing the branches and application of physical b) We resources "
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Measurement of length, mass, weight, time and electric current, fundamental derived and supplementary quantities and units Dimensional analysis",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] explain the term “measurement” and identify its importance Ii] distinguish between fundamental derived quantitative and their units Iii] analyse the term ‘dimension’ with emphasis on its application "
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I]The students are provides with several objects to measure their lengths ! weights etc and then provide a definition of measurement Ii] the students in small groups distinguish  between the types of physical quantities and units Iii] The students as a class express various quantities in terms of their dimensions Iv] students go online to source for information on physical quantities and units"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I] critical thinking & problem solving Ii] communication Iii] leadership & personal development Iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio visual resources I] Meter rule Ii] measuring tapes Iii] spring balance Iv] chemical /beam Lever balance v] vernier calipers  screw guage (vi) stopwatch/clock (viii) mercury in glass thermometer (ix) Ammeter Voltmeter Voltimeter Galvanometer B] Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Position, distance and displacement",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (1) describe the position of body relative to another body; (ii) Distinguish  between distance and displacement"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are allowed to change positions within few seconds and then provide definitions for distance and displacement Ii] The students in small groups distinguish between distance and displacement Iii] The students go online to get more into on distance and displacement "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication Iii] leadership & personal development Iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "Audio visual resources I] A pair of compasses Ii] A string and protractor Iii] Tapes Iv] meter rule b. Web Resources   "
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Concept of direction: scalars and vectors",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] distinguish between scalar and vector quantities"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class compare and contract scalars and vectors Ii] the students go online for more info on scalar and vectors   "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication Iii] leadership & personal development Iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "a. Audio visual resources i] a chart listing scalar and vector quantities with their symbols and units b. We resources "
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Time, concept of Time and ways of measuring time i.e. old methods and modern methods",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] distinguish between old ways and modern ways of measuring time"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students in small groups compare the old and new methods of measuring time   Ii] The students go online to get more info on the concept of tome  htts://physics.ifo/concept+of+time "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "Ii] communication & collaboration Iii] leadership & personal development Iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "a. Audio visual resources i] Water clock ii] heart beat iii] pendulum iv] stop clock/watch v] water B] Web resources   "
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Motion in Nature, definition, types, causes, practical examples and effects",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i)Analyse the concept of motion in a given environment (ii) distinguish between the types of motion random rotational, oscillatory and translation motion Iii) investigate the cause of motion; Iv] construct a device system capable of exemplifying any of the types of motion"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are allowed to identify non –stationary objects in their vicinity and come up with the definitions of motion ii.The students in small groups to make presentations on the types of motion iii] Students go online to get more info on the types and causes of motion. "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication Iii] leadership & personal development Iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual resources [i] rotating fan Ii] toy car Iii] simple pendulum Iv] loaded spiral spring V] wooden block b. Web resources"
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "Mid Term Break"
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "",
+      "Status":"Mid Term Break"
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Speed, velocity, acceleration: Distance-time , graph, density, relative density, Archimedes principle, laws of floatation, upthrust",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: i) differentiate between the following terms (a) speed, (b) velocity (c) acceleration (d) uniform /non-uniform acceleration uniform/non uniform velocity  (e) plot a distance time graph and deduce acceleration from a velocity –time graph (f)  differentiate between density and relative density (g) state the Archimedes principle and laws of floatation (h) experiment to justify the Archimedes principle (i) analyse up trust and density   "
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "1] The students in small groups compare and contrast speed, velocity and acceleration Ii] The students go online to get more info on speed, velocity and acceleration as well as the Archimedes principle  "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i) communication & collaboration ii] Leadership & personal development iii] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. Audio visual resources (i) stop watch/clock (ii) meter rule (iii) graph sheets (iv) pair of scissors (v) water/kerosene vi) conical flash /beaker vii) retort stand B. web resources   "
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Pressure: Definition, Formula and practical application Viscosity : definition and effects, terminal velocity and its experimental verification",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] Define pressure and deduce its formula Ii] investigate its application using empty can Iii] analyze viscosity and compare some viscous liquids; (iv) experiment to verify terminal velocity"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are provided with high heels and flat heels shoes to walk on sandy soil and then give definitions of pressure Ii] The students in small  groups compare and contrast pressure and viscosity Iii] The students do online for pressure and viscosity   "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I] Critical thinking and problem solving    Ii] communication & collaboration iii] Leadership & personal development iv] digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. Audio visual resources i. empty can ii] heat iii] syringe iv] forting pump v] engine oil, palm oil, Grease water , kerosene B. web resources"
+        }
+      ]
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "Project",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "The students in small groups construct devices of highest density than water yet able to float comfortably on water"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I] Critical thinking and problem solving    Ii] communication & collaboration iii] Leadership & personal development  "
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "_id": "13",
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]
+  

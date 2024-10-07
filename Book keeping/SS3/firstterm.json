@@ -1,0 +1,957 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "Students Readiness"
+      },
+      {
+        "id": "2",
+        "value": "Assessment Test."
+      },
+      {
+        "id": "3",
+        "value": "Revision of last"
+      },
+      {
+        "id": "4",
+        "value": "term’s tpoics "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "WAS&amp;CE and NECO Past questions, Marker board."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "BUSINESS ORGANISAT1ONS i. Meaning Business: Organization Types of organization."
+      },
+      {
+        "id": "2",
+        "value": "ii. Features of each"
+      },
+      {
+        "id": "3",
+        "value": "Type of Business Organization"
+      },
+      {
+        "id": "4",
+        "value": "iii, Source of capital."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should beable to"
+      },
+      {
+        "id": "2",
+        "value": "1. describe various"
+      },
+      {
+        "id": "3",
+        "value": "– type of business organisation and the features"
+      },
+      {
+        "id": "4",
+        "value": "ii. identify the various sources of capital to each business organisation"
+      },
+      {
+        "id": "4",
+        "value": "iii. explain the advantages and disadvantages."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, discuss the meaning of business organisation."
+      },
+      {
+        "id": "2",
+        "value": "Students in groups, state the features of business organisation."
+      },
+      {
+        "id": "3",
+        "value": "Students in pairs mention the advantages and disadvantages of each type of business organisation."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "3",
+        "value": "Creativity and imagination."
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash cards Visit to a business organization."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.smallbusines.chron.com"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "BUSINESS ORGANISATION"
+      },
+      {
+        "id": "2",
+        "value": "i.Advantage and Disadvantage of each types of business organization."
+      },
+      {
+        "id": "3",
+        "value": "ii. Identify and Explanation of each types of capital"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "1. Explain the advantages and disadvantages of each type of business orgarization "
+      },
+      {
+        "id": "3",
+        "value": "ii. explain the objectives of Co- operative Societies."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class distinguishes between various types of business organisation with relevant examples.Students in small, groups, explain the objective bf Students in small, groups, explain the objective bf societies. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving."
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESORCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash cards business"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.smallbusines.chron.com"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "PURCHASE OF BUSINESS"
+      },
+      {
+        "id": "2",
+        "value": "i. Reason, terminologies and preparation of account related to purchase and sale of business."
+      },
+      {
+        "id": "3",
+        "value": "ii. Working exercise"
+      },
+      {
+        "id": "4",
+        "value": "iii. Preparation of Departmental and Simple Branch Account."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end o the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "1. give reasons for.ale and purchase of existing business."
+      },
+      {
+        "id": "3",
+        "value": "ii. describe terms related to sale and purchase of business. "
+      },
+      {
+        "id": "4",
+        "value": "iii. prepare accounts relating to the sale and purchase of a business"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "i. Students as a class, write out reason for sale and purchase of existing business."
+      },
+      {
+        "id": "2",
+        "value": "Students in groups, itemized, items related to sales and purchases&nbsp; business. Preparation of sales and purchases account of a business organisation "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving.Communication and Collaboration "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash cards Sales and Purchases documents."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": " www..passnownow.com"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "DEPARTMENT AND BRANCH ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": " i. Importance and difference ii. Preparation of Department and Simple Branch Account"
+      },
+      {
+        "id": "3",
+        "value": "ii. Preparation of Department and Simple Branch Account"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end o the lesson, students should be able to: describe departmental and branch accounts."
+      },
+      {
+        "id": "2",
+        "value": "ii..explain the need for departmental account."
+      },
+      {
+        "id": "3",
+        "value": "iii. prepare departmental account"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups take a visit to a departmental store in their choice Students in groups, brainstorm on the need for departmental account"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Communication and Collaboration"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash card sales and purchases documents."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.yourarticlelibrary.com"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "HIRE PURCHASE"
+      },
+      {
+        "id": "2",
+        "value": "i. Meaning and preparation of account on thesellers/hirer book "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the -lesson, students should be able to;."
+      },
+      {
+        "id": "2",
+        "value": "i. define the departmental and branch account."
+      },
+      {
+        "id": "3",
+        "value": "  ii. describe the operation of hire purchase and installment payments. "
+      },
+      {
+        "id": "4",
+        "value": "iii. prepare entries in the respective books of the seller and the hirer"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class. b brainstorm on the operation and importance of hire -purchases. Students in small groups discuss on hire purchases and install mental payment transactions. Students as a class, prepare hire purchase and installment payment account.  "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving.Communication and Collaboration "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESORCES"
+      },
+      {
+        "id": "2",
+        "value": "Real object that can be purchase on hire purchase agreement such as motocycle,tricycle,laptop etc.charts"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.accaglobal.com"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "PRODUCT AND SERVICE MARKETING"
+      },
+      {
+        "id": "2",
+        "value": "i. Meaning of product and services"
+      },
+      {
+        "id": "3",
+        "value": "ii. Types of product, Types of Services. "
+      },
+      {
+        "id": "4",
+        "value": "iii. Difference between product and service. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "i. differentiate between products and services."
+      },
+      {
+        "id": "3",
+        "value": "ii. Explain marketing."
+      },
+      {
+        "id": "4",
+        "value": "iii. describe various types of product and services"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Student as a class state the difference between products and services.Students as a class discuss on marketing.Students in small groups, list various method of promoting products and services. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving..Communication and collaboration. "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Flash cards Excursion to trade.fairs. "
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.termscompare.com"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "REVISION"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": "EXAMINATION"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "first term",
+    "tpoics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

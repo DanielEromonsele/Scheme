@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "REVISION / WELCOME TEST"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BUILDING MATERIAL & USES"
+      },
+      {
+        "id": "2",
+        "value": "Common building materials"
+      },
+      {
+        "id": "3",
+        "value": "Uses of the building materials"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "List different types of building materials"
+      },
+      {
+        "id": "3",
+        "value": "Outline the uses of building materials."
+      },
+      {
+        "id": "4",
+        "value": "Differentiate the various types of building material used in their locality."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class identify various types of building."
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs discuss the uses of the various types of building materials."
+      },
+      {
+        "id": "3",
+        "value": "Students in small groups discuss the usefulness of different building material used in their locality."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Specimen of granite, cement sand Crete block, sand etc."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "DRAWING INSTRUMENTS AND MATERIALS"
+      },
+      {
+        "id": "2",
+        "value": "Uses of drawing instruments and materials"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Identify and outline drawing instrument and materials"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class examine, name and describe drawing instrument and materials."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving, communication and collaboration."
+      },
+      {
+        "id": "2",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Specimens of the various drawing instrument and materials to be displayed."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Drawing instruments and materials (contd.)"
+      },
+      {
+        "id": "2",
+        "value": "Basic techniques of handling drawing instruments"
+      },
+      {
+        "id": "3",
+        "value": "Care of drawing instrument"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Demonstrate correct techniques for handling drawing instruments"
+      },
+      {
+        "id": "3",
+        "value": "Practice the care for drawing instruments."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class watch teacher’s demonstration"
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs practice appropriate method of caring for the various drawing instrument."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "communication and collaboration"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Chart showing some basic technique of handling drawing instrument."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BOARD PRACTICE"
+      },
+      {
+        "id": "2",
+        "value": "Setting out of drawing paper on the drawing board."
+      },
+      {
+        "id": "3",
+        "value": "Sharpening of drawing pencil to conical point and knife edge"
+      },
+      {
+        "id": "4",
+        "value": "Laying out of the drawing paper by using the Tee Square and Sets square."
+      },
+      {
+        "id": "5",
+        "value": "Using either of Tee Square and sets square to draw border lines, parallel lines, vertical lines and title block on the drawing paper."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Set out the drawing paper on the board."
+      },
+      {
+        "id": "3",
+        "value": "Correctly sharpened the drawing pencil to a conical point and knife-edge."
+      },
+      {
+        "id": "4",
+        "value": "Draw border, horizontal and vertical lines"
+      },
+      {
+        "id": "5",
+        "value": "Appropriately draw the title block."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " Students as a class watch teacher’s demonstration."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication."
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development."
+      },
+      {
+        "id": "4",
+        "value": "Digital Literacy."
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "LEARNING RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "3",
+        "value": "Picture showing mounting techniques of laying a drawing sheet."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BOARD PRACTICE (LETTERING)"
+      },
+      {
+        "id": "2",
+        "value": "Freehand writing of alphabets and numerals."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Write legible freehand letters and numbers"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-Students as a class watch teacher practical demonstration"
+      },
+      {
+        "id": "2",
+        "value": "-Individual Students practice freehand letters and numbers."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communicate"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Video clips showing how to write lettering."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "Picture showing how lettering is done"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "CONTINUOUS ASSESSMENT/MID term BREAK"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "FREEHAND SKETCHING"
+      },
+      {
+        "id": "2",
+        "value": "Definition, techniques of drawing straight lines, curves, circles and irregular curves."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Make neat freehand sketching of circle, curves, irregular, curves etc."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in pairs practice freehand sketches"
+      },
+      {
+        "id": "2",
+        "value": "Students as a class Watch teachers demonstration"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VIUAL RECOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Specimens of instruments and materials are displayed"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "classhall.com"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "FREEHAND SKETCHING OF HAND TOOL: WOODWORK, METAL WORK"
+      },
+      {
+        "id": "2",
+        "value": "Sketching of simple workshop hand tools."
+      },
+      {
+        "id": "3",
+        "value": "WORK BENCH FITTINGS AND APPLIANCES"
+      },
+      {
+        "id": "4",
+        "value": "• List of workbench fittings and appliances"
+      },
+      {
+        "id": "5",
+        "value": "• Uses of each"
+      },
+      {
+        "id": "6",
+        "value": "• Sketches of work bench fittings and appliances."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Draw simple workshop hand tools."
+      },
+      {
+        "id": "3",
+        "value": "• Highlight the workbench fittings and appliances."
+      },
+      {
+        "id": "4",
+        "value": "Outline the use of workbench."
+      },
+      {
+        "id": "5",
+        "value": "Outline the uses of workbench fittings and appliance."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class watch teachers Demonstration"
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs practice drawing of the tools"
+      },
+      {
+        "id": "3",
+        "value": "Students as a class visit a workshop"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Creativity and Imagination,"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "3",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Specimen of the various tools displayed."
+      },
+      {
+        "id": "3",
+        "value": "Video clips of various work bench fitting and appliances and its application."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "passnownow.com "
+      },
+      {
+        "id": "6",
+        "value": "classhall.com"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "WOOD WORK HAND TOOLS, MEASURING, MARKOUT & BORING TOOLS"
+      },
+      {
+        "id": "2",
+        "value": "Measuring tools and their uses"
+      },
+      {
+        "id": "3",
+        "value": "Marking out tools and their uses"
+      },
+      {
+        "id": "4",
+        "value": "• Boring tools and their uses"
+      },
+      {
+        "id": "5",
+        "value": "Images of measuring, marking out and boring tools."
+      },
+      {
+        "id": "6",
+        "value": "WOODWORK HAND TOOLS (CONTD). PARING & CUTTING TOOLS"
+      },
+      {
+        "id": "7",
+        "value": "Paring and cutting tools"
+      },
+      {
+        "id": "8",
+        "value": "Holding devices"
+      },
+      {
+        "id": "9",
+        "value": "Their uses"
+      },
+      {
+        "id": "10",
+        "value": "Their image"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, by the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "State the uses of paring, cutting and holding devices."
+      },
+      {
+        "id": "3",
+        "value": "Identify woodwork paring and cutting tools."
+      },
+      {
+        "id": "4",
+        "value": "Outline the woodwork hand tools."
+      },
+      {
+        "id": "5",
+        "value": "Identify woodwork, measuring, marking out and boring tools"
+      },
+      {
+        "id": "6",
+        "value": "Demonstrate the use measuring, marking out and boring tools."
+      },
+      {
+        "id": "7",
+        "value": "Sketch each of the hand tools"
+      },
+      {
+        "id": "8",
+        "value": "Highlight woodwork holding devices."
+      },
+      {
+        "id": "9",
+        "value": " State the uses of the tools."
+      },
+      {
+        "id": "10",
+        "value": "Sketch the tools."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " -Students in small groups Identify woodwork hand tools."
+      },
+      {
+        "id": "2",
+        "value": "-Students in pairs demonstrate the use of measuring, marking out and boring tools."
+      },
+      {
+        "id": "3",
+        "value": "-Students as a class sketch the hand tools."
+      },
+      {
+        "id": "4",
+        "value": "-Students as a class state the uses of paring, cutting and holding devices."
+      },
+      {
+        "id": "5",
+        "value": "-Students in pairs identify woodwork paring and cutting tools."
+      },
+      {
+        "id": "6",
+        "value": "-Students in small groups highlight woodwork holding devices."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving,"
+      },
+      {
+        "id": "2",
+        "value": "Creativity and Imagination"
+      },
+      {
+        "id": "3",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "4",
+        "value": "Leadership and Personal development."
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Display specimen of the tools involved"
+      },
+      {
+        "id": "3",
+        "value": "wagnermeters.com"
+      },
+      {
+        "id": "4",
+        "value": " Posters showing the various tools."
+      },
+      {
+        "id": "5",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "6",
+        "value": "wagnermeters.com"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

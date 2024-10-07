@@ -1,0 +1,389 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Concept of position, distance and displacement in relation to X –v plane",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to:  Refuse the Cartesian system to locate the position of objective on the u-v plane"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class compare and contrast position distance and displacement Ii] the students go online for more info on position, distance and displacement"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources I] Graph paper & grap board Ii] Ruler, pencil and marker B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Scalar and vector Quantities Vector representation, unit vectors, addition of scalars and vectors, resolution of vectors and Resultant",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] analyse the term resultant of vectors’ Ii] resolve a vector with respect to a given direction Iii] resolve any number of vectors into two components at right angle to each other using analytical and graphical methods"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small groups compare and contrast scalar and vector quantities Ii] The students go online for more info on scalar and vector quantities"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources (i] force boards pulleys or nails Ii] standard weight Iii] thread, ruler protractor, B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Derivation of equations of linear motion: motion under gravity, calculation using these equations",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] Deduce the three equations of motion from the velocity –time graph with initial velocity and constant acceleration;  Ii] define the terms used in the equations of motion  "
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "1] the students as a class are provided with the velocity, time graph to deduce the equations of motion Ii] The students in small groups throw objects upward and watch them fall to the group and justify the influence of gravity on (iii] apply and interpret the equations of motion in simple problems"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy Object on the earth surface Iii] The students go online for more info on the equations of motion"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources I] graph board Ii] marker Iii] meter rule B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Projectile and its application",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] to analyse the concept of projectile motion Ii] practically exemplify projectile motion, and objects that can be considered a projectile in sports and warfare;  Iii] distinguish between the following terms Time of Flight, maximum Height range and deduce their expressions V] solve simple problems involving range, maximum, height and time of right"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students on the playground  throw stories  at various angles to the horizontal and then provide definitions for projectile Ii] The students in small groups discuss the applications of projectiles Iii] The students go online for more info on projectile motion"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio visual Resources I] rubber ball Ii] catapult Iii] meter rule Iv] small pebbles V] stop clock/ watch Vi] tennis, ball, javelin, discuss and shot put B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Newton’s law of Motion conservation of linear momentum and conservation of energy collisions",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] differentiate between momentum and linear, momentum of a body; Ii] establish a relationship between impulse and momentum;"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small groups discuss and justify the Newton’s laws of motion Ii] By use of colliding objects the students demonstrate the conservation of linear momentum Iii] The students go"
+        },
+        {
+          "id":"2",
+          "valu": "(iii] state and analyse the Newton’s law of motion as well as the linertia mass; Iv] state and analyse the principle of conservation of linear momentum; v] solve simple problems based on Newton’s law of motion and the principle of conservation of linear momentum vi] differentiate the various types of collision with examples"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id":"2",
+          "value": "Online for more info on Newton’s laws and linear momentum"
+        }
+
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual Resources (i] Trolleys (ii] ticker timer (iii] small oranges Iv] chart showing Rocket propulsion B Web Resources"
+        },
+        {
+          "id":"1",
+          "value": "Ks.org/wiki/conservation+of+linear+momentum"
+
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Equilibrium of forces, concepts of Equilibrium, centre of gravity and its effects on stability, types of equilibrium and conditions for equilibrium of a body , moment and moment of force, principle  of moment and its calculations, couple and moment of couple with its calculation",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] analyse the concept of equilibrium Ii] distinguish between static  and dynamic equilibrium Iii] experiment to determine centre of gravity of objects and how its affect the stability of an object Iii] investigate the types of equilibrium Iv] experimentally determine the conditions that must be satisfied for a body to be in equilibrium  under the action of parallel and non-parallel forces, v] explain moment and moment of forces Vi] solve simple problems on moment of forces and moment of a couple"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class demonstrate equilibrium by use of lever arm balance and seesaw Ii] The students in small groups are provides with the necessary materials to determine the centre of  gravity of objects Iii] The students go online for more info on the concept of equilibrium,"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio visual Resources (i] meter –rule, Thread, protractor Ii] standard weight Iii] standard weight Iii] knife edge iv] funnel v] spring balance vi] Beaker, water, sand and pieces of stone   PhET simulation B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "Mid Term Break"
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Simple Harmonic motion: definition, explanation of simple harmonic motion, displacement, acceleration, period, frequency and amplitude",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] analyse the term ‘simple harmonic motion’ Ii] differentiate between the following terms: (a] displacement (b] Acceleration (c] period [d] frequency (e] amplitude (ii) establish the relationship between (a) linear and angular speed (b) linear acceleration and angular acceleration (c) period and frequency Iv] perform an experiment to show that period T is proportional g(acceleration of free fall due to gravity) "
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] By use of a simple pendulum the students demonstrate simple harmonic motion Ii] The students in small  groups show experimentally that period T is  proportional to gravity) Iii] The students go online for more info on simple harmonic motion"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources (i] simple pendulum Ii] stop watch /clock Iii] bob (iv] spiral spring V] sand, water, beaker [vi] turning forks   Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Simple harmonic motion-energy of simple harmonic motion and forced vibration and  resonance",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I] Deduce the energy transformation of simple pendulum; Ii] calculation of the energy in the system Iii] differentiate between forced vibration and resonance"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class deduce the energy transformation of simple harmonic motion Ii] the students in small groups discuss forces   Vibration and resonance Iii] the students go online for more info on forced vibration and resonance"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual resources I] test-tube Ii] water Iii] sand Iv] glass cylinder   B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Machines: types and examples",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to:  (i] explain the term machine’ and compare its types: Ii] distinguish between the following terms  (a) velocity ratio’ (b) mechanical Advantage or force Ration (c) efficiency and derived the relationship Iii] compare the types of machines, (iv) analyse the conservation of mechanical energy and its applications"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "(i] The students as a class identify machines in their vicinity and come up with the definition of machines Iii] The students go online for more info on machine https:physics info/machine"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] communication & collaboration ii] leadership & personal development iii] Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources (i] lever [ii] pulley Iii] wheel and Axle tong (v)  Crowbar, Claw hammer Vi] Wheel barrow, Scissors etc B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Machines/ calculations and maintenance",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] investigate the uses of machine (ii) describe the repair and maintenance of machines, Iii] investigate the location of dams for producing electricity in Nigeria Iv] solve simple calculations on machine"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "1] The students as a class discuss the maintenance of machines Ii] the students do calculations on machines Iii] the students go online for more info on maintenance of machines"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources I] lubricants (oil, ball bearing and grease) Ii] spanner, pliers, screw driver and hammer B Web Resources "
+        }
+      ]
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "Practical/ project/ Revision",
+      "Status": "REVISION",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "Construction of simple  machines"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "The students in small groups construct simple machines of their choices"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+
+    },
+    {
+      "_id": "13",
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "First Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]
+  

@@ -1,0 +1,379 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "Revision /concept of electricity: electric current,  potential difference and electromotive force, resistance and their units Ohm’s law and its verification  conductors that do not obey Ohm’s lawK",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: I]differentiate between electric current potential difference electromotive force and resistance ii]  State Ohm’s law and explain its verification, iii] distinguish between Ohmic  conductors with examples iv] perform an experiment to establish the relationship between V and 1"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students in small groups  are provided with battery, rheostat , connecting wires, ammeter etc to verify the Ohm’s law experimentally ii] K  students go online  for more info on the ih m’s law"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. Audio visual resources (i] connecting wires Ii] ammeter voltmeter Galvanometer and multimeter Iii] battery Iv] Rheostat V] bulb   B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "Resistors in series and parallel, cells in series, and parallel, calculations. Resistivity and conductivity Factors affecting the electrical resistance of a conductor",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] draw simple electric circle to distinguish between series and paralled connections Ii] solve simple questions  on series and parallel connections Iii] distinguish between resistivity and conductivity Iv] investigate the factors affecting the electrical resistance of a conductor"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students in small groups are provided with resistors, cells and connecting wires to demonstrate series and parallel connection of resistors of resistors as well as of cells Ii] The students go online for more info on resistivity and conductivity"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A. Audio visual resources I] connecting wires Ii] metals of different conductivity Iii] cells/ batter B web resources"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "Electric energy and power, buying electric current, safety devices and detecting faults in current",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] deduce the formula of electrical energy and power Ii] solve simple; problems using the deduced formula; Iii] investigate the commercial unit of electrical energy Iv] solve simple problems on buying /cost"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students as a class discuss the electricity safety devices Ii] the students in small groups demonstrate the application of switches and fuses Iii] The students go online for more info on electric energy"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio visual resources I] electric bills Ii] fuse Iii] switch Iv] wire V] bulb B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "Electricity: Hooke’s law, Tensile stress, Tensile strain and young modules",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] analyse the term electricity (ii] State Hooke’s law Iii] distinguish between the following terms [a] elastic Limited (b) yield point (c) breaking point (d) maximum load )e) tensile strain and tensile train and tensile stress (f) young module (iv) differentiate between tensile strain and tensile stress v] perform an experiment to establish the relationship between force F and extension e"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students are provided with spiral spring, metal masses and retort stand to verify the Hook’s law experimentally Ii] The students as a class compare tensile stress and tensile strain Iii] The students go online for more info on Hooke’s law to verify the Hook’s law"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio visual resources I] spring balance Ii] slotted weight /masses Iii] spiral spring Iv] retort stand Vi] stop watch Vii] plasticine /chewing gum Viii] coloured marker B web resources"
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Status": "Mid Term Break"
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "Energy in Elastic materials and calculations",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i) device formula for calculating energy stored in elastic material; Ii] use the derived formula to solve simple calculations"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] the students as a class discuss the energy in elastic materials Ii] the students go online for more info on energy in elastic materials"
+        },
+        {
+          "id": "2",
+          "value": "https://physics.info"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy  "
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources Calculator B. web resource "
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "The students as a class do revision on all the practical done so far"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "The students in small groups design circuit comprising of resistors and cells in series and in parallel"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "Revision",
+      "Status" : "REVISION"
+    },  
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    },
+    {
+      "_id": "13",
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Third Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]
+  

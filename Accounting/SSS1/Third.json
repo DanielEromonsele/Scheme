@@ -1,0 +1,829 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Welcome test and introduction&nbsp; to depreciation of fixed assets</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] students to define depreciation of fixed assets Ii] mentions some fixed assets"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class give examples of fixed assets -students in pairs define depreciation of assets"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "<td>Critical thinking and problem solving Leadership and personal development</td>"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Web resources "
+      },
+      {
+        "id": "2",
+        "value": "https://www.accountingnotes.net/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] justify the reasons for depreciation Ii] explain the causes of depreciation Iii] enumerate the characteristic of a depreciable asset Iv] compare the nature of types of assets"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students as a class justify the reasons and causes of depreciation -students in pairs, mention the characteristics of depreciable assets -students in small groups compare the nature of types of assets &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking -collaboration and communication -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Methods of depreciation Straight line and reducing balance Methods-meaning, merits and demerits of each method Depreciation schedule",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] graphically represent the methods of depreciation Ii] describe in details straight line method and reducing&nbsp; balance method Iii] compare and contrast the merits and demerits of each method"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in small groups, mention the methods of depreciation -students in pairs, explain straight line and reducing balance methods -students as a class compare and contrast the merits and demerits of each method"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "<td>Critical thinking and problem solving -leadership and personal development</td>"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "https://courses/jumentsarming.com"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Working exercise on straight line and reducing balance methods</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "<td>Ii] compute depreciation using SLM and RBM</td>"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: I] prepare depreciation schedule"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in pairs draw up a depreciation schedule -students as a class, complete depreciation"
+      },
+      {
+        "id": "2",
+        "value": "<td>Using straight line and reducing balance methods</td>"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "<td>Critical thinking and problem solving -leadership and personal</td>"
+      },
+      {
+        "id": "2",
+        "value": "<td>Development</td>"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": "https://course.lumeniearning.com/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Sum of the year digit, revaluation and other methods</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] explain sum of the year digit and revaluation method Ii] calculate depreciation using sum of the year digits and revaluation digits and revaluation methods &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students in small groups, explain sum of the year digits and revaluation methods -students as a class , calculate depreciation using sum of the year digits and revaluation methods &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "<td>-Critical thinking and problem solving -leadership and personal development &nbsp;</td>"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Accounting for provision&nbsp; for depreciation (new method)i.e. assets accounts provision for depreciation , profit and loss account extract and balance sheet",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to I] post the accounting entries to ledgers using the modern method of providing for depreciation Ii] show the treatment in profit or loss account and balance sheet Iii] prepare disposal of fixed assets account"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as&nbsp; a class post entries into ledgers using the modern method of providing for depreciation -students in pairs explain the treatment of depreciation in profit or loss account -students in small groups , explain the treatment of disposal of assets in final account"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "<td>-Critical thinking and problem solving -leadership and personal development &nbsp;</td>"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Preparation of final necessary end of the year adjustments</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] itemize end of the year adjustments Ii] prepare final account with adjustments Iii] show the&nbsp; effects of adjustments in profit or loss account and balance sheet &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups, list end of the year adjustments -students as a class, prepare final account with adjustments and also show the effects of adjustments in profit or loss account and balance sheet"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "Departmental account meaning, reasons basis of appointment and interdepartmental transfer ",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] describe departmental account Ii] determine the basis of common expenses appointment Iii] post entries into departmental trading profit and loss account &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "-students as a class go for excursion&nbsp; to business organization with different sectors under the same roof -students in pairs explain basic of appointment of expenses -students as a class&nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving -Collaboration and Communication Digital literacy -leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "https://www/yourarticlebrary.com"
+      },
+      {
+        "id": "2",
+        "value": " using Excel to draw the formats of departmental account"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Prepare departmental trading , profit or loss account</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] define Bank reconciliation statement and inter the meaning of Bank statement Ii] identify causes of disagreement between cash (bank column only) and bank statement Ii] interpret bank statement"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "<td>Prepare departmental trading , profit or loss account</td>"
+      },
+      {
+        "id": "2",
+        "value": "Students as a class, explain the term reconciliation and&nbsp; define bank reconciliation -students in pairs, explain Bank statement by way of interpretation of bank, statement -students in&nbsp; small groups, explain Bank statement by way of interpretation of bank, statement -for further study visit "
+      },
+      {
+        "id": "3",
+        "value": "https://www.lopr.com/guides/principles"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "collaboration and communication -critical thinking and problem solving -leadership and personal development &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "<td>Working exercise on bank reconciliation statement</td>",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: I] adjust cash book Ii] reconcile cash book with bank statement using different methods"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class prepare bank reconciliation&nbsp; statement -students in&nbsp; small groups prepare bank reconciliation statements using the three methods&nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "<td>Critical thinking and problem solving -leadership and personal development</td>"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Accounting",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

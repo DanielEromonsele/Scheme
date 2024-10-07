@@ -1,0 +1,942 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "JOINT VENURE ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": " i. Meaning and purpose &nbsp;"
+      },
+      {
+        "id": "3",
+        "value": "ii. Difference between Joint Venture and Partnership Accounts."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. explain joint venture &nbsp;"
+      },
+      {
+        "id": "3",
+        "value": " ii. distinguish between joint ventures and partnership &nbsp; iii. prepare accounts of joint ventures business"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class brainstorm on joint venture.Students in groups differentiate between joint ventures and partnership. &nbsp; Whole class prepare joint venture account"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration &nbsp; Critical thinking and problem solving.Creativity and Imagination"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash cards"
+      },
+      {
+        "id": "3",
+        "value": "Charts"
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.toppr.com "
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "MANUFACTURING ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": " i. Meaning purpose and terminologies  "
+      },
+      {
+        "id": "3",
+        "value": "ii. Preparation of manufacturing account"
+      },
+      {
+        "id": "4",
+        "value": "iii. Trading and Loss Account"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": " i.&nbsp; explain the following terminologies. Prime cost, Direct/indirect labour cost, Overheads, Cost of production etc."
+      },
+      {
+        "id": "3",
+        "value": "ii. identify the items in manufacturing account"
+      },
+      {
+        "id": "4",
+        "value": "iii. relate manufacturing account to trading account"
+      },
+      {
+        "id": "4",
+        "value": "iv. prepare a manufacturing account"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students, as a class, discuss the items that make up the manufacturing account. Students as a class, prepare manufacturing, trading, profit and loss account with balance sheet. &nbsp; Students in small groups, participate in the discussion and preparation of the account"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving.Communication and collaboration "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": " Project on a simple item manufacturing process and the preparation of its account. Excursion to industry for stimulated experience. "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "www.toppr.com"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PARTNERSHIP ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": "i. Explain, drawing, interest on capital and interest on drawings."
+      },
+      {
+        "id": "3",
+        "value": "ii. Preparation of Capital and Current Account."
+      },
+      {
+        "id": "4",
+        "value": "iii. Profit and Loss Appropriate Account."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i.Explain the following terms: partnership deed -drawings – capital and current account -profit and loss appropriation account."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups, describe the meaning of partnership account &nbsp; Students in pairs relates the importance of deeds of partnership"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving.Communication and collaboration "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash cards"
+      },
+      {
+        "id": "3",
+        "value": "Format using Excel"
+      },
+      {
+        "id": "4",
+        "value": "www.taccountingtools.com"
+      },
+      {
+        "id": "4",
+        "value": "<strong>WEB RESOURCES</strong>"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PARTNERSHIP ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": "i. Preparation of Simple Profit and Loss&nbsp; Account. "
+      },
+      {
+        "id": "3",
+        "value": "ii. Balance sheet"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": " i. prepare trading profit and loss account "
+      },
+      {
+        "id": "3",
+        "value": "ii. prepare appropriation account "
+      },
+      {
+        "id": "4",
+        "value": "iii. prepare balance sheet"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class brainstorm on the meaning of partnership account. &nbsp; Students in groups, identify capital account terminology.Students as a class, prepare the capital account"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Flash cards"
+      },
+      {
+        "id": "3",
+        "value": "Format using Excel"
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.taccountingtools.com"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "INTRODUCTION OF COMPANY ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": " i. Formation and terminologies. "
+      },
+      {
+        "id": "3",
+        "value": "ii. Preparation of simple Financial Statement"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a. class, discuss the use of profit and loss Appropriate accounts.."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups analyse the balance sheet and profit and loss account.Students as a class, calculate profit and loss with appropriation account."
+      },
+      {
+        "id": "3",
+        "value": "Critical thinking and problem solving.Communication and collaboration"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "A copy of Companies and Allied Matters Act (CAMA) Prospectus Memorandum of Association A certified of Incorporation."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "www.toppr.com"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Book Keeping",
+    "class": "SS3",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

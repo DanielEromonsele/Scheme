@@ -1,0 +1,901 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "ALGORITHMS AND FLOW CHART - Definition -Characteristics of Algorithms -Functions of Algorithm ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Teacher leads students to define algorithm and flow chart, List the functions of algorithm, Teacher guides students to list characteristics of algorithm, e.g. finite, effective and unambiguous, etc "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "ALGORITHMS AND FLOW CHART  - Writing algorithm for solving a given problem.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Teacher guides students to write a simple algorithm for: -Computing average of a given set of numbers -Evaluation of equation: Y=a (b-c)2/d+2. -Printing out the first ten odd numbers etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "ALGORITHM AND FLOW CHART - Flow chart symbols -Use of each flow chart symbol",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Demonstrate flow chart symbols: I/O, process, decision, etc -States what each symbol represent -Guides students to draw appropriate flow chart to solve a given problem."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "BASIC PROGRAMING II - Build in functions -Basic notations",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Teacher leads students to identify build-in functions: (i) SQR (ii) INT(X) (iii) SIN(X) (iv) ABS(X) (v)RND(X) (vi) COS(X) (vii) TAN(X) (viii) LOG(X) (ix) EXP(X)"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "BASIC PROGRAMMING II - Basic notation",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Basic notation of algebraic expressions (i)/2a (ii) (x-y) (x+y) (iii) (a+b)+c/sin d (iv) b=1/4ac (v)ex+y -Sin(x+ny), etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "BASIC PROGRAMMING LANGUAGE II - Write a basic program to compute algebraic equations",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Teacher leads students to write BASIC programming using built in functions: (i) Find square root, S, round up to an integer (ii) Find square root of numbers with a given range. (iii) Find the cosine of known values (iv) Find the tangent of a given angle (v) Plot sine wave curve, plot cosine curve."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "INTERNET - Definition and some computer internet terms ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Teacher leads students to define: (i) Internet (ii Some basic terms: Browse, browser, chart room, cyber café, cyber space, download."
+      },
+      {
+        "id": "2",
+        "value": "– Teacher guides students to define some basic terms: Home page, HTML, HTTP, Intranet, Internet service provider, upload, protocol, web browser, web page, web site."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "INTERNET - Main browsers: – Features in main browsers",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to list the main browsers: i) Internet explorer ii) Netscape navigation iii) Opera iv) Firefox -Leads students to list the features in main browser, window, title bar, menu bar, tool bar, address bar, etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "INTERNET - Internet services",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-Teacher instructs students to visit some websites -Write notes on the board on what they learnt on their visit website, e-mail. -Email discussion group -Telnet -Usenet -FTP -WWW, etc "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "ELECTRONIC MAIL(E-MAIL SERVICES) - Definitions",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher leads students to define: (i) Electronic mail (ii) E-mail; services a. Sending/receiving e-mail b. Charting (iii) Steps involved in operating mail box (iv) Steps involved in creating e-mail account."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "ELECTRONIC MAIL(E-MAIL SERVICES) - Features in an e-mail address -Definition of charting",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "– Teacher guides students to write e-mail and website addresses and identify the differences in their features e.g. (i)finemail@finegoving.org  e-mail address (ii)www.finegoving.org  website -Definition of chatting -Steps involved in chatting."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Computer Studies",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "EXAMINATION"
+  }
+]

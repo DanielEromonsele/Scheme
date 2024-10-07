@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Students"
+      },
+      {
+        "id": "2",
+        "value": "Readiness"
+      },
+      {
+        "id": "3",
+        "value": "Assessment Test Revision of last term topics."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "WASSCE and NECO past Questions, Marker board."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "DOUBLE"
+      },
+      {
+        "id": "2",
+        "value": "COLUM CASH"
+      },
+      {
+        "id": "3",
+        "value": "BOOK"
+      },
+      {
+        "id": "4",
+        "value": " Contra Entry identify Contra /entry"
+      },
+      {
+        "id": "5",
+        "value": "transaction."
+      },
+      {
+        "id": "6",
+        "value": "ii. Recording of Contra Entry Transaction."
+      },
+      {
+        "id": "7",
+        "value": "iii. Exercise involving Contra Entry"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. identify Contra"
+      },
+      {
+        "id": "3",
+        "value": "entries"
+      },
+      {
+        "id": "4",
+        "value": "ii. demonstrate Contra entries."
+      },
+      {
+        "id": "5",
+        "value": "iii. past transactions involving contra entries into cash book."
+      },
+      {
+        "id": "6",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Student as a class Practice on double column cash."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups demonstrate on contra entries: "
+      },
+      {
+        "id": "3",
+        "value": " Students in groups download a copy of single and double column cash book."
+      },
+      {
+        "id": "4",
+        "value": "htps://m.youtube.com.watch"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem"
+      },
+      {
+        "id": "2",
+        "value": "solving Communication and Collaboration. "
+      },
+      {
+        "id": "3",
+        "value": " Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL REOURCES"
+      },
+      {
+        "id": "2",
+        "value": "1.Cash book register."
+      },
+      {
+        "id": "3",
+        "value": "3. Charts. "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.accountingformanagement.org"
+      },
+      {
+        "id": "6",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PRINCIPLE OF DOUBLE ENTRY"
+      },
+      {
+        "id": "2",
+        "value": " i. Rule of Double Entry."
+      },
+      {
+        "id": "3",
+        "value": "ii. Posting of transaction from cash book to ledger."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students"
+      },
+      {
+        "id": "2",
+        "value": "should be able to:"
+      },
+      {
+        "id": "3",
+        "value": "expand the principle:"
+      },
+      {
+        "id": "4",
+        "value": "of double entry apply the rule of double entry to cash book."
+      },
+      {
+        "id": "5",
+        "value": "balance a ledger "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class discuss on double entry."
+      },
+      {
+        "id": "2",
+        "value": "Students as a class, "
+      },
+      {
+        "id": "3",
+        "value": "illustrate how to apply double entry principle."
+      },
+      {
+        "id": "4",
+        "value": "Students as a class, balance a ledger "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " 1. Real object i.e. ledger."
+      },
+      {
+        "id": "3",
+        "value": "http://www.accountingformanagement.org"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " i. Meaning of"
+      },
+      {
+        "id": "2",
+        "value": "Three Column"
+      },
+      {
+        "id": "3",
+        "value": "Cash Book. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson,"
+      },
+      {
+        "id": "2",
+        "value": " students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": "identify three column cash book. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class brainstorm on"
+      },
+      {
+        "id": "2",
+        "value": "three column cash book."
+      },
+      {
+        "id": "3",
+        "value": "Students are divided in small groups to "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving Communication and"
+      },
+      {
+        "id": "2",
+        "value": "collaboration "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " 1.Cash book, "
+      },
+      {
+        "id": "3",
+        "value": "register."
+      },
+      {
+        "id": "4",
+        "value": "2. Charts."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "i Meaning of discount."
+      },
+      {
+        "id": "2",
+        "value": "ii. Types of"
+      },
+      {
+        "id": "3",
+        "value": "Discount:"
+      },
+      {
+        "id": "4",
+        "value": "Discount allowed and Received."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "Describe each type of discount"
+      },
+      {
+        "id": "2",
+        "value": "ii. distinguish between cash discount and trade"
+      },
+      {
+        "id": "3",
+        "value": "discount"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "distinguish between"
+      },
+      {
+        "id": "2",
+        "value": "single,"
+      },
+      {
+        "id": "3",
+        "value": "double and three column cash book."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " www toppr.com"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "THREE COLUMN CASH BOOK"
+      },
+      {
+        "id": "2",
+        "value": "i. Application of cash discount in three column cash book "
+      },
+      {
+        "id": "3",
+        "value": "ii.Exercise involving cashbook with discount."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson,"
+      },
+      {
+        "id": "2",
+        "value": "students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": " i. post transactions into three column cash book."
+      },
+      {
+        "id": "4",
+        "value": "ii balance the three column cash book"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, "
+      },
+      {
+        "id": "2",
+        "value": "draw the format of the following single column,"
+      },
+      {
+        "id": "3",
+        "value": " double and three column cash book."
+      },
+      {
+        "id": "4",
+        "value": "Student in small groups shows the legers entries for the discount."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration"
+      },
+      {
+        "id": "3",
+        "value": "Critical thinking and problem"
+      },
+      {
+        "id": "4",
+        "value": "solving"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": " Cash book register."
+      },
+      {
+        "id": "2",
+        "value": "Charts."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": " www:toppr.com"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": "OPEN DAY/MID term BREAK",
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "More exercise on preparation of three column cash book."
+      },
+      {
+        "id": "2",
+        "value": "Students in groups state the three types of cash book of a company and apply form in solving a question"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Cash book register."
+      },
+      {
+        "id": "3",
+        "value": "Charts."
+      },
+      {
+        "id": "4",
+        "value": "Calculator."
+      },
+      {
+        "id": "5",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "6",
+        "value": " www.toppr."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PETTY CASH BOOK"
+      },
+      {
+        "id": "2",
+        "value": " i. Meaning of Petty cash book "
+      },
+      {
+        "id": "3",
+        "value": "ii. classification of columns meaning of Imprest System. "
+      },
+      {
+        "id": "4",
+        "value": "iii. Definition of float. "
+      },
+      {
+        "id": "5",
+        "value": "iv. Posting of transaction to petty cash book"
+      },
+      {
+        "id": "6",
+        "value": "v. Solving exercises on petty cash book"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the"
+      },
+      {
+        "id": "2",
+        "value": "lesson, students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": "i. define Petty Cash. Book."
+      },
+      {
+        "id": "4",
+        "value": "ii. describe some terminologies e.g. float, imprest."
+      },
+      {
+        "id": "5",
+        "value": " iii. post transaction into the petty cash"
+      },
+      {
+        "id": "6",
+        "value": "book."
+      },
+      {
+        "id": "7",
+        "value": "iv. balance the petty cash book. "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class brainstorm on pretty cash book"
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups describe some terminologies e.g. "
+      },
+      {
+        "id": "3",
+        "value": "float and imprest."
+      },
+      {
+        "id": "4",
+        "value": "Students in groups mention minor expenses in a business organization. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Invoices."
+      },
+      {
+        "id": "3",
+        "value": "*Receipt"
+      },
+      {
+        "id": "4",
+        "value": "*Charts,"
+      },
+      {
+        "id": "5",
+        "value": "Calculator "
+      },
+      {
+        "id": "6",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "7",
+        "value": " www.playaccounting.com "
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BANK"
+      },
+      {
+        "id": "2",
+        "value": "RECONCILIATION STATEMENT"
+      },
+      {
+        "id": "3",
+        "value": "i. Introduction Meaning of Bank Statement and Bank."
+      },
+      {
+        "id": "4",
+        "value": "Reconciliation Statement."
+      },
+      {
+        "id": "5",
+        "value": "ii. Causes of life differences between the Bank Statement and Cash Book Balance."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "i. explain the following:"
+      },
+      {
+        "id": "3",
+        "value": "Commission, dishonored cheques, standing order, direct payments,"
+      },
+      {
+        "id": "4",
+        "value": "Unpresented "
+      },
+      {
+        "id": "5",
+        "value": "Uncredited chetues etc."
+      },
+      {
+        "id": "6",
+        "value": "ii. interpret bank statement. "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, discuss on Bank Reconciliation statement."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups, explain the following Commission,"
+      },
+      {
+        "id": "3",
+        "value": " dishonored cheques standing order, direct payments; unpresented and uncredited cheques"
+      },
+      {
+        "id": "4",
+        "value": "Students in groups, interpret bank statement. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "Bank document Resource person "
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "http://www.accountingcoach.com"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BANK"
+      },
+      {
+        "id": "2",
+        "value": "RECONCILIATION STATEMENT"
+      },
+      {
+        "id": "3",
+        "value": " i. Treatment and preparation of Bank"
+      },
+      {
+        "id": "4",
+        "value": "Reconciliation Statement"
+      },
+      {
+        "id": "5",
+        "value": "ii. Preparation of Adjusted Cash Book."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "i. compared and"
+      },
+      {
+        "id": "3",
+        "value": "contrast a bank"
+      },
+      {
+        "id": "4",
+        "value": "statement with cash book "
+      },
+      {
+        "id": "5",
+        "value": "ii. adjust a cash book."
+      },
+      {
+        "id": "6",
+        "value": "iii. Reconcile a bank statement balance"
+      },
+      {
+        "id": "7",
+        "value": "with cash book balance."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, "
+      },
+      {
+        "id": "2",
+        "value": "should compare and contrast cash book and bank Statement"
+      },
+      {
+        "id": "3",
+        "value": "Students are divided in small groups to reconcile a bank statement balance with cash book balance"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Bank statement."
+      },
+      {
+        "id": "3",
+        "value": "Cash register."
+      },
+      {
+        "id": "4",
+        "value": "Charts."
+      },
+      {
+        "id": "5",
+        "value": "Cheque book "
+      },
+      {
+        "id": "6",
+        "value": "http://www.accountingcoach.com"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BANK RECONCILIATION STATEMENT"
+      },
+      {
+        "id": "2",
+        "value": " i. Treatment"
+      },
+      {
+        "id": "3",
+        "value": "and preparation of Bank"
+      },
+      {
+        "id": "4",
+        "value": "Reconciliation"
+      },
+      {
+        "id": "5",
+        "value": "ii. Preparation of Adjusted Cash Book. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "i. compared and contrast a bank statement with cash book."
+      },
+      {
+        "id": "3",
+        "value": "ii. adjust a cash book.  "
+      },
+      {
+        "id": "4",
+        "value": "iii. reconcile a bank statement balance with cash book balance."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class,"
+      },
+      {
+        "id": "2",
+        "value": " should compare and contrast cash book and bank statement. "
+      },
+      {
+        "id": "3",
+        "value": " Students are divided in small groups;"
+      },
+      {
+        "id": "4",
+        "value": " to reconcile a bank statement balance with cash book balance"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Bank statement."
+      },
+      {
+        "id": "3",
+        "value": "Cash register."
+      },
+      {
+        "id": "4",
+        "value": "Charts."
+      },
+      {
+        "id": "5",
+        "value": "Cheque book "
+      },
+      {
+        "id": "6",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "7",
+        "value": "http://www.accountingcoach.com"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Booking Keeping",
+    "class": "SS1",
+    "term": "Second term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

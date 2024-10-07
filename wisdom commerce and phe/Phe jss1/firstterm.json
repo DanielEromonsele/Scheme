@@ -1,0 +1,979 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning of Physical and Health Education"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": " 1- Explain the concept of Physical and Health Education."
+      },
+      {
+        "id": "2",
+        "value": "2-State the relationship between physical and health education."
+      },
+      {
+        "id": "3",
+        "value": "3-State the purpose of Physical and health Education."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1-Students as a class define Physical and health education."
+      },
+      {
+        "id": "2",
+        "value": "2-Students in groups discuss the relationship between physical and health education Leaders of each group come up with the outcome of their discussion and present to the class."
+      },
+      {
+        "id": "3",
+        "value": "3- Students as a class highlight the Purpose of Physical and Health Education"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1 - Collaboration & communication"
+      },
+      {
+        "id": "2",
+        "value": "2 - Student Leadership & Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "3-Critical thinking and problem solving."
+      },
+      {
+        "id": "4",
+        "value": "4- Digital literacy."
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "https://www.slideshare.net/nkmehra/concept-of-physical-education-1"
+      },
+      {
+        "id": "2",
+        "value": "https://study.com/academy/lesson/what-is-physical-education-definition-overview.html"
+      },
+      {
+        "id": "3",
+        "value": "https://youtu.be/tZsNTxqHKCs"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Introduction to the Meaning of Physical and Health Education"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Mention the scope of Physical Education."
+      },
+      {
+        "id": "2",
+        "value": "2- Differentiate between Physical Education and Health Education."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "1-Students in pairs classifying the branches of physical and health education."
+      },
+      {
+        "id": "2",
+        "value": "2-Students In a small group differentiate between Physical Education and Health Education."
+      },
+      {
+        "id": "3",
+        "value": "3-Students write the outcome on cardboards while the group leaders make a presentation to the class"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1. Collaboration & Communication."
+      },
+      {
+        "id": "2",
+        "value": "2. Student Leadership & Personal Development."
+      },
+      {
+        "id": "3",
+        "value": "3. Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "www.google.com"
+      },
+      {
+        "id": "2",
+        "value": "ii https://en.m.wikipedia.org/ wiki/Dance"
+      },
+      {
+        "id": "3",
+        "value": "iii-https://www.slideshare. Net"
+      },
+      {
+        "id": "4",
+        "value": "https://youtu.be/tZsNTxqHKCs"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Physical Fitness and body conditioning Programmers."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Explain the concept of physical Fitness"
+      },
+      {
+        "id": "2",
+        "value": "2- Highlight the components of Physical fitness. "
+      },
+      {
+        "id": "3",
+        "value": "3- Differentiate between health and performance related physical components."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1- Students as a class discuss the definition of Physical fitness together."
+      },
+      {
+        "id": "2",
+        "value": "2- Students in small groups discuss the components of physical fitness."
+      },
+      {
+        "id": "3",
+        "value": "3- Leader of each group come up with the outcome of their discussion."
+      },
+      {
+        "id": "4",
+        "value": "4- Students in small group differentiate between Health-related fitness components and Performance (skill) related fitness."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": " 1: Collaboration & Communication."
+      },
+      {
+        "id": "2",
+        "value": "2- Digital Literacy"
+      },
+      {
+        "id": "3",
+        "value": "3- Student Leadership & Personal Development"
+      },
+      {
+        "id": "4",
+        "value": "4- Critical Thinking & Problem Solving"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "https://www.wisegeek.com/what-is-body-conditioning.htm"
+      },
+      {
+        "id": "2",
+        "value": "www.tmimages.org/physical-fitness-and-body-conditioning-programs"
+      },
+      {
+        "id": "3",
+        "value": "https://www.wisegeek.com/what-is-body-conditioning.htm"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Importance and Characteristics of a physically fit person"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- State the importance of physical fitness"
+      },
+      {
+        "id": "2",
+        "value": "2- Explain the basic principles of physical fitness"
+      },
+      {
+        "id": "3",
+        "value": "3- List the characteristics of a physical fitness"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1- Students in group analyze the values/importance of physical fitness"
+      },
+      {
+        "id": "2",
+        "value": "2- Students as a class determine the principles of physical fitness"
+      },
+      {
+        "id": "3",
+        "value": "3- Students as a group highlight the characteristics of a physically fit person"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": " 1- Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": "2- Collaboration and communication"
+      },
+      {
+        "id": "3",
+        "value": "3- Students leadership and personal development"
+      },
+      {
+        "id": "4",
+        "value": "4- Critical thinking and problem solving"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "https://howtonight.com/characteristics-of-a-physically-healthy-person"
+      },
+      {
+        "id": "2",
+        "value": "https://en.wikipedia.org/wiki/Physical_fitness"
+      },
+      {
+        "id": "3",
+        "value": "https://www.answers.com/Q/5_characteristics_of_a_physically_fit_person"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "1- Exercise to develop Strength, Endurance and  Flexibility"
+      },
+      {
+        "id": "2",
+        "value": "2- Safety precautions while performing exercises."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Highlight appropriate exercises to develop the different components of physical fitness. (E.g. Muscular endurance, Flexibility, Speed, Power etc.)"
+      },
+      {
+        "id": "2",
+        "value": "2- Demonstrate exercises to develop: Strength, Endurance, Flexibility, Speed, and Power. etc."
+      },
+      {
+        "id": "3",
+        "value": "3- State safety precautions during physical fitness activity:"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1-students in small group list the appropriate exercises to develop the components of physical fitness skills."
+      },
+      {
+        "id": "2",
+        "value": "2- Students in pairs demonstrates the activity to develop physical fitness components (Speed, Flexibility, Balance, Muscular strength etc.)"
+      },
+      {
+        "id": "3",
+        "value": "3- Students as a class recommend/ Outline safety precaution during physical fitness exercise/activities."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": " 1- Collaboration & Communication."
+      },
+      {
+        "id": "2",
+        "value": "2- Student Leadership & Personal Development."
+      },
+      {
+        "id": "3",
+        "value": "3- Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "https://www.teachhub.com/teaching-strategies/2014/..."
+      },
+      {
+        "id": "2",
+        "value": "https://teachingstrategies.com/wp-content/uploads/..."
+      },
+      {
+        "id": "3",
+        "value": " www.education.vic.gov.au/school/principals/spag/.."
+      },
+      {
+        "id": "4",
+        "value": "https://www.betterhealth.vic.gov.au/health/healthyliving/exercise-safety"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": " Personal Health"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Explain the concept of Personal health"
+      },
+      {
+        "id": "2",
+        "value": "2- Name components of personal health"
+      },
+      {
+        "id": "3",
+        "value": "3- Explain the objectives of personal health"
+      },
+      {
+        "id": "4",
+        "value": "4- State the importance of personal health"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1.  Students as a class discuss the concept of personal health"
+      },
+      {
+        "id": "2",
+        "value": "2- Students in small group exhibit the act in the components of personal health"
+      },
+      {
+        "id": "3",
+        "value": "3.  Students in pairs classify the objectives of personal health"
+      },
+      {
+        "id": "4",
+        "value": "4. Students as a class state the importance of personal health"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": " 1- Digital Literacy"
+      },
+      {
+        "id": "2",
+        "value": "2- Collaboration & Communication."
+      },
+      {
+        "id": "3",
+        "value": "3- Student Leadership & Personal Development"
+      },
+      {
+        "id": "4",
+        "value": "4- Critical Thinking & Problem Solving"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "https://www.verywellfamily.com/teaching-your-child.."
+      },
+      {
+        "id": "2",
+        "value": "https://www.cdc.gov/healthyschools/sher/characteristics"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid Term Break"
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Sewage and Refuse disposal"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Compare the concept of sewage and Refuse"
+      },
+      {
+        "id": "2",
+        "value": "2- Distinguished between sewage and refuse"
+      },
+      {
+        "id": "3",
+        "value": "3- Define Refuse and Sewage:"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1- Students as a class compare the concept of Sewage and Refuse. E.g. garbage, Refuse, bin, incinerator, open dump, pit latrine, water system. (W.C)  "
+      },
+      {
+        "id": "2",
+        "value": "2- Students in small group distinguished between the concept of sewage disposal and Refuse disposal."
+      },
+      {
+        "id": "3",
+        "value": "3- Students in pairs brainstorm on the concept/ meaning of refuse and sewage."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1- Collaboration & Communication."
+      },
+      {
+        "id": "2",
+        "value": "2- Digital Literacy"
+      },
+      {
+        "id": "3",
+        "value": "3- Student Leadership & Personal Development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1- Brooms and rakes"
+      },
+      {
+        "id": "2",
+        "value": "2- Waste paper baskets"
+      },
+      {
+        "id": "3",
+        "value": "3- Refuse bin"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Methods of sewage and refuse disposal"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Describe/ explain sewage and refuse"
+      },
+      {
+        "id": "2",
+        "value": "2- Distinguish between sewage and refuse disposal."
+      },
+      {
+        "id": "3",
+        "value": "3- Identify methods of refuse disposal."
+      },
+      {
+        "id": "4",
+        "value": "4- Appraise the value or usefulness of refuse"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1. Students as a whole class with teacher’s supervision walk round the refuse area within the school premises for refuse identification (e.g. garbage, Refuse, bin, school toilet, kitchen, school laundry. Etc."
+      },
+      {
+        "id": "2",
+        "value": "2- Students in pairs distinguish between sewage and refuse."
+      },
+      {
+        "id": "3",
+        "value": "3- In small group students identify methods of refuse and Sewage disposal."
+      },
+      {
+        "id": "4",
+        "value": "4- Appraise the Functions and Values of refuse and sewage to industries"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "1- Collaboration &Communication."
+      },
+      {
+        "id": "2",
+        "value": "2- Student Leadership & Personal Development."
+      },
+      {
+        "id": "3",
+        "value": "3-Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": "4- Creativity and innovation"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "1- Brooms and rakes"
+      },
+      {
+        "id": "2",
+        "value": "2- Packer"
+      },
+      {
+        "id": "3",
+        "value": "3- Refuse bins"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Water Supply"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "1- Classify / enumerate type’s water supply"
+      },
+      {
+        "id": "2",
+        "value": "2- Give concept of water supply."
+      },
+      {
+        "id": "3",
+        "value": "3- Highlight the qualities of a good water"
+      },
+      {
+        "id": "4",
+        "value": "4- Recommend ways for maintenance the cleanliness of water."
+      },
+      {
+        "id": "5",
+        "value": "5- List methods of water storage system"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": " 1-Students in pairs classify the type of water"
+      },
+      {
+        "id": "2",
+        "value": "2-Students in small group define and differentiate between surface water and ground water supply."
+      },
+      {
+        "id": "3",
+        "value": "3- Students in pairs highlight the qualities of good water."
+      },
+      {
+        "id": "4",
+        "value": "4- Students as a class recommend ways to maintain the cleanliness of water."
+      },
+      {
+        "id": "4",
+        "value": "5- Students in small groups name/discuss water storage system"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": " 1- Student Leadership & Personal Development."
+      },
+      {
+        "id": "2",
+        "value": "2- Collaboration & Communication."
+      },
+      {
+        "id": "3",
+        "value": "3- Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": "4- Critical Thinking & Problem Solving."
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "https://www.water supply sources.com "
+      },
+      {
+        "id": "2",
+        "value": "https://en.m.wikipedia.org/wiki/water-supply"
+      },
+      {
+        "id": "3",
+        "value": "https://www.collinsdictionary.com/"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Physical and Health Education",
+    "Class": "Jss1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

@@ -1,0 +1,976 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning of social studies content: Components of social studies."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Meaning of social studies content. Components of social studies such as facts, concepts, generalization, skills, values, attitudes relevant for learners and the society."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads the students find out the meaning of social studies content. Leads the students to identify components of social studies content."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen and respond to questions in class. Participate in identifying the components of social studies content."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Roles of extended family members in child development: meaning and members of extended family."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Meaning of extended family. Members of extended family- grand-parents, uncles, aunts, cousins, nephews, nieces etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Uses the family tree to explain the concept of extended family."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Interpret the family tree."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Roles of extended family members in child development: roles of extended family members in child development."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Extended family members act as agents of socialization, share folk stories, learn how to relate to younger family members and peers, support family members in times of need."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides a question and answer session on the roles of extended family members on the child development."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Provide answers to questions asked by teacher."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Human trafficking: meaning and factors of human trafficking."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Human trafficking is the recruitment, transporting and transferring persons across borders (national and international) with the intention to deceive and exploit them. Factors: false hope of continuing education or working abroad, poverty."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Uses debate and brainstorming session to elicit responses from students. The meaning of human trafficking and factors responsible for children and women trafficking."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion and debate."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Human trafficking: factors of human trafficking."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Increasing demand for dollar sex entertainment industry."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Explains the factors using the debate and brainstorming session."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Students participate actively in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Human trafficking:&nbsp; consequences of human trafficking."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Loss of human resources, life of crime, addiction and sexual violence, weakness of family love and influence."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Invites a guest speaker to give a talk on human trafficking consequences."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the guest speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Human trafficking: prevention of human trafficking."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Creating awareness campaign, education, advocacy, legislation etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Explains the preventive measures of human trafficking."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate actively in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Harmful traditional practices: meaning of harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Practices that brings physical, mental, social and health dangers, and damage to people."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides students to explain harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the learning activities."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Harmful traditional practices: examples of harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Female circumcision, early marriage, use of children for begging, etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads students to mention the examples of harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the class discussion of examples of harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Harmful traditional practices: examples of harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Early marriage, maltreatment of widows, superstitious beliefs, taboos, women as articles of inheritance, gender inequality."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads students to mention more of the examples of Harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion of Harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Harmful traditional practices: consequences of Harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Problem at child birth, exploitation of children, social, economic and psychological consequences."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides the students to discuss the consequences of Harmful traditional practices."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Harmful traditional practices: preventive measures."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Public enlightenment, advocacy, education, adequate legislation."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Invites a guest speaker to speak on the preventive measures."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the guest speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Students"
+      },
+      {
+        "id": "2",
+        "value": "Readiness assessment Test Revision of last term’s topics "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "WASSCE AND NECO"
+      },
+      {
+        "id": "2",
+        "value": "past questions and Marker board. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "TRIAL BALANCE"
+      },
+      {
+        "id": "2",
+        "value": "i. Meaning of"
+      },
+      {
+        "id": "3",
+        "value": "ii. Trial Balance  "
+      },
+      {
+        "id": "4",
+        "value": "iii. Function Trial Balance"
+      },
+      {
+        "id": "5",
+        "value": "iv.Extraction of Balance from"
+      },
+      {
+        "id": "6",
+        "value": "ledger to trial balances "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": " i. unfold trial ba1ance and its purpose "
+      },
+      {
+        "id": "3",
+        "value": "ii. Post items into the ledger."
+      },
+      {
+        "id": "4",
+        "value": "iii. balance the ledgers "
+      },
+      {
+        "id": "5",
+        "value": "iv extract a trial balance "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups gives the rules of extracting Trial Balance. "
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups extract a trial balance"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Format of Trial Balance Chart Real /improvised trial balance"
+      },
+      {
+        "id": "3",
+        "value": "Flex showing rules for extraction"
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.investopedia.com"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "TRIAL BALANCE:"
+      },
+      {
+        "id": "2",
+        "value": "i. Rule of posting balance from ledger to trial balance."
+      },
+      {
+        "id": "3",
+        "value": " ii. Preparation of Trial Balance.  "
+      },
+      {
+        "id": "4",
+        "value": "iii Working Exercise."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. State the rules o: "
+      },
+      {
+        "id": "3",
+        "value": "posting to the trial balance."
+      },
+      {
+        "id": "4",
+        "value": "ii. extract balances from ledger to trial balance"
+      },
+      {
+        "id": "5",
+        "value": "iii. Balance the trial balance"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class observes the preparation of the trial balance."
+      },
+      {
+        "id": "2",
+        "value": "Students in group state the other forms of trial balance using this Link:"
+      },
+      {
+        "id": "3",
+        "value": "http://www.accountinginfocus.com"
+      },
+      {
+        "id": "4",
+        "value": " Students in small groups."
+      },
+      {
+        "id": "5",
+        "value": " demonstrate how to prepare a trial balance from ledger balance"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": "Real /improvised"
+      },
+      {
+        "id": "4",
+        "value": "trial balance"
+      },
+      {
+        "id": "5",
+        "value": "Flex showing rules for extraction Charts"
+      },
+      {
+        "id": "6",
+        "value": "calculator "
+      },
+      {
+        "id": "7",
+        "value": "WEB. RESOU RCES"
+      },
+      {
+        "id": "8",
+        "value": "http://www.investopedia.com"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "TRIAL BALANCE AND"
+      },
+      {
+        "id": "2",
+        "value": "CORRECTION OF ERRORS"
+      },
+      {
+        "id": "3",
+        "value": ": be able to:"
+      },
+      {
+        "id": "4",
+        "value": "i. Meaning of Errors. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson,"
+      },
+      {
+        "id": "2",
+        "value": " students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": " i. interpret Errors"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class brainstorm the meaning of errors. "
+      },
+      {
+        "id": "2",
+        "value": " Students in small groups"
+      },
+      {
+        "id": "3",
+        "value": "state errors that will not affect trial balance. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES "
+      },
+      {
+        "id": "2",
+        "value": "Real /improvised trial balance"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "ii. Types of Errors"
+      },
+      {
+        "id": "2",
+        "value": "iii. Errors"
+      },
+      {
+        "id": "3",
+        "value": "affecting Trial Balance."
+      },
+      {
+        "id": "4",
+        "value": "iv. Errors that does not affect trial balance."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "ii. Identify errors that don not affect the trial balance."
+      },
+      {
+        "id": "2",
+        "value": "iii, describe errors that affect trial balance"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Flex showing rule for extraction Charts."
+      },
+      {
+        "id": "2",
+        "value": "Calculator. "
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "http://www.investopedia.com"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "TRIAL BALANCE AND"
+      },
+      {
+        "id": "2",
+        "value": "CORRECTION OF"
+      },
+      {
+        "id": "3",
+        "value": "ERRORS:"
+      },
+      {
+        "id": "4",
+        "value": " i. Correction of errors"
+      },
+      {
+        "id": "5",
+        "value": "ii. Correction of Errors through the use of Suspense"
+      },
+      {
+        "id": "6",
+        "value": "Account. "
+      },
+      {
+        "id": "7",
+        "value": "iii. Working exercises."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the "
+      },
+      {
+        "id": "2",
+        "value": "lesson, students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": "i.describe suspense account"
+      },
+      {
+        "id": "4",
+        "value": "ii.identify errors that involve suspense and those that do not involve suspense account.  "
+      },
+      {
+        "id": "5",
+        "value": "iii. Solve errors on trial balance. "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a classy prepare trial balance."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups state the errors that will not affect trial balance"
+      },
+      {
+        "id": "3",
+        "value": "Students in groups solve question on suspense account"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking arid Problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Communication and"
+      },
+      {
+        "id": "3",
+        "value": "Collaboration Creativity and imagination"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL "
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": "Real/improvised trial balance"
+      },
+      {
+        "id": "4",
+        "value": "Flex showing rules"
+      },
+      {
+        "id": "5",
+        "value": "for extraction"
+      },
+      {
+        "id": "6",
+        "value": "Charts"
+      },
+      {
+        "id": "7",
+        "value": "Calculator "
+      },
+      {
+        "id": "8",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "9",
+        "value": "http://www.accagloval.com"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": "",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "FINANCIAL STATEMENT OF SOLE"
+      },
+      {
+        "id": "2",
+        "value": "PROPRIETORSHIP "
+      },
+      {
+        "id": "3",
+        "value": "Trading Account) "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students shou1d be able to:"
+      },
+      {
+        "id": "2",
+        "value": "i.Identify items used to prepare trading account "
+      },
+      {
+        "id": "3",
+        "value": "ii. Prepare trading and to determine"
+      },
+      {
+        "id": "4",
+        "value": "The gross profit on gross loss. "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups, "
+      },
+      {
+        "id": "2",
+        "value": "identify item used in preparing trading account "
+      },
+      {
+        "id": "3",
+        "value": "Students as a class, prepare Trading,"
+      },
+      {
+        "id": "4",
+        "value": "profit and loss account."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO "
+      },
+      {
+        "id": "2",
+        "value": "VISUAL"
+      },
+      {
+        "id": "3",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "Bank statement"
+      },
+      {
+        "id": "5",
+        "value": " Flash cards Calculators."
+      },
+      {
+        "id": "6",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "7",
+        "value": "http://www.topperleaning.com"
+      },
+      {
+        "id": "8",
+        "value": "https://www.excel.skill.com"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "PROFIT AN D LOSS ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": "Purpose of Profit and Loss Account."
+      },
+      {
+        "id": "3",
+        "value": "ii. Determining net sales."
+      },
+      {
+        "id": "4",
+        "value": "iii. Determining net profit."
+      },
+      {
+        "id": "5",
+        "value": "iv. Rule for preparing Profit and Loss"
+      },
+      {
+        "id": "6",
+        "value": "Account. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "I. State the purpose of preparing Profit and Loss Account."
+      },
+      {
+        "id": "3",
+        "value": "ii. Identify items used to prepare Profit and Loss Account . "
+      },
+      {
+        "id": "4",
+        "value": "iii. prepare a Profit and Loss Account to determine net profit/net loss."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, draw the format of profit and. loss."
+      },
+      {
+        "id": "2",
+        "value": "Students in groups itemised the event on both side."
+      },
+      {
+        "id": "3",
+        "value": "Students in small groups Prepare profit and loss account."
+      },
+      {
+        "id": "4",
+        "value": "Students:"
+      },
+      {
+        "id": "5",
+        "value": "Discuss the difference types of assets and liabilities."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "3",
+        "value": "Digital Literacy"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": " Profit and loss"
+      },
+      {
+        "id": "4",
+        "value": "Format"
+      },
+      {
+        "id": "5",
+        "value": "Flash cards"
+      },
+      {
+        "id": "6",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "7",
+        "value": "http://www.playaccounting.com"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BALANCE SHEET"
+      },
+      {
+        "id": "2",
+        "value": "i. Explain Balance sheet"
+      },
+      {
+        "id": "3",
+        "value": "ii. Balance sheet contents. "
+      },
+      {
+        "id": "4",
+        "value": "iii. Users of Balance Sheet. "
+      },
+      {
+        "id": "5",
+        "value": "iv. Preparation of simple Balance Sheet."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to "
+      },
+      {
+        "id": "2",
+        "value": "i. Identify items preparing balance. sheet."
+      },
+      {
+        "id": "3",
+        "value": "ii. difference between assets and liabilities. "
+      },
+      {
+        "id": "4",
+        "value": "iii. prepare a balance sheet."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "What are the differences between balance sheet and trial balance."
+      },
+      {
+        "id": "2",
+        "value": "Read more"
+      },
+      {
+        "id": "3",
+        "value": "https://wwweconetlink.org"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Collaboration Critical thinking"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Format of balance"
+      },
+      {
+        "id": "3",
+        "value": "sheet, Flash cards"
+      },
+      {
+        "id": "4",
+        "value": "Computer (Excel.)"
+      },
+      {
+        "id": "5",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "6",
+        "value": "https://corporatefinanceinstitute.com"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": "",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "Third term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

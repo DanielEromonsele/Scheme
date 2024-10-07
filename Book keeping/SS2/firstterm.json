@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Students Readiness Assessment Test Revision of last term’s topics "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": " "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": " "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "WASSCE AND NECO Past questions. Marker Board  "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BALANCE SHEET i. Working exercises on Balance Sheet."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": " i. identify assets and liabilities. "
+      },
+      {
+        "id": "3",
+        "value": "ii. classify assets and liabilities "
+      },
+      {
+        "id": "4",
+        "value": "iii. prepare a balance sheet "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students brainstorm as a class to:  "
+      },
+      {
+        "id": "2",
+        "value": " i. distinguish between assets and liabilities."
+      },
+      {
+        "id": "3",
+        "value": "ii. Students in small groups, prepare a balance sheet, "
+      },
+      {
+        "id": "4",
+        "value": "using T-shape and vertical methoGod say "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration "
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": " Format of balance sheet Flash cards Computer (Excel) "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.corporatefinanceinstitute.com"
+      },
+      {
+        "id": "6",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BOOK KEEPING AND"
+      },
+      {
+        "id": "2",
+        "value": "ACCOUNTING CONCEPTS AND CONVENTION"
+      },
+      {
+        "id": "3",
+        "value": " i. Identifying accounting concepts and convention"
+      },
+      {
+        "id": "4",
+        "value": "ii. Explanation of various concepts and convention."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. describe accounting depreciation."
+      },
+      {
+        "id": "3",
+        "value": "ii. Describe each accounting concepts. "
+      },
+      {
+        "id": "4",
+        "value": "iii. Relate accounting concepts to financial reports."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class discussion on depreciation. "
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups elicit the various causes of depreciation."
+      },
+      {
+        "id": "3",
+        "value": "Students in pairs discuss each method of depreciation. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": "Company financial"
+      },
+      {
+        "id": "4",
+        "value": "reports."
+      },
+      {
+        "id": "5",
+        "value": "Currency Tabular format accounting concept and convention Flash cards."
+      },
+      {
+        "id": "6",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "7",
+        "value": "http://www.mbacrystalball.com"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BOOK KEEPING AND"
+      },
+      {
+        "id": "2",
+        "value": "ACCOUNTING CONCEPTS AND CONVENTION"
+      },
+      {
+        "id": "3",
+        "value": " i. Explain concepts and convention"
+      },
+      {
+        "id": "4",
+        "value": "ii. Explanation of various concepts and convention. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. explain accounting convention."
+      },
+      {
+        "id": "3",
+        "value": "ii. Identify accounting convention "
+      },
+      {
+        "id": "4",
+        "value": "iii. describe the application of convention in financial reports."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, write short notes on accounting concepts. "
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups identify accounting convention."
+      },
+      {
+        "id": "3",
+        "value": "Students in groups describe the application in financial reports. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": " Company financial"
+      },
+      {
+        "id": "4",
+        "value": "reports."
+      },
+      {
+        "id": "5",
+        "value": "Currency Tabular format accounting concept and convention Flash cards."
+      },
+      {
+        "id": "6",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "7",
+        "value": "http://www.mbacrystalball.com"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "DEPRECIATION"
+      },
+      {
+        "id": "2",
+        "value": " Definition of Depreciation"
+      },
+      {
+        "id": "3",
+        "value": "ii. Methods of Depreciation."
+      },
+      {
+        "id": "4",
+        "value": "iii. Causes of. Depreciation and"
+      },
+      {
+        "id": "5",
+        "value": "element of depreciation."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. describe depreciation "
+      },
+      {
+        "id": "3",
+        "value": "ii. elicit the various causes of depreciation "
+      },
+      {
+        "id": "4",
+        "value": "iii. Discuss each method of depreciation."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class discussion on depreciation."
+      },
+      {
+        "id": "2",
+        "value": " Students in small groups elicit the various causes of depreciation Students in pairs,"
+      },
+      {
+        "id": "3",
+        "value": " discuss each method of depreciation."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "2",
+        "value": " Critical thinking and problem solving "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": " Real objects such as bags, school uniform sandals."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.profitbooks.net"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "DEPRECIATION:"
+      },
+      {
+        "id": "2",
+        "value": " i. Method of calculating"
+      },
+      {
+        "id": "3",
+        "value": "Depreciation Fixed"
+      },
+      {
+        "id": "4",
+        "value": "installment. "
+      },
+      {
+        "id": "5",
+        "value": "ii. Diminishing balance"
+      },
+      {
+        "id": "6",
+        "value": "– Revaluation  "
+      },
+      {
+        "id": "7",
+        "value": " ii. Computation of simple Depreciation."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": " i. Identify the methods of calculating depreciation."
+      },
+      {
+        "id": "3",
+        "value": " ii. Solve problems using "
+      },
+      {
+        "id": "4",
+        "value": "(a) Straight line method (b) Reducing balance method (c) Revaluation method"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class brainstorm on the following: "
+      },
+      {
+        "id": "2",
+        "value": "Calculation of depreciation using Straight line method,"
+      },
+      {
+        "id": "3",
+        "value": " Reducing balance method, Revaluation method. "
+      },
+      {
+        "id": "4",
+        "value": "Solve sum of the year digits method."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Communication and collaboration"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": " Flash cards. Pictures of old and new vehicles furnitures, "
+      },
+      {
+        "id": "4",
+        "value": "building: school bus, computer etc."
+      },
+      {
+        "id": "5",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "6",
+        "value": "http://www.profitbook.net"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "END OF YEAR ADJUSTMENT:"
+      },
+      {
+        "id": "2",
+        "value": " i. Explanation of the year Ended Adjustment Accrued, Prepayment "
+      },
+      {
+        "id": "3",
+        "value": "ii. Making Adjustment in the Appropriate books."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, student should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. Interprete prepayment"
+      },
+      {
+        "id": "3",
+        "value": " ii. Differentiate between prepayments and payments in arrears. "
+      },
+      {
+        "id": "4",
+        "value": "ii. Solve problems involving prepayment"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, interpret prepayment,"
+      },
+      {
+        "id": "2",
+        "value": " Students in small groups differentiate between prepayment and payments in arrears."
+      },
+      {
+        "id": "3",
+        "value": " Students in small groups solve problem involving prepayment."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": " Leadership and personal development"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": "Flash cards Published final account of organization "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.accountingtools.com"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "END OF THE YEAR ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": " i. Make adjustment in the appropriate books"
+      },
+      {
+        "id": "3",
+        "value": " ii. Working exercises"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, student should be able to: "
+      },
+      {
+        "id": "2",
+        "value": " i. Calculate prepayments and accruals "
+      },
+      {
+        "id": "3",
+        "value": "ii. Post prepayments and accruals to ledgers "
+      },
+      {
+        "id": "4",
+        "value": "iii. Post entries to the final accounts."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class solve problems involving bad debt in ledger and final account; "
+      },
+      {
+        "id": "2",
+        "value": "Students in small group calculate prepayment and accruals."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving. "
+      },
+      {
+        "id": "3",
+        "value": " Leadership and personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": "Flash cards Published final account of organization "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.accountingtools.com"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BAD DEBTS AND"
+      },
+      {
+        "id": "2",
+        "value": "DOUBTFUL"
+      },
+      {
+        "id": "3",
+        "value": "DEBTS:"
+      },
+      {
+        "id": "4",
+        "value": "I. Definition of Bad Debts."
+      },
+      {
+        "id": "5",
+        "value": "ii. Explain"
+      },
+      {
+        "id": "6",
+        "value": "Doubtful Debts"
+      },
+      {
+        "id": "7",
+        "value": "iii. Different"
+      },
+      {
+        "id": "8",
+        "value": "between"
+      },
+      {
+        "id": "9",
+        "value": "bad debts and doubtful debts. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, student should be able to:"
+      },
+      {
+        "id": "2",
+        "value": " i. Determine Bad debts "
+      },
+      {
+        "id": "3",
+        "value": "ii. Differentiate between bad debts and provisions for bad debts "
+      },
+      {
+        "id": "4",
+        "value": " iii. solve problems involving bad debts and provisions for doubtful debts"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, clarify bad debts and doubtful debts. "
+      },
+      {
+        "id": "2",
+        "value": " Student in groups prepare post bad debts and doubtful debts into the appropriate books Students:"
+      },
+      {
+        "id": "3",
+        "value": " Recall the steps for preparing bad debts and doubtful debts."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Creativity and imagination"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL"
+      },
+      {
+        "id": "2",
+        "value": "RESOURCES"
+      },
+      {
+        "id": "3",
+        "value": "Flash cards "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.accountingtools.com"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "REVISION",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Book Keeping",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

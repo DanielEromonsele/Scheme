@@ -1,0 +1,929 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "COMPUTER ETHICS AND SAFETY MEASURES, 1. Responsible uses of Computer and internet. 2.Abuse and misuse of Computer 3.Safety measures -sitting posture -using anti-glare protector e.t.c "
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Guides the students on identify ways of using -Computer -Internet -Write note on the board"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "COMPUTER SOFTWARE - Definition and examples software,Types of software"
+        },
+        {
+          "id": "2",
+          "value": "OPERATING SYSTEN (I) - Definition of an operating system,Simple batch system,Multiprogramming batch system,Multi processor system,Desktop system,Distributed operating system,Clustered system,Real time operating system,Handheld system,Functions and Examples of operating system."
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher:Guides the students to describe Computer system Student: Boot the Computer and identify types of software in the system"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "GRAPHIC PACKAGES - Meaning of graphic packages,2.Examples of graphic packages, paint, corel draw, instant artist e.t.c ,3. Features: Tool bar, menu bar, printable area, color palette etc. (Practical activities for graphic packages."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher: Explains graphic packages,Student: Listen to teachers’ explanation."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "UNIT OF STORAGE IN COMPUTER -  1.Unit of storage i.Nible ii.Byte iii.Kilobyte iv.Megabyte iv.Gigabyte v. terabyte 2. Conversion from one unit to another 3. Differentiate between the unit of storage."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher leads students to convert from one unit to another. -Guides students to state the unit of storage and their values."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "GRAPHIC PACKAGES -  Meaning of graphic packages 2.Examples of graphic packages, paint, coral draw, instant artist e.t.c 3. Features: Tool bar, menu bar, printable area, color palette etc. (Practical activities for graphic packages."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher: Explains graphic packages Student: Listen to teachers’ explanation."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+  
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Status": "REVISION"
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "first Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Status": "EXAMINATION"
+    }
+  ]
+  

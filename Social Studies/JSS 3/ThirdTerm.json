@@ -1,0 +1,923 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Promoting peaceful living in our society: meaning of peacetypes of peace"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Definition of peace as the absence of war and social crises or violence. Types of peace as positive and negative peace."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads students using guided questions to find out the meaning of peace and its types."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the class discussion of the meaning of peace and its types."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Promoting peaceful living in our society: Importance of peace."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Progress and development, lack of violence and conflict, happiness and less stress."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads students to debate on the importance of living in peace with one another."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the debate."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Promoting peaceful living in our society: ways of promoting peace in our society."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Tolerance, social justice, and human rights etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads the students to role play the importance of peaceful living in the society."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the play."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Social conflict: meaning and types of conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Definition of conflict as interpersonal misunderstanding. Stating the types of conflict as violent and non-violent conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads the students to dramatize conflict and then explains the types of conflicts."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Engage in the drama."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Social conflict: examples of conflict. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Lists the various examples of conflicts such as intra-ethnic conflicts e.g. Aguleri and Umuneri, Tiv/Jukun and inter-ethnic conflicts e.g. Urhobo and Itsekiri, Kataf and Hausa."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides the students to identify examples of conflicts using stimulus."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate on discussions and stimulations on conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Social conflict: causes of conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Denial of basic rights, deprivation or frustration, misinformation, imposition of elders etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads students to identify the major causes of conflicts."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the activities."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Social conflict: consequences of conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Destruction of lives and properties, retards development, waste of resources, generation of tension and mistrust between the contenders."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads the students to identify the consequences of conflicts."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Active participation in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Managing and resolving conflicts: conflict resolution method."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Dialogue, negotiation and third-party intervention."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Paints a picture of conflict resolution."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Engage in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Managing and resolving conflict: attribute required for conflict resolution."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Mutual understanding, respect for the rule of law."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads the students into understanding the need for allowing conflict to be resolved."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion. &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Managing and resolving conflict: attributes required for managing conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Tolerance in the face of provocation, self-control, respect for opposition view, organize guest lecture on conflict."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Explains the meaning of tolerance, self-control and respect for opposition view."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen for proper understanding."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Social Studies",
+    "Class": "JSS3",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

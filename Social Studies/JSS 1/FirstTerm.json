@@ -1,0 +1,976 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning of social studies."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Definition of social studies as the study of man and his relationship or interaction between his social, physical and technological environment."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Discusses the meaning of social studies in relation to man’s physical, social and technological environment."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "-Define social studies -List the various man’s physical, social, and technological environment."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Brief history of Nigeria’s social studies education."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "The history started from USA, Europe Africa, then to other parts of the world through seminars, workshops, and conferences. Nigeria developed social studies as a subject in the early 70s during the time of General Yakubu Gowon’s Regime. Today the subject is taught in basic education schools, NTI, Colleges of education and universities and a course at the PhD. Level. It is one of the core subjects in schools today."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Discusses history of social studies education."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "-Participate in the discussion and identify the twelve states in the map of Nigeria in the 70s."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Family as a primary social group; meaning of primary social group."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Explains the meaning of primary social group."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides in the explanation and discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "-Participate -Provide relevant charts and pictures"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "What makes the Family a primary social group."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "What makes the family a primary social group? -It serves as unity of socialization. -Members belong to the family unity."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Arranges the students in groups and distribute cardboard papers to make groups to write out what makes the family a primary social group. Each group’s representative to give a 2 minute presentation. Assignment: identify four roles and responsibilities of members of a family as a social group."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Respond to what the teacher asks them to do."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "The role and responsibilities of members of the family as primary social group."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "-Work for the development of the community. -Population growth. -Political social and economic environment"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Writes them out and makes clarification."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Present their points from previous assignments."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of large/small family size."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Characteristics of large family size. Father, mother(s) and many children."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Displays charts, pictures, posters, video clips of large family size."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Given chance to react."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of large family size on individual lives."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "-Consequences of large family size on individual’s quality of life. -Consequences of large family size on the nation’s economy."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Discusses the consequences on the quality of an individual’s life and that of the nation’s economy."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Discuss few cases of large and small family sizes. Ask student their family sizes."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning of small family size."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Characteristics of small family size."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Discusses characteristics of small family sizes using relevant pictures, and charts."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Identify charts, pictures posters, video clips of small family size."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Consequences of small family size on individuals."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Consequences of small family size on individual’s quality of life and the pressure on the nation’s infrastructure."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Discusses the consequences of small family size on the national economy."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Given rom for active participation."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning and characteristics of culture. Meaning and components of culture."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Culture: is a total way of life components, materials and non-materials."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Explains culture, gives examples."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Ask questions, visit museum nearest to the school. Charts and pictures of cultural display."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning and characteristics of culture. Features of culture"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Language, food, dressing, religion, craft, technology"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides students to identify different features of new cultures."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Identify samples of our food, crafts and regalia etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Meaning and characteristics of culture. Cultural differences in Nigeria."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Learn our culture. Mention&nbsp; different activities such as food, religion, music and dances, etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Organizes cultural day with the permission of the school management to display our cultural heritage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in learning material, costumes and other culture."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Social Studies",
+    "Class": "JSS1",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

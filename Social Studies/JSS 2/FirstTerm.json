@@ -1,0 +1,976 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Objectives of social studies: General objectives of social studies."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Developing the ability to adapt to changing environment; inculcate national consciousness and unity etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides students to list the general objectives of social studies."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "List the general objectives of social studies."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Family bond and living together as one family. Meaning of family bond."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Family bond refers to the strong ties or connections among family members. It means close relationship that exists among members of a family."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Sites examples using students to explain the meaning of family bond."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Engage in the demonstration of the meaning of family bond."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Advantages of living together in a family."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Protection, happiness, unity, maintaining good family name and reputation, good social behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Arranges discussion on the advantages of living together in the family."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Importance of good family reputation."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Good name, respect from other members of the family."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads a brainstorming session on the importance of good family reputation."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the brainstorming session."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Purpose of marriage. Meaning of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Definition of marriage: Marriage is a binding contract between a man and a woman as husband and wife. &nbsp;"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Uses guided discussion to explain the meaning of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Uses guided discussion to explain the meaning of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Sexual gratification, growth in natural love, companionship."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Leads in the explanation of purposes of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the lesson."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Purpose of marriage"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Protection, procreation, satisfying social and economic needs etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Invites a guest speaker to explain the purposes of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the explanation on the purposes of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Types of marriage"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Monogamy, polygamy, levirate, polygyny, polyandry."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Guides students in the explanation of the types of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the explanation."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Conditions for marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Social stability, financial readiness, psychological readiness and physiological readiness."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Uses guided discussion to explain the conditions of marriage."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate in the discussion."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Effects of lack of readiness in marriage relationship."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Constant fight/instability, constant quarrel, separation, divorce, broken home."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Uses simulation to lead the discussion on the effect of lack of readiness in marriage relationship."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Participate actively in the simulation exercise on the effect of lack of readiness in marriage relationship."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Positive group behavior; Meaning of group and group behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Definition of the words group and behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teachers Activities": [
+      {
+        "id": "1",
+        "value": "Explains the meaning of the words group and group behavior respectively."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen actively to teacher."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Types of group behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Content": [
+      {
+        "id": "1",
+        "value": "Mass action, communal labour, joining a protest/match, participating in a fight, acting politically."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Teaching Activities": [
+      {
+        "id": "1",
+        "value": "Invites a guest speaker to speak on the types of group behavior."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Student Activities": [
+      {
+        "id": "1",
+        "value": "Listen to the guest speaker."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Social Studies",
+    "Class": "JSS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

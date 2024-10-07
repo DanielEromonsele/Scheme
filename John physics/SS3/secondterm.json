@@ -1,0 +1,366 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Electromagnetic field; concept of electromagnetic field, current  carrying solenoid in a magnetic field",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] examine the concept of electromagnetic field; Ii] investigate the direction of current, magnetic field and force in an electromagnetic field Iii] research on application of electromagnetic field"
+        },
+        {
+          "id": "2",
+          "value": [
+            {
+              "id":"1",
+              "value":"[i] examine the concept of electromagnetic field"
+            }
+          ]
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Electromagnetic field; concept of electromagnetic field, current  carrying solenoid in a magnetic field",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] examine the concept of electromagnetic field; Ii] investigate the direction of current, magnetic field and force in an electromagnetic field Iii] research on application of electromagnetic field"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students in small groups are provided with solenoids, iron rod and battery to create electromagnets Ii] The students go online for more info on field https://physics.info"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual resources [i] solenoid [ii] bar magnet Iv] Soft iron v] DC source vi] plug key vii] connecting wire B web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": [
+        {
+          "id":"2",
+          "value":"Containing resistance inductance and capacitors . reactance and impedance power in AC circuits"
+
+        },
+        {
+          "id":"2",
+          "value":"Containing resistance inductance and capacitors . reactance and impedance power in AC circuits"
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to:  [i] distinguish between the peak and r.m.s. values of current and potential"
+        },
+        {
+          "id": "2",
+          "value": "Difference, calculations; Ii] establish the phase relationship between current and potential difference in an A.C circuit Iii] compare reactance and impedance Iv] determine power in an A.C circuit V] solve related questions I A.C circuits"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class compare and contrast AC and DC circuit Ii] The students"
+        },
+        {
+          "id": "2",
+          "value": "Solve problems related to impedance , reactance Iii] The students go online for more info on A.C circuit"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I]Critical thinking &problem  solving"
+        },
+        {
+          "id": "2",
+          "value": "I]critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources I] capacitors Ii] inductors Iii] resistor"
+        },
+        {
+          "id": "2",
+          "value": "Vi] votimeter (0-500v) V] connecting wires Vi] A.C source Vii] break and make switch     B Web Resources "
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Models of an atom concept of the Atom Rutherford. Bohr Electron –cloud models limitations of physical models, isotopes, nuclear on numbers and their relationship",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] describe the evolution of the early models of atoms tpo the modern picture of atom, Ii] distinguish between the specific models of the atom with emphasis on visual representation of the atom Iii] research on how experiments were used to develop the model of the  atom iv] investigate limitations of the models v] research  on the relationship between isotopes and nucleon numbers"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class investigate on the various models of atom Ii] The students go online for more info on models of atom https://physics Info/models+of+atom"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources I] charts of the atom B web resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Nucleus & radioactivity, nuclear reaction , nuclear power and atom bombs, Nigeria’s nuclear energy programme",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] describe radioactivity and it types Ii] investigate the radiations from radioactivity and it types Iii] investigate the radiations from radioactive substance using their characteristic , Iii] explain half-life and solve simple problems involving half-life of radioactive substance V] discuss some uses of radioactive substances Vi] differentiate between nuclear fusion and nuclear fission and state the advantages of nuclear fusion over nuclear fission Vii] research on Nigeria’s nuclear energy programme"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss nuclear energy and radioactivity ii The students are divided into groups to do presentation on radioactivity and nuclear energy. Iii] The students go online  for more info on radioactivity and nuclear energy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I]critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "B Web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "Energy quantization; energy levels in atom, photo electric effects and its explanation, Thermionic emission, X-rays, quality of matter, wave particle duality",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [i] explain the concept of energy quantization, Ii] use the photon concept to show the effects of electrons in the photoelectric  effect Iii] describe X-ray production with emphasis on its characteristic, properties, uses, hazards and safety precautions Iv] compare thermionic emission and vapourization with emphasis on both similarities and differences V] investigate the principles of operation of cathode ray-oscilloscope Vi] research on wave particle duality of matter and identify phenomena which satisfy that matter behaves like (a) wave (b) particles vii) explain the concept of uncertainly principles"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I]The students are provided with materials to construct photocells Ii] the students in small groups do presentations on energy Quantization"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "I]critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "B Web Resources"
+        },
+        {
+          "id": "2",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": ""
+    },
+    {
+      "_id": "08",
+      "Weeks": "08",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+      {
+        "_id": "09",
+        "Weeks": "09",
+        "Subject": "Physics",
+        "Class": "SS1",
+        "Term": "Second Term",
+        "Topics": "",
+        "Status": "REVISION"
+      },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS1",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]

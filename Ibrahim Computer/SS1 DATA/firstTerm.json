@@ -1,0 +1,822 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "OVERVIEW OF COMPUTER SYSTEM-Definition of computer -Two main constituents of a computer a) computer hardware b) computer software",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’s ACTIVITIES-Leads students to define computer — Guide students to state the two broad classes of computer.—States characteristics of a computer. STUDENTS ACTIVITIES —Participate in class discussions—Identify various parts of hardware and software.—States characteristics of a computer. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS-A computer set-parts of computer,charts and pictures"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "COMPUTER HARDWARE -System unit -peripherals,COMPUTER SOFTWARE -System software,Application software",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’s ACTIVITIES —lists examples of hardware and software,Displays a computer set.STUDENTS’ ACTIVITIES —Identify a computer as electronic machine. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS- Parts of computer, charts and picture."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "DATA AND INFORMATION -Definition of data and information,Differences between data and information",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHERS’ ACTIVITIES —Lead students to define data and information,State differences between data and information. STUDENTS ACTIVITIES —participate in class discussions,Identify data as written by the teacher,Observe the keyboard letter arrangement as data."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS-Computer; charts and materials."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "DATA AND INFORMATION-Differences between data and information,Examples of data and information",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’S ACTIVITIES-List examples of data and information,Displays key arrangement On the key board as a type of data -Guides students to type in alphabets or numbers in a related form into computer as information.STUDENTS’ ACTIVITIES-observe the keyboard letter Arrangement as data,Enter alphabets or numbers into data and information. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS - Computer, Charts and material."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "COMPUTING DEVICES 1(PRE-COMPUTER AGE TO 19th CENTURY)Features, Components and use of;",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "(i) Abacus (ii) Slide rule (iii)Napcer’s bon (iv)Pascal calculator (v) Lerbnitz multipler (vi) Jacquard’s Loom (vii) Charles Babbage (viii) Analytical Engine (ix) Hollerith Census machine (x) Burrough’s machine."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’S ACTIVITIES -Guide students to state the features of each computing device,Displays their components to student. State their uses.STUDENTS’ ACTIVITIES -Identify the size and components of each device,Participate in class discussions."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS- Charts, pictures, and any available pre—computer age computing device."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "COMPUTING DEVICES II (20th CENTURY TO&nbsp; DATE ),Features Components and uses of: (i) ENIAC (ii)EDVAC (iii) UNIVAC 1 ",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’S ACTIVITIES -state the features of each computing device -Display their components to students -States their uses. STUDENTS’ ACTIVITIES -Identify size and components of each device,Copy notes from chalkboard. ."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS -Desktop computers, Laptop, Charts and Pictures"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "COMPUTING DEVICES II (20th CENTURY TO DATE)Feature; components&nbsp; and uses of: Iv)Desk Top Personal Computer V)Laptop and Notebook Computer vi) Palm Top Computer.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’S ACTIVITIES -States the features of each Computing device,Displays their components to students,States their uses.STUDENTS’ ACTIVITIES-Identify the size and components of each device."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS- Desktop computer, Laptop, palmtop, charts and pictures."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "INPUT DEVICES -Definition of input devices -Types of input devices:- Keyboard, Mouse, Scanner, Microphone, Joystick, Card-reader, Light pen, Digital Camera etc,",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’S ACTIVITIES -Leads students to define&nbsp; an input device -Displays input device to students -Leads students to list input devices.STUDENTS ACTIVITIES-Participation in class discussions,Identify various input devices as displayed in class."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS- Keyboard, Mouse,scanner, Microphone, Joystick, Light pen, Cards reader, Digital Camera etc."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "INPUT DEVICES -Mouse,Feature of a mouse -Functions and operation.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHER’S ACTIVITIIES -Displays the mouse in the class for students,Guides students to operate the mouse.STUDENTS ‘ ACTIVITIES  -Identify the mouse and its features. -Operate the mouse. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS- Mouse, computer system. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "KEYBOARD- Structure and function. -Keys on the keyboard:- Function keys , Numeric keys, Alphabetic keys, special Character keys, cursor control keys, command keys.",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "TEACHERS’ ACTIVITIES —Displays keyboard in the class for students. -Guides students to operate the keyboard.STUDENTS ‘ ACTIVITIES- -Identify the keyboard and its features."
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "RESOURCE MATERIALS- Keyboard, computer system"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Computer studies",
+    "Class": "SS1",
+    "Term": "First Term",
+    "Topics": "",
+    "Status": "EXAMINATION"
+  }
+]

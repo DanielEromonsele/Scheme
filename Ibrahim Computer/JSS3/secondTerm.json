@@ -1,0 +1,1025 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "GRAPH I -  Definition, Uses of graph "
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: The definition of graph The uses of graph"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "GRAPH II -  Types of graph"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: The types of graph and possible differences."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "EDITING GRAPH"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher guides the student on how to edit graph."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "FORMATTING GRAPH"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains and guides the students on formatting graph."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "GRAPHICAL PRACTICAL"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher guides practical from lessons taught on graph."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "WINDOWS OPERATION SYSTEM: Definition,Examples"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: Definition of windows operating system and the examples."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "DISK OPERATION SYSTEM (DOS) -  Function of dosTypes of command "
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains Definition of disk operation system, the functions and types."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "DIFFERENCE BETWEEN WINDOW OPERATING SYSTEM (WOS) AND DISK OPERATION (DOS)"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains the difference between the windows operating system and the disk operation system."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "FUNDAMENTAL LOGIC GATE -  Definition,Identification of AND, OR, NOT, logic gate"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: Definition of fundamental logic gate and the identification of AND, OR, NOT logic gate."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+        "_id": "10",
+        "Weeks": "10",
+        "Subject": "Computer studies",
+        "Class": "JSS3",
+        "Term": "second Term",
+        "Topics": [
+          {
+            "id": "1",
+            "value": "DRAW THE THREE(3) BASIC BUILDING BLOCK (AND, OR, NOT)"
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Learning Objects": [
+          {
+            "id": "1",
+            "value": ""
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Learning Activities": [
+          {
+            "id": "1",
+            "value": "Teacher guides the students on drawing the 3 basic building blocs stated in the previous lesson."
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Embedded Core Skills": [
+          {
+            "id": "1",
+            "value": ""
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Learning Resources": [
+          {
+            "id": "1",
+            "value": ""
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ]
+      },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Status": "REVISION"
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Computer studies",
+      "Class": "JSS3",
+      "Term": "second Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Status": "EXAMINATION"
+    }
+  ]
+  

@@ -1,0 +1,894 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Rule of law (cont.)"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Interpret the basic principles of the rule of law Outline the problems of maintaining the rule of law in practice"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students are guided to outline the basic principles of rule of law, students should visit the underlisted site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving Leadership and personal development Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources A copy of the constitution games that requires rules to judo game Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Fundamental Human Rights"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain what fundamental Human Rights are identify some fundamental human rights Describe ways&nbsp; they can defend their rights Outline some factors that can limit their rights as citizens"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students as a class brainstorm on the meaning of fundamental human rights Students in pairs identify various fundamental human rights &nbsp; Students in small groups outline are&nbsp; discus some factors that can limit their rights as citizens"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination Critical thinking and problem solving"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Charts showing various fundamental human rights Pictures of citizens traveling from one country to another (freedom of movement) Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Separation Of Powers"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain separation of powers Discuss the principles of checks and balances Distinguish between separation of powers and fusion of powers Demonstrate the principles of checks and balances Examine the relationship between separation of powers and checks and balances (presidential and parliamentary system of government)"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students in small&nbsp; groups present a playlet on ways each arm of government perform different functions Students in pairs discuss the principles of check and balance"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Leadership and personality development Critical thinking and problem solving Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Picture chart Showing functions of checks and balances A chart showing principles of check and balances &nbsp; Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Representative Government"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: Explain the meaning of representative government Describe ways representative government can be established Highlight the advantages and disadvantages of representative government"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students in small groups to discuss the meaning of representative government Students in pairs highlight the advantages and disadvantages of representative government Students as a class discuss ways&nbsp; representative government can be established"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Leadership and personality development Critical thinking and problem solving Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Pictures and charts showing Representative in the state and National Assemblies Web resources &nbsp; Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Political Participation"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain the meaning of representative government Describe ways representative government can be established Highlight the advantages and disadvantages of representative government"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students in small groups to discuss the meaning of representative government Students in pairs highlight the advantages of representative government Students as a class discuss ways representative government can be established"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Creativity and imagination Critical thinking and problem solving Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Ve-government Audio visual resources Pictures showing citizens participating in town hall meeting, political rallies etc Charts showing of political participation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Centralization and decentralization"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain centralization and decentralization Distinguish between centralization and decentralization Identify the merits and demerits of centralization and decentralization"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students as a class, brainstorm on the meaning of centralization and decentralization Students in small groups identify and discuss the advantages and disadvantages of centralization and decentralization Students in pairs distinguish between centralization and decentralization"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving Leadership and personal development Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Charts showing the difference between centralization and decentralization Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": ""
+      }
+    ],
+    "Status": "Mid Term Break"
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Delegated Legislation"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain delegated legislation Demonstrate the different forms of delegated legislation Discuss the advantages and disadvantages of delegated legislation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students in small groups demonstrate the different forms of delegated legislation Students as a class brainstorm on the merits and demerits of delegated legislation For further studies students should visit the underlisted site —-"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving Leadership and personal development Citizenship Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources An improved copy of the Nigerian passport The National Identity card &nbsp; Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Political Parties"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain political parties Discuss how political parties are organized Identify the functions of political parties Differentiate between the different types of political parties, elite parties, religious parties etc"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students as a class explain political parties Students in small groups discuss on the following organization of political parties Functions of political parties Different types of political parties"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving Leadership and personal development Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Logo of some political parties Pictures of some political parties Holding rallies and campaigns &nbsp; Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Party System"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: &nbsp; Explain party system Differentiate between party system and political parties Outline the characteristics of the different party systems Identify the advantages and disadvantages of party systems"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students as a class explain party system Students in pairs differentiate between party system and political parties Students in small groups identify and discus the advantages of party system"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving Leadership and personal development Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual Resources Charts and pictures showing party system Chart showing difference between political parties and party system "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": "Pressure Groups"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:  Describe a pressure group and identify the types of pressure groups Explain the characteristics of pressure groups and analyse their mode of action and how the operate Identify the functions of pressure groups"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students are to watch a video on group demonstration demanding for their rights&nbsp; Students as a class classify the mode of operations or pressure groups Students in small groups discuss the functions og pressure group Students in pairs Highlights the difference between pressure groups and political parties"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problem solving Leadership and personal development Citizenship"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Charts and logo of pressure groups Pictures during rallies (peaceful) Web resources Site link"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Government",
+    "Class": "SS1",
+    "Term": "Third Term",
+    "Topics": [
+      {
+        "id": "1",
+        "Value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

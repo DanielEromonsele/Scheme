@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "REVISION"
+      },
+      {
+        "id": "2",
+        "value": "SINGLE ENTRY AND INCOMPLETE"
+      },
+      {
+        "id": "3",
+        "value": "RECORD"
+      },
+      {
+        "id": "4",
+        "value": "-Meaning; Limitation and preparation of Final Account From incomplete records."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students"
+      },
+      {
+        "id": "2",
+        "value": "should be able to:"
+      },
+      {
+        "id": "3",
+        "value": " i. give an explanation for single entry "
+      },
+      {
+        "id": "4",
+        "value": " ii. identify limitations of singe entry and incomplete records. "
+      },
+      {
+        "id": "5",
+        "value": " iii. Prepare opening statement of affairs."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class discuss on the term single entry."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups, converts single entry to double entry Whole class prepared Statement of affairs."
+      },
+      {
+        "id": "3",
+        "value": "Students as a class, brainstorm on statement of affairs."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration."
+      },
+      {
+        "id": "2",
+        "value": " Critical thinking and problem solving"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "  class presentation Format of steps involved Charts showing format of final account "
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "http://www.accountingcoach.com"
+      },
+      {
+        "id": "5",
+        "value": "http://www.Dronstudy.com"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "SINGLE- ENTRY AND INCOMPLETE"
+      },
+      {
+        "id": "2",
+        "value": "RECORDS"
+      },
+      {
+        "id": "3",
+        "value": " -Working exercise"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, "
+      },
+      {
+        "id": "2",
+        "value": "students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": "i. Prepare net profit statement."
+      },
+      {
+        "id": "4",
+        "value": "ii. Convert single entries to double entry"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, determine. Capital and profit balance."
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs, convert single entries to double entry ."
+      },
+      {
+        "id": "3",
+        "value": "Students in small groups prepare "
+      },
+      {
+        "id": "4",
+        "value": "statement of affairs and conversion to double entry"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration. "
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": " class presentation Format of steps involved charts showing format of final account"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "http://www.accountingcoach.com"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "ACCOUNT OF NON-PROFIT"
+      },
+      {
+        "id": "2",
+        "value": "MAKING ORGANISATION"
+      },
+      {
+        "id": "3",
+        "value": " -Meaning of Non- Profit"
+      },
+      {
+        "id": "4",
+        "value": "Organization. "
+      },
+      {
+        "id": "5",
+        "value": "– Source of Income and example "
+      },
+      {
+        "id": "6",
+        "value": "-Books maintained Receipts and Expenditure Accounts -Balance sheet  "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "lesson, students should: be able to:"
+      },
+      {
+        "id": "2",
+        "value": "i. describe nonprofit making organisations. "
+      },
+      {
+        "id": "3",
+        "value": "iii. list the sources of income to a non-"
+      },
+      {
+        "id": "4",
+        "value": "Profit making organization Student in small groups,"
+      },
+      {
+        "id": "5",
+        "value": " write down the reasons for non-profit making organisaton."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class brainstorm on the meaning of non- profit making."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups, state the source of income to  "
+      },
+      {
+        "id": "3",
+        "value": "Students as a class explain income and Expenditure. "
+      },
+      {
+        "id": "4",
+        "value": "Students as class list users of income and expenditure account"
+      },
+      {
+        "id": "5",
+        "value": "A non-profit organiation"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and"
+      },
+      {
+        "id": "2",
+        "value": "collaboration, Critical thinking and problem solving."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Societies and clubs in"
+      },
+      {
+        "id": "3",
+        "value": "the school Currency note, income received; Expenses made"
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "www.classhall.com "
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "RECEIPTS AND PAYMENT ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": "-Meaning of receipts and statement account"
+      },
+      {
+        "id": "3",
+        "value": "– Purpose of receipts and Payment Account."
+      },
+      {
+        "id": "4",
+        "value": " –User of Receipts and Payment Account Contents of Receipts and Payment Accounts. "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, "
+      },
+      {
+        "id": "2",
+        "value": "students should be able to:"
+      },
+      {
+        "id": "3",
+        "value": " i. identify the users of receipts and payment account."
+      },
+      {
+        "id": "4",
+        "value": "ii. state the contents of receipts and payments account:"
+      },
+      {
+        "id": "5",
+        "value": "iii. describe receipts and payments a non-profit organisations "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Student in small groups, write down he reasons for profit making. "
+      },
+      {
+        "id": "2",
+        "value": "Students as a class "
+      },
+      {
+        "id": "3",
+        "value": " – identity the user of receipts and payment and income and expenditure account "
+      },
+      {
+        "id": "4",
+        "value": "Students in small groups, state the contents of receipts and payment account. "
+      },
+      {
+        "id": "5",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Communication and "
+      },
+      {
+        "id": "3",
+        "value": " – Collaboration"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Charts."
+      },
+      {
+        "id": "3",
+        "value": "Real objects such as money, cheque etc"
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.toppr.com"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "RECEIPTS AND PAYMENT"
+      },
+      {
+        "id": "2",
+        "value": "ACCOUNT"
+      },
+      {
+        "id": "3",
+        "value": "Preparation of Receipts and payment account."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students"
+      },
+      {
+        "id": "2",
+        "value": "should be able to:"
+      },
+      {
+        "id": "3",
+        "value": " i. Use the given information to prepare receipts and payment account "
+      },
+      {
+        "id": "4",
+        "value": "ii. Balance receipts and payment account"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class participate in the "
+      },
+      {
+        "id": "2",
+        "value": "preparation of receipts and payment account."
+      },
+      {
+        "id": "3",
+        "value": "Students in small groups prepares balance sheet. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving."
+      },
+      {
+        "id": "2",
+        "value": " Communication and Collaboration"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Real object such as money, cheque etc. .Cha its"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "http://www.toppr.con"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "INCOME AND EXPENDITURE ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": " – Meaning, purpose of income and expenditure accounts."
+      },
+      {
+        "id": "3",
+        "value": "– Users of Income and Expenditure Accounts."
+      },
+      {
+        "id": "4",
+        "value": "– Contents of Income and Expenditure Accounts."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": " i. explain income and expenditure accounts. "
+      },
+      {
+        "id": "3",
+        "value": "ii. identify items used to prepare"
+      },
+      {
+        "id": "4",
+        "value": "income and expenditure account. "
+      },
+      {
+        "id": "5",
+        "value": "iii. list the users of the account."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, brainstorm on income and expenditure account"
+      },
+      {
+        "id": "2",
+        "value": "Students as a class explain income and Expenditure."
+      },
+      {
+        "id": "3",
+        "value": " Students as class list users of income and expenditure account"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Communication and Collaboration "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AU DO VISUAL RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": " Charts."
+      },
+      {
+        "id": "3",
+        "value": "Flash cards Calculator "
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "http://www.accountingformanagement.org"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": "",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "INCOME AND EXPENDITURE ACCOUNT"
+      },
+      {
+        "id": "2",
+        "value": "-Identification and Difference of revenue and "
+      },
+      {
+        "id": "3",
+        "value": "capital preparation of Simple income and expenditure account"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "i. Prepare income and expenditure account "
+      },
+      {
+        "id": "3",
+        "value": "ii.identify capital and revenue expenditure"
+      },
+      {
+        "id": "4",
+        "value": " iii. Determine the surplus or deficit "
+      },
+      {
+        "id": "5",
+        "value": "iv. Differentiate between surplus and deficit "
+      },
+      {
+        "id": "6",
+        "value": "v. Prepare income and expenditure"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class, prepare the income:"
+      },
+      {
+        "id": "2",
+        "value": "an expenditure account."
+      },
+      {
+        "id": "3",
+        "value": "Students in groups justify the user of income and expenditure account. ."
+      },
+      {
+        "id": "4",
+        "value": "Students in groups, discuss the meaning of surplus and deficit. "
+      },
+      {
+        "id": "5",
+        "value": "  Students as a class differentiate "
+      },
+      {
+        "id": "6",
+        "value": "between surplus and"
+      },
+      {
+        "id": "7",
+        "value": "deficit."
+      },
+      {
+        "id": "8",
+        "value": "Students in small groups, prepares"
+      },
+      {
+        "id": "9",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and Collaboration"
+      },
+      {
+        "id": "2",
+        "value": "Critical thinking and Problem solving."
+      },
+      {
+        "id": "3",
+        "value": "Communication and – Collaboration"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL. RESOURCES"
+      },
+      {
+        "id": "2",
+        "value": "Charts showing income and expenditure format"
+      },
+      {
+        "id": "3",
+        "value": "Rash cards."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "http://www.accountingformament.com"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Basic concepts of marketing. "
+      },
+      {
+        "id": "2",
+        "value": "(a) Meaning of. marketing"
+      },
+      {
+        "id": "3",
+        "value": "(b) Methods of marketing"
+      },
+      {
+        "id": "4",
+        "value": "(c) Importance of marketing"
+      },
+      {
+        "id": "5",
+        "value": "(d) Marketing/distribution channel chart"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: "
+      },
+      {
+        "id": "2",
+        "value": "I describe the term marketing;"
+      },
+      {
+        "id": "3",
+        "value": "2. examine ‘the methods .- of marketing;"
+      },
+      {
+        "id": "4",
+        "value": "3. Analyse the importance of marketing "
+      },
+      {
+        "id": "5",
+        "value": "4. Create a flow chart of the marketing of channel distribution"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "1. Students, as a class, brainstorm on the term and expenditure account."
+      },
+      {
+        "id": "2",
+        "value": "2. Students, as a class, brainstorm on the term marketing."
+      },
+      {
+        "id": "3",
+        "value": "3 Whole class discussion on the different methods of marketing"
+      },
+      {
+        "id": "4",
+        "value": "4. Small groups"
+      },
+      {
+        "id": "5",
+        "value": "Marketing important."
+      },
+      {
+        "id": "6",
+        "value": " 4. Small groups activities on chart of distribution channels of marketing"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "– Communication and Collaboration"
+      },
+      {
+        "id": "2",
+        "value": "– Critical thinking and Problem solving"
+      },
+      {
+        "id": "3",
+        "value": "– Leadership and Personal"
+      },
+      {
+        "id": "4",
+        "value": "– Creativity and imagination"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Basic concepts of marketing. "
+      },
+      {
+        "id": "2",
+        "value": "(a) Meaning of marketing"
+      },
+      {
+        "id": "3",
+        "value": "(b) Methods of marketing"
+      },
+      {
+        "id": "4",
+        "value": "(c) Importance of marketing"
+      },
+      {
+        "id": "5",
+        "value": "Distribution-for-plaintains-in-Abidjan-cote-divore-figi273770927 Pictures chart"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "weeks": "",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Marketing continued "
+      },
+      {
+        "id": "2",
+        "value": " (a) Product Branding "
+      },
+      {
+        "id": "3",
+        "value": "(b) Product Packaging"
+      },
+      {
+        "id": "4",
+        "value": " (c) Costing"
+      },
+      {
+        "id": "5",
+        "value": "(d) Pricing "
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to "
+      },
+      {
+        "id": "2",
+        "value": "1. highlight the factors to be considered in product price tag;"
+      },
+      {
+        "id": "3",
+        "value": "2 distinguish"
+      },
+      {
+        "id": "4",
+        "value": "between the term packaging Branding,"
+      },
+      {
+        "id": "5",
+        "value": "3 Develop a feasibility study for setting up "
+      },
+      {
+        "id": "6",
+        "value": " a groups profitable business or production unit; "
+      },
+      {
+        "id": "7",
+        "value": "Creativity design a befitting package for their products."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Whole class on the factor to be considered before living a product price "
+      },
+      {
+        "id": "2",
+        "value": "2. Students, in pairs, discuss the differences between packaging branding "
+      },
+      {
+        "id": "3",
+        "value": "3 Students in small groups present a feasibility study of a"
+      },
+      {
+        "id": "4",
+        "value": "said production of business setup (Group product)"
+      },
+      {
+        "id": "5",
+        "value": "4. Students, in the same groups, produce or come up with befitting "
+      },
+      {
+        "id": "6",
+        "value": "packages for their products. "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "– Communication and Collaboration"
+      },
+      {
+        "id": "2",
+        "value": "– Critical thinking and Problem solving"
+      },
+      {
+        "id": "3",
+        "value": "– Leadership and Personal"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Branded Product"
+      },
+      {
+        "id": "2",
+        "value": "Packaged products"
+      },
+      {
+        "id": "3",
+        "value": "Pictures"
+      },
+      {
+        "id": "4",
+        "value": "Charts"
+      },
+      {
+        "id": "5",
+        "value": "www brandingmag.com"
+      },
+      {
+        "id": "6",
+        "value": ""
+      },
+      {
+        "id": "7",
+        "value": "www smallbusinesshron.com"
+      },
+      {
+        "id": "8",
+        "value": "www vegcropshotline.org. "
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": "",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "Book Keeping",
+    "class": "SS2",
+    "term": "Third term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]

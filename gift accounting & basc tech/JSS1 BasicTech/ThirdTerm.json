@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "REVISION / WELCOME TEST"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "WOODWORK HAND TOOLS (CONTD.)"
+      },
+      {
+        "id": "2",
+        "value": " Driving and impelling tools e.g. hammer, mallet, screw driver."
+      },
+      {
+        "id": "3",
+        "value": "• Holding devices e.g. bench vice, bench holdfast, corner clamp, sash clamp, F and G clamps."
+      },
+      {
+        "id": "4",
+        "value": "• Care and maintenance of woodwork hand tools."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "– Identify wood work driving tools and holding devices."
+      },
+      {
+        "id": "3",
+        "value": "– Sketch the woodwork driving tools and holding devices."
+      },
+      {
+        "id": "4",
+        "value": "– Demonstrate the maintenance and care of woodwork hand tools"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "– Students as a class participate in the class discussion."
+      },
+      {
+        "id": "2",
+        "value": "-Students as a class list some driving tools"
+      },
+      {
+        "id": "3",
+        "value": "-Students as a group identify the various woodwork holding devices."
+      },
+      {
+        "id": "4",
+        "value": "-Students in pairs clean and store the hand tools."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Creativity and Imagination"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Sample of sash clamp, F & G clamp, bench hold fast, assorted hammer, assorted screw driver."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "wagnermeters.com"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "METAL WORK HAND TOOLS"
+      },
+      {
+        "id": "2",
+        "value": "• Measuring tools and their uses."
+      },
+      {
+        "id": "3",
+        "value": "Marking out tools and their uses."
+      },
+      {
+        "id": "4",
+        "value": "Holding devices and their uses."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, by the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "Differentiate the various tools used for metalwork."
+      },
+      {
+        "id": "3",
+        "value": "Highlight some examples of each of the tools."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class sketch some of the tools"
+      },
+      {
+        "id": "2",
+        "value": "Students as a class visit the workshop"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Creativity and Imagination"
+      },
+      {
+        "id": "3",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "4",
+        "value": "Leadership and Personal development"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Veneer caliper"
+      },
+      {
+        "id": "3",
+        "value": "Outside caliper"
+      },
+      {
+        "id": "4",
+        "value": "Outside caliper"
+      },
+      {
+        "id": "5",
+        "value": "metalworkinginfo.blogspot.com"
+      },
+      {
+        "id": "6",
+        "value": "Inside caliper"
+      },
+      {
+        "id": "7",
+        "value": "Scriber, try square"
+      },
+      {
+        "id": "8",
+        "value": "Odd leg caliper."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "METAL WORK HAND TOOLS (CONTD.)"
+      },
+      {
+        "id": "2",
+        "value": "Driving tools and their uses."
+      },
+      {
+        "id": "3",
+        "value": "Cutting tools and their uses."
+      },
+      {
+        "id": "4",
+        "value": "Boring tools and their uses"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "– Mention uses of the driving tools, cutting and boring tools."
+      },
+      {
+        "id": "3",
+        "value": "– Identify each of the driving tools, cutting and boring tools."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "– Students as a class sketch some of the tools."
+      },
+      {
+        "id": "2",
+        "value": "-Students as a class visit the workshop."
+      },
+      {
+        "id": "3",
+        "value": "-Students in pair’s carryout simple job with the tools."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Creativity and Imagination"
+      },
+      {
+        "id": "3",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOUCES:"
+      },
+      {
+        "id": "2",
+        "value": "Allen key, off set, spanners, hammers, hack saw, chisels file etc."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "metalworkinginfo.blogspot.com"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "MAINTENANCE OF TOOLS AND MACHINES"
+      },
+      {
+        "id": "2",
+        "value": "• Meaning of maintenance."
+      },
+      {
+        "id": "3",
+        "value": "•Types of maintenance: (a)Predictive, (b) Preventive,(c) Corrective."
+      },
+      {
+        "id": "4",
+        "value": "• Importance of maintenance."
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "– Explain the meaning of maintenance."
+      },
+      {
+        "id": "3",
+        "value": " – Differentiate the types of maintenance."
+      },
+      {
+        "id": "4",
+        "value": "– Explain the meaning of each maintenance."
+      },
+      {
+        "id": "5",
+        "value": "– Highlight why tools and machines need regular maintenance."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " -Students as a class brainstorm on the meaning of maintenance."
+      },
+      {
+        "id": "2",
+        "value": "-Students in small groups differentiate between types of maintenance."
+      },
+      {
+        "id": "3",
+        "value": "-Students as a class watch video clips on care of hand tools."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and personal development"
+      },
+      {
+        "id": "4",
+        "value": "Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Video clips on care of hand tools."
+      },
+      {
+        "id": "3",
+        "value": "Picture showing types of maintenance."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "5",
+        "value": "https:classhall.com/maintenance tool: machines"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BASIC ELECTRICITY"
+      },
+      {
+        "id": "2",
+        "value": "Definition / types of current"
+      },
+      {
+        "id": "3",
+        "value": "Electric circuit and its components."
+      },
+      {
+        "id": "4",
+        "value": "Basic Electrical tools"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "-Explain the meaning of electricity and current"
+      },
+      {
+        "id": "3",
+        "value": " -Differentiate the two types of current"
+      },
+      {
+        "id": "4",
+        "value": "-Differentiate between the various electric circuit components."
+      },
+      {
+        "id": "5",
+        "value": "-Outline some basic electrical tools and symbols."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " – Students as a class brainstorm on the meaning of electricity."
+      },
+      {
+        "id": "2",
+        "value": " – Students in small groups list some basic components of an electric circuit."
+      },
+      {
+        "id": "3",
+        "value": "-Students as a class highlight basic electricity tools."
+      },
+      {
+        "id": "4",
+        "value": " -Students as a class highlight basic electricity symbols"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problem solving."
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Chart showing the types of current."
+      },
+      {
+        "id": "3",
+        "value": "-Video clips showing various components of an electrical circuit."
+      },
+      {
+        "id": "4",
+        "value": "WEB RESOURCES"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "CONTINUOUS ASSESSMEN/MID term BREAK"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BASIC ELECTRICITY"
+      },
+      {
+        "id": "2",
+        "value": "Electricity measuring instruments"
+      },
+      {
+        "id": "3",
+        "value": "Simple electrical calculation"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "-Differentiate the various electricity measuring instruments and device."
+      },
+      {
+        "id": "3",
+        "value": "-Explain what each of them does"
+      },
+      {
+        "id": "4",
+        "value": "-Do simple calculations on electricity."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class mention some electricity measuring instrument/devices."
+      },
+      {
+        "id": "2",
+        "value": "Students in pairs solve electricity related on the board."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO –VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "A chart showing the various electricity measuring instrument / devices"
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "circuitglobe.com"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BASIC ELECTRICITY"
+      },
+      {
+        "id": "2",
+        "value": "Electricity transmission devices"
+      },
+      {
+        "id": "3",
+        "value": "(a)Transformer"
+      },
+      {
+        "id": "4",
+        "value": "(b)Stabilizer"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": " By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "-Differentiate the various electricity transmission devices."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class analyze some electricity transmission devices."
+      },
+      {
+        "id": "2",
+        "value": "Students in small groups distinguish between step-up transformer and step-down transformer"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Collaboration and Communication"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Chart / specimen showing the various devices."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES"
+      },
+      {
+        "id": "4",
+        "value": "openei.org"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "BASIC ELECTRICITY (CONTD.)"
+      },
+      {
+        "id": "2",
+        "value": "Simple electrical circuit connection"
+      },
+      {
+        "id": "3",
+        "value": "Simple circuit diagram"
+      },
+      {
+        "id": "4",
+        "value": "PRACTICAL WORK ON ELECTRICITY TABLE LAMP HOLDER"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:"
+      },
+      {
+        "id": "2",
+        "value": "-Demonstrate the various means of connecting the electrical circuit and their circuit diagrams."
+      },
+      {
+        "id": "3",
+        "value": "-Outline the process involved in the connection."
+      },
+      {
+        "id": "4",
+        "value": "-Demonstrate the processes involved in making a simple table lamp holder."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class watch video clips on connection of circuit."
+      },
+      {
+        "id": "2",
+        "value": "Students as a class list the tools needed to be used."
+      },
+      {
+        "id": "3",
+        "value": "Students as a class demonstrate the proper connection of a circuit."
+      },
+      {
+        "id": "4",
+        "value": "Students in small groups distinguish between parallel and series connections of resistors."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "Communication and Collaboration"
+      },
+      {
+        "id": "3",
+        "value": "Leadership and Personal development."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO-VISUAL RESOURCES:"
+      },
+      {
+        "id": "2",
+        "value": "Video clips electricity chart showing the various circuit connections."
+      },
+      {
+        "id": "3",
+        "value": "WEB RESOURCES:"
+      },
+      {
+        "id": "4",
+        "value": "www.jumia.com.ng/lamp-shades-desk-lamp/"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION",
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "Basic Technology",
+    "class": "JSS1",
+    "term": "Third term",
+    "topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

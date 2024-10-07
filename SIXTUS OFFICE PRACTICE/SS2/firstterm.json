@@ -1,0 +1,1057 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "REVISION WELCOME TEST"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to recall the last term’s/levels works, The,"
+      },
+      {
+        "id": "2",
+        "value": "i. attempt given evaluation questions and provide correct. answers "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Whole class revise some of the previous topics given.  "
+      },
+      {
+        "id": "2",
+        "value": "ii. Provides solutions/ answers to the evaluation the questions are given to assess their achievement."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration, critical thinking and problems solving and personal development. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Sets of evaluation questions and specimens"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "CIVIL SERVICE (Meaning and function)"
+      },
+      {
+        "id": "2",
+        "value": "– Comparison of Civil service and public service"
+      },
+      {
+        "id": "3",
+        "value": " – Categories of Civil Service (General Scientific and Specialist, Clerical)"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:i. explain the meaning of Civil Service with its functions."
+      },
+      {
+        "id": "2",
+        "value": "ii. Distinguish between Civil Service and Public Service."
+      },
+      {
+        "id": "3",
+        "value": "A. categorize Civil service. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Students as a class brainstorm on the meaning and func4ions of Civil service, "
+      },
+      {
+        "id": "2",
+        "value": "ii-Students in small groups compare contrast Civil service and public service."
+      },
+      {
+        "id": "3",
+        "value": "iii. Students in pairs, classify Civil service of the different categories and share with the class. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problems solving, communication and collaboration, leadership and persona I development. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Chart/picture of Government Offices e.g. Alausa Secretariat, LASTMA Office, VIO office, High Court. "
+      },
+      {
+        "id": "2",
+        "value": "Web resources:https://www.citizens-information.ie/en/government -in-Ireland/government-the civil service.html. com/tutorials/civil service-administration/structure-and-classes-of-thenigerian-civil-service/ "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "OFFICE DOCUMENTS:"
+      },
+      {
+        "id": "2",
+        "value": "-Meaning of Office Documents"
+      },
+      {
+        "id": "3",
+        "value": "– Types of Office Documents."
+      },
+      {
+        "id": "4",
+        "value": "I. Administrative • Documents."
+      },
+      {
+        "id": "5",
+        "value": "ii. Sales Documents."
+      },
+      {
+        "id": "66",
+        "value": " iii. Purchasing/Store Documents etc."
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:i. explain the meaning of Office Documents."
+      },
+      {
+        "id": "2",
+        "value": "ii. analyze the types of Office Documents with the use. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Whole class deliberate on the meaning of Office Documents  "
+      },
+      {
+        "id": "2",
+        "value": "ii. Students in pairs outline the types and uses of Office Documents and share with the class."
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problems solving,"
+      },
+      {
+        "id": "2",
+        "value": "Communication and collaboration, leadership and personal development. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources: receipt, Invoice, Attendance Register, Movement Book, Inward and Outward Register etc. "
+      },
+      {
+        "id": "2",
+        "value": "Web resource:<a href=https://classhall.com/lesson/office-document target=_blank rel=noopener>https://classhall.com/lesson/office-document</a>"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "ADMINISTRATIVE DOCUMENTS:"
+      },
+      {
+        "id": "2",
+        "value": "-Definition of Administrative Documents."
+      },
+      {
+        "id": "3",
+        "value": "– Types of Administrative Documents:I. Nominal Roll.ii. Calendar of Events, etc.,"
+      },
+      {
+        "id": "4",
+        "value": "Uses of each type of the Administrative documents."
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to:i. Define Administrative Documents."
+      },
+      {
+        "id": "2",
+        "value": "Outline the types of Administrative Documents,"
+      },
+      {
+        "id": "3",
+        "value": "it. Analyze the uses of the various types. "
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Student as a class discuss the possible meaning of Administrative documents "
+      },
+      {
+        "id": "2",
+        "value": " ii. Enumerate the different types of the documents with examples"
+      },
+      {
+        "id": "3",
+        "value": "iii. Students in pairs, explain the uses of each"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problems solving, Communication and collaboration, leadership and personal development"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources: Samples of Nominal Roll, Even Calendar, etc., "
+      },
+      {
+        "id": "2",
+        "value": "Web resources:<a href=https://www.lawinsider.com/dictionary/administrative-document target=_blank rel=noopener>https://www.lawinsider.com/dictionary/administrative-document</a> https://unstats.un.org/wiki/plugin/serviet/mobile?contentid=5309468#content/view/5309468"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "SALES DOCUMENTS:Definition of Sales Documents"
+      },
+      {
+        "id": "2",
+        "value": "– Types and uses of Sales Documents( Debit Note, Credit Note, Delivery Note, Invoice, Price List category Preformate Invoice, Quotation. Preparation of sales documents. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students. should be able to:i.. Explain the meaning of Sales Documents,"
+      },
+      {
+        "id": "2",
+        "value": "ii. Enumerate types and uses of sales documents,"
+      },
+      {
+        "id": "3",
+        "value": "iii. analyse how to prepare Sales Documents."
+      },
+      {
+        "id": "4",
+        "value": "iv. Construct a standard sales document. "
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Students as a class discuss sales documents,   "
+      },
+      {
+        "id": "2",
+        "value": "ii-Students in small groups outline and analyze the different types and uses of sales documents"
+      },
+      {
+        "id": "3",
+        "value": "iii. Students in small groups analyse how to prepare Sales documents) project)."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Critical thinking and problems solving, communication and collaboration, leadership and personal development, and. creativity and innovation. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources Log book, receipt, letter of enquiry, debit note, Journals."
+      },
+      {
+        "id": "2",
+        "value": "Web resource:https://classhall.com/lesson/office-documents/. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "PURCHASING/ STORES DOCUMENTS:-Definition of Purchasing Documents."
+      },
+      {
+        "id": "2",
+        "value": "-Types of Purchasing Documents.-Types of Purchasing Documents.ii. Letter of Enquiry. iii. Order.iv. Stock card, etc. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:i. Explain the meaning of Purchasing Documents with types and uses "
+      },
+      {
+        "id": "2",
+        "value": ", ii. Cutline how to prepare Purchasing documents"
+      },
+      {
+        "id": "3",
+        "value": "iii. Construct a standard sample of purchasing documents."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Students as a class brainstorm on the meaning of purchasing documents  "
+      },
+      {
+        "id": "2",
+        "value": " ii. Small groups discussion the various types and uses."
+      },
+      {
+        "id": "3",
+        "value": "iii. Students in pairs analyze how to create sample of purchase documents."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Critical thinking &amp; problem solving, communication and collaboration, creativity and innovation. "
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio-visual resources stock card, material requisition form, store requisition form, etc. Web resource:"
+      },
+      {
+        "id": "2",
+        "value": "https://classhall.com/les son/office-documents/ "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": "",
+    "Status": "Mid Term Break"
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "OTHER IMPORTANT DOCUMENTS IN THE OFFICE"
+      },
+      {
+        "id": "2",
+        "value": "-Cheque Book"
+      },
+      {
+        "id": "3",
+        "value": "– Bank Statement."
+      },
+      {
+        "id": "4",
+        "value": "– Bank Draft."
+      },
+      {
+        "id": "5",
+        "value": "– Teller."
+      },
+      {
+        "id": "6",
+        "value": "-ATM Card- Automated Teller Machine Card."
+      },
+      {
+        "id": "7",
+        "value": "-Preparation of Office Documents."
+      },
+      {
+        "id": "8",
+        "value": "– Uses of Office Documents."
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to:i. outline other important documents used in an office:, such as, Cheque book, bank statement, etc., "
+      },
+      {
+        "id": "2",
+        "value": "ii. construct some of other office documents"
+      },
+      {
+        "id": "3",
+        "value": "iii. enumerate the use of such office documents."
+      },
+      {
+        "id": "4",
+        "value": "v. Trip to nearby manufacturing company’s sales department."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Students as a appraised the importance of other documents."
+      },
+      {
+        "id": "2",
+        "value": " ii. Students in pairs enumerate the uses."
+      },
+      {
+        "id": "3",
+        "value": " iii. Students in small groups create samples of other documents outlined."
+      },
+      {
+        "id": "4",
+        "value": "iv. Whole class visit a manufacturing company’s sales department for better understanding. "
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and Collaboration, Leadership and Personal"
+      },
+      {
+        "id": "2",
+        "value": "development, Creativity and Imagination Citizenship. "
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources:Cheque Book, statement of Account, bank draft, etc., "
+      },
+      {
+        "id": "2",
+        "value": "Web resources:https://www.yourarticle/com/accounting/documents/top-8-types- of-documents-/used-in-accounting /63112 "
+      },
+      {
+        "id": "3",
+        "value": "https://insprojects.com/collections-all-type-of-documents-used-in-banks-and-office"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "BUSINESS LETTER: – Definition of Business Letter. "
+      },
+      {
+        "id": "2",
+        "value": "– Layout of a Business Letter."
+      },
+      {
+        "id": "3",
+        "value": "– Types of Business Letters Application letters, Appointment letters, Goodwill letters,Congratulation letters, Condolences letters."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, Students should be able to: i. define Business letter, Letters."
+      },
+      {
+        "id": "2",
+        "value": "i. Students in small groups, brainstorm on the meaning of Business letter. "
+      },
+      {
+        "id": "3",
+        "value": "ii. Students in pairs construct the  layout of Business Letters."
+      },
+      {
+        "id": "4",
+        "value": "iii: Enumerate types of business letters."
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Students in small groups, brainstorm on the meaning of Business letter."
+      },
+      {
+        "id": "2",
+        "value": "  ii. Students in pairs construct the layout of different types of Business letter, and share with the each others,"
+      },
+      {
+        "id": "3",
+        "value": "ii. Students in small groups create samples of different types of Business Letters (project),"
+      },
+      {
+        "id": "4",
+        "value": " iv. for further understanding, students should visit the given site."
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and Collaboration, Leadership and Personal"
+      },
+      {
+        "id": "2",
+        "value": "development, Creativity and Imagination Citizenship."
+      },
+      {
+        "id": "3",
+        "value": "Development digital literacy."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio visual resources: Memo, Business letter, Minute book, Report writing, etc.,"
+      },
+      {
+        "id": "2",
+        "value": "Web resources: https://www.learning.com"
+      },
+      {
+        "id": "3",
+        "value": "Mar.net/a/types-of-business-letters. <a href=https://work.chron.com/10-types-business-letters-9438 target=_blank rel=noopener>https://work.chron.com/10-types-business-letters-9438</a>"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "PERSONAL LETTER"
+      },
+      {
+        "id": "2",
+        "value": "Definition of Personal letter Layout of a personal letter"
+      },
+      {
+        "id": "3",
+        "value": "– Writing Personal Letter."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson Students should be able to i. define Personal Letter with examples "
+      },
+      {
+        "id": "2",
+        "value": " ii.design the layout of personal letter."
+      },
+      {
+        "id": "3",
+        "value": "iii. Construct a sample of personal letter."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "i. Students as a class discuss the meaning of personal letters with examples"
+      },
+      {
+        "id": "2",
+        "value": "ii students in pairs sketch the layout of personal letters and share with class"
+      },
+      {
+        "id": "3",
+        "value": "iii. Students in small groups create samples of personal letters and discuss with the class."
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Communication and collaboration Critical thinking and problems solving leadership and personal development creativity and innovation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Audio Visual Resources. Specimen document of personal letter "
+      },
+      {
+        "id": "2",
+        "value": "Web Resources https//www.thoughtco.com-personal-letter-composition-i 691499: https://myausigrimenthe lp.com/blog/personal-letter-format/"
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Office Practice",
+    "Class": "SS2",
+    "Term": "First Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "EXAMINATION"
+  }
+]

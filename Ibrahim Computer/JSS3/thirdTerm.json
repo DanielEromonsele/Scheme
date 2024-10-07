@@ -1,0 +1,1025 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": " Storage.Units of storage e.g. bit, nibble, byte."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher: Explain how dates are stored in the computer memory and the units of storage.  "
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "UNIT STORAGE -  Byte Kilobyte,Megabyte,Gigabyte Conversion Differences."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: The different units of storage. Conversion from one unit to another. The differences between the units of storage.   Students should participate in class discussion."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "PROGRAMMING LANGUAGE - Definition,Examples"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: The definition of programming language. The examples of programming language."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "LOW LEVEL LANGUAGE -  Machine language Assembly language."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: The meaning of low level language and the types."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "HIGH LEVEL LANGUAGE -  Definition of high level language translatorE.g. interpreter, compiler, assembler."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains: The definition of high level language and the types. Identifying the difference between the low and high level language."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "INTERNET I -  Definition,Benefit of internet "
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains; Definition of the internet Benefits or importance of the internet."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "INTERNET II -  Abuse of the use of internet e.g. internet browsers"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher explains the abuse of the use of internet."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "INTERNET III -  Create, send, and receive e-mail messages."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher guides How to create, send and receive e mail messages."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": "INTERNET IV -  Search for information on education"
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "Teacher guides the students on how to use the internet to search for information on technology as well as how to properly make use of such information."
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ]
+    },
+    {
+        "_id": "10",
+        "Weeks": "10",
+        "Subject": "Computer studies",
+        "Class": "JSS2",
+        "Term": "third Term",
+        "Topics": [
+          {
+            "id": "1",
+            "value": "INTERNET V -  practical creating e-mail account"
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Learning Objects": [
+          {
+            "id": "1",
+            "value": ""
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Learning Activities": [
+          {
+            "id": "1",
+            "value": "Teacher guides Student practical and creation of e-mail accounts on the computer."
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Embedded Core Skills": [
+          {
+            "id": "1",
+            "value": ""
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ],
+        "Learning Resources": [
+          {
+            "id": "1",
+            "value": ""
+          },
+          {
+            "id": "2",
+            "value": ""
+          },
+          {
+            "id": "3",
+            "value": ""
+          },
+          {
+            "id": "4",
+            "value": ""
+          }
+        ]
+      },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Status": "REVISION"
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Computer studies",
+      "Class": "JSS2",
+      "Term": "third Term",
+      "Topics": [
+        {
+          "id": "1",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "value": ""
+        },
+        {
+          "id": "3",
+          "value": ""
+        },
+        {
+          "id": "4",
+          "value": ""
+        }
+      ],
+      "Status": "EXAMINATION"
+    }
+  ]
+  

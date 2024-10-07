@@ -1,0 +1,373 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Revision/triangular prime, rectangular glass prism, angle of deviation and calculations , real depth and apparent depth",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i]  perform an experiment that involves tracing light rays through a triangular prism and obtain graphically the value of the angle of minimum deviation Ii] obtain the spectrum of white light Iii] compare real depth and apparent depth and solve related questions"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] The students in small groups experimentally determine the angle of deviation of glass prisms Ii] the students in small groups experimentally determine the real and apparent depth of  objects in transparent liquid Iii] The students go online for more info on refraction of light"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A audio Visual resources I] triangular prism Ii] optical pins Thumb pins Iii] drawing board Iv] mathematical set B Web resources"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Lenses: concave and convex, Ray diagrams; lens formula and calculations, power of lens",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: [i] describe all the lens related to terms Ii] compare the types of lenses Iii] with the aid of a diagram distinguish between concave lens; Iii] trace rays of light through concaving and diverging lenses and obtain images  formed by the lenses at different positions Iv] Deduce the lens formula and use it to solve numerical problems on lenses, V] deduce the power of a lens and solve related problems"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] The students as a class distinguish between concave and convex lenses diagrammatically and experimentally Ii] The class in small groups deduce the lens formula Iii] The students go online for more info on lenses"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A Audio Visual Resources i] ray lox ii] convex lens and concave lens iii] screen iv] meter rule v] source of light   B web resources"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Optical instruments: camera, projector, telescope and periscope",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i] analyse the optical  principles involved in snap shot camera; Ii] with the aid of a well labeled diagram, describe a photographic camera; (iii] describes the formation of images by the camera and the projector by tracing rays of light through them, Iv] compare the formation and mode  of functioning of the following in details  with the aid of diagrams a] telescope (b] simple and compound microscope periscope"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] The students as a class discuss optical instruments Ii] the  students in small groups analyse the mode of functioning of microscope, telescope, periscope , projectors, cameras etc Iii] The students go online  for more info on optical instruments"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A Audio Visual Resources I] camera Ii] telescope Iii] simple and compound microscope Iv] planks, Gum, plane, mirror, empty cartons v] small cardboard box  e.g. empty sugar pack, Lipton tea pack vi] convex lenses of various focal length B Web Resources"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Optical instruments Binoculars, human eyes and its defects",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i] describe the working principle of Binoculars Ii] investigate the role played by some parts of the eyes in the formation of image on the retina Iii] compare and contrast the eye and the camera Iv] distinguish between the defects the defects of the eye with emphases on their causes and corrections"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] the students as a class discuss the defects of the human eyes Ii] the students in small groups compare and contrast the human eyes and the camera Iii] the students go online for more info on optical instruments"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A Audio Visual Resources I] The model of the human eye, camera (box) standard camera Ii] Binoculars B web Resource"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Dispersion of white light: pure and impure spectrum, recombination of components of spectrum using colour filter, Newton Disc",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i] explain the dispersion of white light"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] students in small groups are provided with glass prisms , screens and sources of white light to demonstrates dispersion of white light"
+      },
+      {
+        "id":"2",
+        "value":"Differentiate between pure and impure spectrum; Ii] experiment to produce a pure spectrum   (v] compare the components of spectrum using colour filter"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal"
+      },
+      {
+        "id":"2",
+        "value":"I] The students also demonstrate recombination of the components of the spectrum Ii] The students go online for more info on spectrum https: //physics.info/pure+and+impure+spectrum"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A Audio Visual Resources i] triangle prism Ii] complete mathematical set Iii] narrow slit Iv] screen v] converging lens v] source of ligh"
+      },
+      {
+        "id":"2",
+        "value":"B web Resources"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Dispersion of white light-colours and paints, mixing, determinations  of refractive index",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: i] distinguish between objects via their cours and describe mixing of coloured light (additives and subtractive ii] experiment to determine refractive index of glass"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] The students as a class demonstrate the mixing of primary colours to provide secondary colours Ii] The students in small groups are provided with glass blocks to determine/deduce their refractive index Iii] The students go online for more info on primary and secondary colours"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A Audio Visual Resources (i] paints , colours Ii] triangular prism   B Web Resources"
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "Mid Term Break"
+  },
+  {
+    "_id": "8",
+    "Weeks": "8",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Sound waves production transmission, speed of sound in solid, liquid, Air, noise and music, velocity of sound, Echo, reverberation",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: I] describe sound waves with emphasis on its production and transmission Ii] distinguish between (a noise and music (b) intensity and loudness"
+      },
+      {
+        "id":"2",
+        "value":"Pitch and frequency as applied to sound iii] Determine the speed of light in various medium; iv] explain the term Echo and solve related questions v] investigate the disadvantages and advantages of Echo vi] explain beats and  state its uses vii] verify the characteristic of sound vii] investigate the factors that affect the velocity of sound"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] the students in small groups are provided with tuning fork to generate sound waves Ii] the students as a class compare the speed of sound in solid, liquid and air experimentally Iii] The students go online for more info on production and"
+      },
+      {
+        "id":"2",
+        "value":"Transmission of sound waves   https://physics .info/production+andtransmission+of+sound+waves"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A audio visual  Resources I] turning fork Ii] electric bell Iii] vacuum pump Iv] glass jar Resources "
+      },
+      {
+        "id":"2",
+        "value":"Calculation devices"
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "Weeks": "9",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Sound waves musical instruments, functions of hearing, aids, vibrations in pipes and strings, harmonics and overtones Resonance",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to: (i] classify musical instrument into (a) wind instruments (b) string instrument (c) percussion instruments; ii] describe the term ‘hearing’ aids’ with emphases on functions, features and types Iii] distinguish between vibrations of air in string and pipes,  Iii] distinguish  between vibrations of air in string and pipes Iv] differentiate between harmonics and overtones as applied to open and closed pipes, v] investigate the applications of resonance ii] describe the physical principles involved in the uses of wind, string and percussion instruments"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "I] The students are provided with strings, open and closed pipes  to compare the vibration of air column in them Ii] the students as a class compare the various existing musical instruments Iii] The students go online for more info on vibrations in pipes and strings"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "A audio Visual Resources (i] drum, violin, gutter, flute, percussion, Xylophone, saxophone, trumpet, piano (iii] invisible in the canal (IIC), completely in canal (CIC), in the ear (ITE), behind the ear (BTE) B web Resources"
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "Weeks": "10",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Project",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "The students in small groups construct periscopes"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "Weeks": "11",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "Project",
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "Revision of all practical done so far"
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "The students revise all the practical done ‘so far’"
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "Weeks": "12",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "_id": "13",
+    "Weeks": "13",
+    "Subject": "Physics",
+    "Class": "SS2",
+    "Term": "Third Term",
+    "Topics": "",
+    "Status": "EXAMINATION"
+  }
+]

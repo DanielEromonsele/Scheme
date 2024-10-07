@@ -1,0 +1,630 @@
+[
+  {
+    "_id": "1",
+    "Weeks": "1",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Introduction to marketing Meaning of marketing -importance of marketing -marketing concept -marketing mix Market Segmentation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "-definition marketing -state and discuss the functions of marketing -discuss the importance of marketing Explain components of marketing mix e.g. price, place etc -distinguish between marketing concept and market segmentation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students as a class describe marketing -students as a class discuss importance of marketing -students, in small groups, differentiate between marketing concept and market segmentation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Textbooks Charts of marketing mix"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "Weeks": "2",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Advertising"
+      },
+      {
+        "id": "2",
+        "value": "(I) meaning"
+      },
+      {
+        "id": "3",
+        "value": "(II) types"
+      },
+      {
+        "id": "4",
+        "value": "(III) roles of asvertising"
+      },
+      {
+        "id": "5",
+        "value": "(IV) methods of advertising"
+      },
+      {
+        "id": "6",
+        "value": "(V) demerits of advertising"
+      },
+      {
+        "id": "7",
+        "value": "(VI) advertising media"
+      },
+      {
+        "id": "8",
+        "value": "(VII) sales and promotion"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "-define advertising; discuss the roles of advertising -explain types of advertising media -state the merits and demerits of each medium; discuss the various forms of sales promotion"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students, as a class, discuss types of advertising –students as a class, explain roles of advertising -students, in small groups , make presentation on sales promotion"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Television Radio Newspaper Magazine Billboard"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "Weeks": "3",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Business documents and means of payment "
+      },
+      {
+        "id": "2",
+        "value": "(I) meaning of business document"
+      },
+      {
+        "id": "3",
+        "value": "(II) examples of business documents consignment notes, invoice Letter of enquiry etc Means of payment, cheque Legal lender, Bank draft Standing order Electronic money transfer"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: Define business documents -identify and describe the uses of each document Financial Accounting Identify and discuss the various means of payment"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Students, as a class define business document -students as a class identify the documents with the uses"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Business document Textbooks"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "Weeks": "4",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "And commercialization"
+      },
+      {
+        "id": "2",
+        "value": "(I) meaning of privatization "
+      },
+      {
+        "id": "3",
+        "value": "(II) meaning of commercialization "
+      },
+      {
+        "id": "4",
+        "value": " (III) merits and demerits of privatization and commercialization "
+      },
+      {
+        "id": "5",
+        "value": "(IV) deregulation Meaning Advantages and disadvantaged"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "Lessons, students should be able to: explain the meaning of privatization and commercialization, Discuss the merits and demerits of privatization -analyse the demerits and merits of commercialization Define deregulation mention and explain the advantages and disadvantages of deregulation"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "Class define privatization and commercialization -students, in small groups, discuss the merits and demerits of privatization and commercialization"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "communication ‘leadership and personal development -critical thinking and problem solving Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Examples of commercialization and privatized companies"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "Weeks": "5",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Economic groups in west Africa (ECOWAS) Nigeria Basin Commission"
+      },
+      {
+        "id": "2",
+        "value": "(I) History Members countries"
+      },
+      {
+        "id": "3",
+        "value": "(II) objectives "
+      },
+      {
+        "id": "4",
+        "value": "(III) problems"
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: Trace the history of ECOWAS and Niger Basin Commission -state the objectives of ECOWAS and Niger Basin Commission; Discuss the problems of ECOWAS and Niger Basin Commission"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students, in pairs define economic grouping in west Africa -students, as a class , show with a diagram the member states of ECOWAS -students as a class, discuss the problems of ECOWAS"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Charts Maps Textbooks"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "Weeks": "6",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": "Economic groups in West Africa (contd) West Africa clearing house (WACH) Mago River basin Commission"
+      },
+      {
+        "id": "2",
+        "value": "(I) history"
+      },
+      {
+        "id": "3",
+        "value": "(II) member countries Objectives Achievements  problems"
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Objects": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: -state the objectives of West Africa Clearing House -state the objectives of Mago River Basin Commission, recall the member countries of West Africa clearing House and Mago River Basin Commission -discuss the problems of West Africa Clearing house"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Activities": [
+      {
+        "id": "1",
+        "value": "-students, in pairs give the meaning of West Africa cleaning house (WACH) Students, as a class, discuss the objectives of Mano River Basin Commission (NRBC) -students, in small groups, discuss problems of Mano River Basic Commission"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Embedded Core Skills": [
+      {
+        "id": "1",
+        "value": "Collaboration and -communication ‘leadership and personal development -critical thinking and problem solving Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Learning Resources": [
+      {
+        "id": "1",
+        "value": "Charts Maps Textbooks"
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "Weeks": "7",
+    "Subject": "Commerce",
+    "Class": "SS3",
+    "Term": "Second Term",
+    "Topics": [
+      {
+        "id": "1",
+        "value": ""
+      },
+      {
+        "id": "2",
+        "value": ""
+      },
+      {
+        "id": "3",
+        "value": ""
+      },
+      {
+        "id": "4",
+        "value": ""
+      }
+    ],
+    "Status": "Mid Term Test/Break"
+  }
+]

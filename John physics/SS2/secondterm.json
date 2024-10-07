@@ -1,0 +1,354 @@
+[
+    {
+      "_id": "1",
+      "Weeks": "1",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Revision /Heat energy Temperature and its measurements",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] distinguish between heat and temperature and between temperature points and temperature intervals Ii] Compare the  instruments used for measuring temperature of objects or an environment iii] convert a given temperature on the Celsius scale to a temperature on the Kelvin scale and Fahrenheit scale"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss heat energy Ii] The students in small groups compare and contrast various types of thermometers Iii] The students go online for more info on heat energy"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources (i] water, beaker, source of heat, ice block Ii] connecting wires Iii] ammeter, voltimer and multimerter B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "Weeks": "2",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Heat capacity and specific heat capacity, methods to determine specific heat capacity, calculation on specific heat capacity",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] differentiate between the terms heat capacity and ‘specific heat capacity’  Ii] justify the fact that there is unequal rise in temperature for different substances  of the same mass supplied with the same quantity of heat Iii] Experiment to determine the specific heat capacity of a solid by  mixture method and by electrical method, Iv] calculate unknown quantities using the equation e=mc^T when no change of state is involved; (v] solve simple problems involving specific heat capacity"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "i] The students as a class discuss heat capacity and specific heat capacity Ii] The students in small groups experimentally determine the specific heat energy of various substance Iii]The students go online for more info on-specific heat capacity "
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "[i] beaker of warm water Ii] thermometer Iii] calorimeter/empty milk tin Iv] pieces of ice block V] solid of known SHC Vi] test tube, source of heat Vii] stop watch /clock B web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "Weeks": "3",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Evaporation, boiling and melting points and their determination Effects of impurities and pressure on boiling and melting",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] explain evaporation with reference to day-to-day activities; Ii] experiment to determine the melting point of a solid and boiling point of a liquid Iii] investigate the effects of impurities and pressure on melting and boiling points V] investigate the factors that affect evaporation"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class compare and contrast evaporation and boiling Ii] The students in small groups verify the effects of impurities and pressure on boiling and melting Iii] The students go online for more info on evaporation and boiling https://physics.info/evaporation +and+boiling"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual Resources (i] Round bottom flask (ii) running water (iii) source of heat (iv)  cork to cover flask (v] clamp to hold flask B web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "Weeks": "4",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Latent heat-fusion and vaporization and verification",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: [a] explain the concept of latent heat; Ii] distinguish between its types Iii] differentiate between the following terms [a] boiling [b] freezing [c] freezing point [d] solidification (e) vaporization (f) sublimation (g) perform an experiment to determine the boiling point on a small point on quantity of water, (v] describe the working principle of such common devices as (a) refrigerator [b] air conditioner [c] pressure cooker [vi] experiment to determine the specific latent heat of fusion and"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss the latent heat of fusion and of vaporization Ii] The students in small groups experimentally verify the latent heat of fusion and of vaporization of various substances Iii] The students go online For more info on the concept of latent heat"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual Resources i] Beaker Ii] dry ice, cold water Iii] weighing scale Iv] steam [v] stop wash vi] source of light vii] thermometer B web Resources https://physics. .info"
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "Weeks": "5",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Vapour pressure; saturated and unsatured vapour pressure and its relationship with boiling demonstration of vapour pressure using simple experiments humidity, relative humidity, dew point and its relationship with weather",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] analyse the term vapour pressure’ with reference to saturated and unsaturated vapour pressure Ii] distinguish between melting point and boiling Iii] compate boiling and evaporation with emphasis on similarities and differences Iv] distinguish between the following terms (a) humidity (b) relative humidity (c) dew and dew point (d) cloud and rain (e) mist and fig: (v) investigate the effects of humidity on personal comfort (air conditioning): (vi) solve simple questions on relative humidity"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss vapour pressure, Ii] the students in small groups compare and contrast melting point, mist and fog, dew and dew point etc Iii] The students go online for more info on vapour pressure"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources (i] methylated spirit /petrol Ii] round bottom flask Iii] running water Iv] source of heat v] cork to cover flask  vi] clamp to hold flask vii] pressure cover   B web Resources "
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "Weeks": "6",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Gas, law, Boyle’s Charles, pressure, general gas law and Graham’s law of gaseous diffusion",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] state and explain the following laws (a) Boyle’s law and its application (b) Charles’ law and its application © pressure law and its application (d) general gas law [e] Graham’s law of gaseous diffusion; (ii) the laws should be verified using simple"
+        },
+        {
+          "id":"2",
+          "value":"Apparatus e.g. barometer, (iv) solve simple problems using the gas laws (f) perform experiments to verify the laws"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss the gas laws Ii] The students in small groups experimentally verify the Boyle’s law, Charles law and pressure laws Iii] The students go online for more info gas laws"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio Visual Resources Audio Visual Resources i] Barometer Ii] Bowl of water Iii] Test tube Iv] J-tube Iv]Source of  heat vi] meter rule vii] Thermometer viii] Alcohol/mercury B web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "Weeks": "7",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "Mid Term Break"
+    },
+    {
+      "_id": "8",
+      "Weeks": "8",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Production and propagation of waves-ripple tank, types of waves, general wave equation",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: 1]Descry the terms ‘wave’ and wane motion’ I] compare a classes of waves and give examples B] types of waves and give examples Iii] distinguish between all the terms used in wave motion; Iv] derive and use the relationship between wave velocity; V] use the wave equation to solve problems = (-2) = (-2)"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss waves and its types Ii] With the aid of ripple tanks the students in small groups generate waves Iii] The students go online for more info on the concept of waves"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio visual Resources (i] rope Ii] water in a bowl Iii] white transparent plastic bowl (v] guitar string B Web Resources https://physics .info"
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "Weeks": "9",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Properties of waves-reflection, refraction, diffraction, Interference and polarization and application where necessary",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] investigate the properties of waves (ii) produce  plain and circular waves using ripple tank iii] Demonstrate stationary waves; iv] explain the term ‘polaroid’ with emphasis on its applications; v] differentiate between ordinary light and plane polarized light"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "I] The students as a class discuss the properties of waves Ii] The students in small groups distinguish between reflection from refraction, diffraction and interference Iii] The students go online for more info on the properties of waves"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A audio visual Resources [i] Wide transparent plastic bowl Ii] Thin horizontal bar ruler Iii] water B Web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "Weeks": "10",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Light waves-sources, reflection, reflection in plane and curved mirrors, refraction of light, refractive index, its determination, total internal reflection and critical angle",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": "By the end of the lesson students should be able to: (i] investigate the sources of light; (ii) compare the terms (a) reflection (b) refraction and state their laws, to  draw ray diagrams to show the formation of  images by plane and curved mirrors and explain some practical applications of these mirrors. (v) describe the rectil linear propagation of light and its application; [v] calculate the number of images in an inclined mirror vi] measure angles of incidence and refraction and hence deduce a value for the refraction and hence deduce a value for the refractive index of a given material; vii] distinguish between critical angle and total internal reflection and justify the conditions under which they occur and their applications, viii] experiment to establish the relationship between critical angle and refractive index and apply it to the solution of simple problems  iv] perform an experiment to determine the mirror formula"
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "(i] the students as a class discuss light waves Ii] The students in small groups experimentally verify that light can be reflected , refracted, polarized and interfered B The students go online for more info on light waves"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development iv. Digital literacy"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": "A Audio Visual Resources (I] Torch light Ii] dry cell, water, oil paper, tissue paper   Concave plane mirror  iv] drawing board v] Thumb tag optical pin vi]  complete mathematical set vii] charts/pictures/film show on sun’s radiation on the earth viii] transparent nylon, tissue paper, plank, football B web Resources"
+        }
+      ]
+    },
+    {
+      "_id": "11",
+      "Weeks": "11",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "Practicals and Project",
+      "Learning Objects": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ],
+      "Learning Activities": [
+        {
+          "id": "1",
+          "value": "The students in small groups construct ripple tanks"
+        }
+      ],
+      "Embedded Core Skills": [
+        {
+          "id": "1",
+          "value": "i] critical thinking & problem solving Ii] communication & collaboration Iii] leadership & personal development"
+        }
+      ],
+      "Learning Resources": [
+        {
+          "id": "1",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "_id": "12",
+      "Weeks": "12",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "REVISION"
+    },
+    {
+      "_id": "13",
+      "Weeks": "13",
+      "Subject": "Physics",
+      "Class": "SS2",
+      "Term": "Second Term",
+      "Topics": "",
+      "Status": "EXAMINATION"
+    }
+  ]
+  

@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "1",
+    "weeks": "1",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "Oral: Review of"
+      },
+      {
+        "id": "2",
+        "value": "Struture"
+      },
+      {
+        "id": "3",
+        "value": "Comprehension: (Reading Skill) Reading to comprehend main ideas"
+      },
+      {
+        "id": "4",
+        "value": "Vocabulatory development: Words associated with home and family life"
+      },
+      {
+        "id": "5",
+        "value": "Words for the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "BY the end of the lesson, students should be able to: differentiate between English Letters of alphabet and English and Sounds; identify the letters of the alphabet that have corresponding sound symbols and the one that do not have; relate sounds in words with the symbols that represent them."
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i) List all the parts of speech; (ii) Use nouns, verbs, preposition, adjective, and conjunctions in sentences; (iii) classify words in a given passage into word classes. "
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: (i) identify the topic sentence in each paragraph: (ii) establish the relationship between the topic sentence(s) and the main idea in a given passage; (iii) attach contextual meanings to new words found in a passage."
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson, students should be able to: i) Draw out from a given text words associated with home and family life; (ii)Explain the following terms: uncle, anut, nephew, niece, cousin, grandfather/grandmother, distant relatives; (iii) Compositions on the family."
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words docile, indict, playwright, abase, haughty, millennium, chalet, memento, absolve, synonymous."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students, in small groups, discuss, the difference between the English letters of the alphabet and English sounds.  Students in pairs list the letters of the alphabet that have corresponding Sound symbols and the ones that do not have. Students as a class draw out various sounds from words provided."
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, as a class, list the eight word classes; (ii) Students, iin small groups, briefly explain the function of each word classes. (iii) Students , in pairs, study a short passage with a view to classifying words in it into- classes"
+      },
+      {
+        "id": "3",
+        "value": "(i) Students listen to the - teacher read the passage with a view to identifying new words and getting their approprite prnounciation. (ii) Stud6ents, in small groups identify the topic sentence in each paragraph and relate into the main idea in the passage. (iii) Students pair up to establish the relationship between their real life experiences and the main idea in the passage."
+      },
+      {
+        "id": "4",
+        "value": "(i) Students, as a class, list words commonly used at home in relation to the kitchen and family. (ii) Students, in small groups, sort out from a given jigsaw puzzle words associated with home and family life. (iii) Each group leader takes a turn to present their groi.tp work, to the whole class for evaluation."
+      },
+      {
+        "id": "5",
+        "value": "(i) Students, as a class study a chart/watch a video of organs of speech and their functions. (ii) Students, in small groups, classify the pure vowel into short and long sounds in a tabular from (iii) Students in pairs practise the vowel sound and share with the class."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "Communication and Collaboration Resources Leadership and Personal Development Critical Thinking and Problem solving"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration Resources (ii) Critical Thinking and Problem solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "Communication and Collaboration (ii)  Critical Thinking and Problem solving (iii) Leadership and Personal Development "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development (iii) Creativity and Imagination "
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "Audio Visual Resources: (i) C (ii) Pronouncing Dictionary by Daniel Jones https://www.spelfabet.com.au/2015/04/the-difference-between-consonant-and-vowels/https://m.youtube.cm/watct?vshttps://m.youtube.cm/watct?vs"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (I) Charts/ Flashcards WEB RESOURCES  (a) https://www.enlicious.org/lesson/word-classes https://www.enlicious.org/lesson/word-classes (a)  https://youtube.com/watch?v=DOG_hjfhttps://youtube.com/watch?v=DOG_hjf (b)https://youtube.com/watch?v=9fCKTvhttps://youtube.com/watch?v=9fCKTv"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Flash cards WEB RESOURCES https://www.reltsonlinetests.com https://www.reltsonlinetests.com"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES  (i) Charts (ii)Recommended texts WEB RESOURCES https://www.enchantedlearning.com https://www.enchantedlearning.com"
+      },
+      {
+        "id": "5",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary "
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "weeks": "2",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Oral: Monothongs (pure vowels) "
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure: Nouns Meaning Identification Types Usage "
+      },
+      {
+        "id": "3",
+        "value": "(c) Comprehension: Contextual meaning Replacement question form"
+      },
+      {
+        "id": "4",
+        "value": "(d)Writing: Composition on ‘My family’ "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: i) List and explain the functions of the “organs of speech; (i) Distinguish between long and short vowel sounds (iii) Identify and pronounce vowel sounds in English words appropriately."
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i). Recognise nouns in sentences; (ii) give adequate examples of all types of nouns. (iii) Compose different sentences using different types of nouns"
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to: i) differentiate between contextual and literal meanings; (ii) give other words to replace the words in italics in (iii) specify the class of the words; (iv) recognise when such words are used in other contextual situations. "
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson students should be able to  (i) breakdown a sample essay into its constituent parts (introduction, body and conclusion); (ii) analyse the pattern of sentence structure used in the sample essay; develop a well written essay on my family. "
+      },
+      {
+        "id": "5",
+        "value": "-Learners are to be guided to learn the following words discreet, gazelle, boycott, enmity; bequeath, hallowed, epitome, apathetic, façade, lynch"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": " i. Students, as a class, study a chart/ watch a video of organs of speech and list out the organs of speech and their functions. ii. Students, in small groups, classify the pure vowel into short and long sounds in a tabular from iii. Students in pairs practise the vowel sound and share with the class. Students visit the site below for further studies: youtube.com/watch?v=yxJ5Gwt"
+      },
+      {
+        "id": "2",
+        "value": "i. Students identity all the identifiable concrete nouns in the class and explain the meaning of noun. i:. Students, in pairs, read a given passage and identify all the nouns in it (noun hunt). iii, Students, in small groups, classify the nouns into concrete and abstract with the group loader presenting their work to the class. "
+      },
+      {
+        "id": "3",
+        "value": "i. Students collectively share ideas on what contextual literal meanings mean to them (ii) Students, in small groups, study a given passage and identify words that have against the one with literal meanings (iii) Students pair up to use other words to replace the identified words."
+      },
+      {
+        "id": "4",
+        "value": "i. Students in pairs study a sample essay presented to them and identify its introduction, body and conclusion. . ii. Students; in small group5s, group the sentences in the sample essay long their types. Following the pattern of the sample essay students as individual write essays on ‘My family’ "
+      },
+      {
+        "id": "5",
+        "value": "For home study, students, as individuals, look up the meanings, word classes and pronunciation of the given words in a dictionary, and use each word in, at least, a sentence"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal.Development iii. Digital literacy"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration-(ii) Critical Thinking and Problem Solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "(i) communication and Collaboration(ii) Leadership and Personal Development iii) Creativity and Imagination"
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development (iii) Critical Thinking and Problem Solving iv. Creativity and Imagination"
+      },
+      {
+        "id": "5",
+        "value": "(i) Chart on family tree (ii) A sample essay WEB RESOURCES"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "(i) Charts/Flashcards (ii) Pronouncing Dictionary by Daniel Jones WEB RESOURCES  (a) https://en.wikipedia.org/wiki/monophthong https://en.wikipedia.org/wiki/monophthong (b) https://www.English-for-students.com/Purevowels https://www.English-for-students.com/Purevowels (iv) Video: (a) https://youtube.com/watch?v=yxJ5Gwt https://youtube.com/watch?v=yxJ5Gwt"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i) Charts/Flashcards (ii) Concrete Objects WEB RESOURCES  (a) https://www.grammarmonster.com https://www.grammarmonster.com  (b) https://www.dictionary.comhttps://www.dictionary.com"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Flash cards . WEB RESOURCES https://www.edutopia.org/articles/5-ways-support–student–who-struggle-reading-comprehension https://www.edutopia.org/articles/5-ways-support–student–who-struggle-reading-comprehension"
+      },
+      {
+        "id": "4",
+        "value": "(i) Chart on family tree (ii) A sample essay WEB RESOURCES "
+      },
+      {
+        "id": "5",
+        "value": "(i)Hard copy dictionary (ii Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "weeks": "3",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "(a) Oral: Dipthongs "
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure: Countable and uncountable nouns "
+      },
+      {
+        "id": "3",
+        "value": "(c) Comprehension: Reading to meet supporting details"
+      },
+      {
+        "id": "4",
+        "value": "(d)Vocabulary Development: Register of Agriculture "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:  (i) identify diphthong  (ii). Match diphthong; -sounds with the symbols that represent them practise with words/sentences that have diphthong a sounds in them"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson students should be able to:  Distinguish between countable and uncountable nouns with – adequate examples; (ii) Form the singular and plural of count nouns and use them correctly – ‘in sentences iii) Create list of uncountable nouns; (nouns without plural forms)."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to (i) Identify supporting ideas in each paragraph; (ii). Differentiate between main ideas and supporting ideas in a given passage. (iii) Recognize words that signal details illustrations and examples in a given passage. "
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson students should be able to : (i) List words that associated with crops farming activities and implement (ii)Write an essay on the importance of farming "
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words abide; beseech, canvass, rheumatism yacht martyr gazette, demean, hierarchy awful "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students, in small groups, given short comprehension – passage, and list out words that have diphthong sounds. (ii) Students, in pairs, underline the letter(s) in each word that gives) diphthong sounds (iii) Students practise the pronunciation of all the words"
+      },
+      {
+        "id": "2",
+        "value": "Students, in small groups, discuss countable and uncountable nouns using things in their immediate environment as examples ii) Students pair up to soft out from a given jigsaw puzzle of countable and uncountable nouns, and – use them in sentences. ii) Students are led to – generate a list of nouns that do not require the addition of the plural marker. v) Students visit the site below to further studies and form sentences with uncountable noun: https://www.english-grammar-lessons/did-you-know-that-these-words-have-no-plural/ https://www.english-grammar-lessons/did-you-know-that-these-words-have-no-plural/ https://www.english-grammar-lessons/did-you-know-that-these-words-have-no-plural/"
+      },
+      {
+        "id": "3",
+        "value": "i. Students, in small groups, question, clarify, predict and summarise the main ideas in a given text; ii. Students pair up to flight light main ideas leaving out supporting ideas in a given text. iii. Students while reading the passage stop’ midway to predict expected events in the passage. "
+      },
+      {
+        "id": "4",
+        "value": "(i) Students, in small groups, brainstorm on the importance of agriculture to the survival of humans (ii)Students in pairs sort out from a given jigsaw puzzle words that are associated with agriculture"
+      },
+      {
+        "id": "5",
+        "value": "For home study students as individuals look up the meanings word classes and pronunciation of the given words in a dictionary arid use each word in, at least, a . sentence"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "i) Communication and Collaboration (ii) Leadership and Personal Development iii) Critical Thinking  Problem Solving "
+      },
+      {
+        "id": "2",
+        "value": "i) Communication and Collaboration (ii) Digital literacy (iii) Leadership and Personal Development iii) Critical Thinking and  Problem Solving"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration. (ii) Leadership and Personal development iii) Creativity and imagination iv) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration. (ii) Leadership and Personal development iii) Creativity and imagination (iv) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (I) Chart/Flashcards (ii) Pronouncing Dictionary by Daniel Jones (iii) Videos: (a) https://www.youtube.com/watch?v=dlHZPxDuDw https://www.youtube.com/watch?v=dlHZPxDuDw (b) https://www.youtube.com/watch?v=z2djJEcC3Qao https://www.youtube.com/watch?v=z2djJEcC3Qao "
+      },
+      {
+        "id": "2",
+        "value": "(I) Chart/Flashcards (ii) Real objects (iii) Websites: (a) https://www.learningenglishkidsbritishcouncil.org/grammarpractice https://www.learningenglishkidsbritishcouncil.org/grammarpractice (b) https://www.espressoenglish.netcountableanduncountable https://www.espressoenglish.netcountableanduncountable (c) https://www.englishgrammar.org/noun/exist-singular-plural-form/ https://www.englishgrammar.org/noun/exist-singular-plural-form/"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Flash cards WEB RESOURCEShttps://wvw.edutopiaorg/article/5-wayssupport-student-whostruggle-readingcomprehension https://wvw.edutopiaorg/article/5-wayssupport-student-whostruggle-readingcomprehension https://wvw.edutopiaorg/article/5-wayssupport-student-whostruggle-readingcomprehension"
+      },
+      {
+        "id": "4",
+        "value": "(l) Charts (ii) Pictures. (iii) Real objects (a) https://www.co.pierce.wa.us/agriculturerelatedterms https://www.co.pierce.wa.us/agriculturerelatedterms  (b) https://www.vocabulary.com/dictionary/agriculture https://www.vocabulary.com/dictionary/agriculture "
+      },
+      {
+        "id": "5",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "weeks": "4",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " Oral Triphthong"
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure: Adjectives and Adverbs Meaning, identification, types, and usage"
+      },
+      {
+        "id": "3",
+        "value": "(c) Comprehension: (Listening) Summary through identification of signal words "
+      },
+      {
+        "id": "4",
+        "value": "(d) Writing Essay Types: Narrative A place of interest visited  "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to : (i) Identify the 5 tiphthong sounds and the their phonetic symbols (ii) Give adequate examples of words that contain triphthong sounds (iii)Pronounce words that contain these sounds correctly"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to:(i) Explain adjectives and adverbs; (ii) Give adequate examples of types of adverbs and adjectives; (iii) compose different sentences, using adjectives and adverbs; "
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to : (i) Analyse a text and re-write in it their own words (ii) Identify key words sentence that signal main ideas; (iii) put the key sentences together in a summary form"
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson students should be able to (i) Mention and explain each type of essay; (ii) List places of interest they had visited; (iii) Write a narrative essay on the places of interest you visited. "
+      },
+      {
+        "id": "5",
+        "value": "Learner are to guided to learn the following words: nausea, dialect rhythm: transfix seizure paraphernalia unprecedented quizzes vain humanitarianism "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students in small groups study a given set of words among which have triphthong sounds and present to the class the ones that have these sounds (i) Students in pairs generate words that have triphthongs and share with the class (ii) Students chorus words . That have the 5 tripthong sounds as a class "
+      },
+      {
+        "id": "2",
+        "value": "i: Students, in small group, study a given passage and. Identity and classify the adjectives and adverbs into types ii. Students as a class discuss the functions/roles "
+      },
+      {
+        "id": "3",
+        "value": "Students, in small groups, listen to a recorded message (via Bluetooth device or any other digital device) and write its main highlights in their own words. (ii) Students in pairs point out the key words/sentences related to the main ideas and share with the class. (iii) Students are guided to summarise the text following the sample provided."
+      },
+      {
+        "id": "4",
+        "value": "(I) A field trip to a place of interest (ii) Students in small groups write a report on the field trip, narrating their experience. (iii) Each group leader takes a turn to present their group report (narrative to the whole class for evaluation. "
+      },
+      {
+        "id": "5",
+        "value": "For home study students as individuals look up the meanings, word classes and pronunciation of the given words in a dictionary and use each word in at least a sentence"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i)Communication and Collaboration (ii) Critical Thinking and Problem solving (iii) Leadership and Personal’ Development. "
+      },
+      {
+        "id": "2",
+        "value": "(I): Communication and Collaboration (ii) Leadership and Personal. Development (iii) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration  (ii) Leadership and Personal Development "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership arm Personal Development iii) Creativity and imagination "
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (l) Digital Literacy ."
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i)Charts/Flashcards (ii) Pronouncing dictionary by Daniel Jones (iii)Audio CD WEB RESOURCES https://www.en.Wikipedia.org/wiki/triphthong https://www.en.Wikipedia.org/wiki/triphthong (b)  https://www.teflpedia.com/triphthong https://www.teflpedia.com/triphthong"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i) Charts/Flashcards; WEB RESOURCES (a)https://www.leamgrammar.net https://www.leamgrammar.net  (b)  https://www.myenglishteacher,euhttps://www.myenglishteacher,eu"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES  (I) Tape recorded, Bluetooth and Mp3 "
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES (i) Pictures WEB RESOURCES  (a) <https://www.wikipedia.com https://www.wikipedia.com (b) https://www.writing.stockexchange.comhttps://www.writing.stockexchange.com ."
+      },
+      {
+        "id": "5",
+        "value": "(I) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "weeks": "5",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " (a) Oral Consonant sounds e.g /p/, /b/, /t/, /d/, /k/, /g/, /f/, /v/, /s/, /z/"
+      },
+      {
+        "id": "2",
+        "value": " (b) Structure:  Phrase, Types and functions "
+      },
+      {
+        "id": "3",
+        "value": "(c) vocabulary development: fishery and animal husbandry "
+      },
+      {
+        "id": "4",
+        "value": "(d) comprehension: emphasis on supporting details, tone, mood and purpose "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to (i) Recognize and pronounce the listed sounds correctly; (ii) Identify the listed sounds in different positions in words; iii) Generate tens-of words on each of the listed sounds. "
+      },
+      {
+        "id": "2",
+        "value": "<sBy the end of the lesson students should be able to:  (i) Explain phrase (ii) mention the types of phrase (iii) Analyse the functions of: (a) Noun phrases (b) adverbial phrases (c) adjectival phrases (d) prepositional phrases Form examples "
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to:  (i) Explain the following terms: fishery, animal husbandry (ii) list words that are associated with fishery and animal husbandry"
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson students should be able to:  (i) identify a speaker’s/writer’s tone in a text; (ii) analyses a text to bring out its mood and purpose; (iii) relate the issue raised in the text to their real life experience"
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words: implicit, guile, magnanimous, ingenious, deter, pillage, indigent, encore, exuberance, fallacy."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Critical Thinking and problem solving (ii) Communication and Collaboration (iii) Digital Literacy"
+      },
+      {
+        "id": "2",
+        "value": "(i) Students as a class, discuss the meaning of phrase (ii). Student are lead to classify phrase into types noun phrases, verb phrases, adjectival phrases, adverbial phrases (iii) Students, in small groups, study a text with a view to identify the function(s) of each of the types of phrases (iv) each group leader takes a turn to present their group work to the whole class for evaluation"
+      },
+      {
+        "id": "3",
+        "value": "on the meaning of clause. ii) Students, in small groups, select clauses from a mixed bag of clauses and phrases. iii) Students pair up to classify clauses into main clauses and subordinate clauses in a given rst of complex sentences and share with class."
+      },
+      {
+        "id": "4",
+        "value": "(i) Student as a class, discuss the meaning of tone, mood and purpose of a text or a passage (ii) Students, in small groups, critique a text to identify its tone, mood and purpose (iii) Students share life experiences related to text"
+      },
+      {
+        "id": "5",
+        "value": "For home study, student, as individuals, look up the meaning, word classes and pronunciation of the given words in a dictionary, and use each word in, at least a sentence"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Critical Thinking and problem solving (ii) Communication and Collaboration (iii) Digital Literacy"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration (ii) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (ii) Digital literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUIDO VISUAL RESOURCES (i) Charts/ Flashcards (ii) Pronouncing Dictionary by Daniel Jones WEB RESOURCES: (a) https://wwv.speechactive.com/englishconsonants-ipaintemational-phongijgalphabet https://wwv.speechactive.com/englishconsonants-ipaintemational-phongijgalphabet (iv) Video: (a) https://www.youtube.com/watch?vzocdnOx4Sgoo https://www.youtube.com/watch?vzocdnOx4Sgoo "
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES  Charts/Flashcards Websites  (ii) https://www.softschool.com/examples/grammar/phrases https://www.softschool.com/examples/grammar/phrases  (b) https://www.grammarbook.com/grammar/clause-phrase https://www.grammarbook.com/grammar/clause-phrase "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES (i)Charts/Flashcards WEB RESOURCES https://elyonschoolsnetsite.wordpress.com/vocabulary-words-associated-wit-the-fishing-structure-kinds-of-sentences https://elyonschoolsnetsite.wordpress.com/vocabulary-words-associated-wit-the-fishing-structure-kinds-of-sentences https://elyonschoolsnetsite.wordpress.com/vocabulary-words-associated-wit-the-fishing-structure-kinds-of-sentences"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES (i)Newspaper clippings of an article WEB RESOURCES https://www.centergrove.k12.in.us/cms/lib/IN01000850/Centricity/Domain/490/Tone-and-Purpose.pdf https://www.centergrove.k12.in.us/cms/lib/IN01000850/Centricity/Domain/490/Tone-and-Purpose.pdf https://www.centergrove.k12.in.us/cms/lib/IN01000850/Centricity/Domain/490/Tone-and-Purpose.pdf"
+      },
+      {
+        "id": "5",
+        "value": "(i) hard copy dictionary (ii) online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "weeks": "6",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " (a) structure: A. clause types- i. main clause ii. subordinate clause (b) types of subordinate clauses"
+      },
+      {
+        "id": "2",
+        "value": "(b) Comprehension reading to make notes emphasis on key words, topics, sentences, main points and supporting point."
+      },
+      {
+        "id": "3",
+        "value": "(c) vocabulary development Word to watch (Confusing word) been/being, lose/loose, cite/ site/sight, its/it’s, advise/advice, junction/juncturewhose/who’s etc.  "
+      },
+      {
+        "id": "4",
+        "value": "(d) Writing – descriptive farming in my village or town. How to make a local dish or any other related topic   "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson students should be able to:  (i) Explain what a clause is; (ii) analyse complex sentences into main and subordinate clauses (iii) give copious examples of sentences that contain the types of clauses "
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson students should be able to:  (i) identify topic sentences in a text, (ii) Differentiate between main ideas and supporting ideas. (iii) Use the easily confused words in different contexts correctly."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to: (i) recognized easily confused words in english (ii) highlight the difference/between them  (iii) use the easily confused words in different context correctly."
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson students should be able to:  (i) Highlight the features of a descriptive essay, (ii) develop an outline for a descriptive essay; (iii) write a descriptive essay on either of the following in my village or town. "
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words: aloof, abate, handkerchief, praire, weird, miscellaneous, dilemma, destitute, egregious hypothetical."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Student as a class, discuss the meaning of clause. ii) Students, in small groups, select clauses from a mixed bag of clauses and phrases. iii) Students pair up to classify clauses into main clauses and subordinate clauses of complex sentences and share with class. "
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, in small groups, classify, predict and summaries the main ideas in a given text. (ii) Student pair up to highlight the main ideas leaving out supporting ideas in a given text (iii) Students while reading the passage stop midway to predict likely outcomes in the passage"
+      },
+      {
+        "id": "3",
+        "value": "Student in small groups, (i) Students, as a class, collectively generate the list olf words that confuse them. (ii) Students, in small groups, probe into difference between those words. (iii) Individuals students use these words in sentence and share with the class for review. (iv) For further studies student visit the site below: https://youtu.be/pDPMCh5Tav0 https://youtu.be/pDPMCh5Tav0 "
+      },
+      {
+        "id": "4",
+        "value": "iii) Students pair up to classify clauses into main clauses and subordinate clauses in a given r s t of complex sentences and share with class."
+      },
+      {
+        "id": "5",
+        "value": "Student, as individuals or as a group, look up the meanings, word classes and pronounciation of the given words in a dictionary, and use each word in, at least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) leadership and personal development (iii) Critical Thinking and Problem Solving "
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development (iii) Creativity and imagination (iv) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and Collaboration (ii) Digetal literacy (iii) Leadership and Personal Development (iv) critical thinking and problem solving  "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal development (iii) creativity and imagination"
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (ii) Digetal literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i) Chart (ii) video clip on types of clauses WEB RESOURCES https://youtu.be/8dT_MlElHo8 https://youtu.be/8dT_MlElHo8  (b) https://www.learngrammar.net/emglish-grammar/clauses https://www.learngrammar.net/emglish-grammar/clauses "
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES (i)Charts/Flashcards WEB RESOURCES https://www.edutopia.org/article/5-ways-supporting-students-who-struggle-reading-comprehension https://www.edutopia.org/article/5-ways-supporting-students-who-struggle-reading-comprehension https://www.edutopia.org/article/5-ways-supporting-students-who-struggle-reading-comprehension"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES Flash cards Chart WEB RESOURCES i. https://www.grammarly.com/blog/commonly-confused-words/ https://www.grammarly.com/blog/commonly-confused-words/  ii. https://www.lexico.com/grammer/commonly-confused-words https://www.lexico.com/grammer/commonly-confused-words   iii.https://youtu.be/pDPMCh5Tav0 https://youtu.be/pDPMCh5Tav0"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES  (i) Charts (ii) Pictures WEB RESOURCES https://www.readingrockets.org/strategies/descriptivewriting#:~:text=Good https://www.readingrockets.org/strategies/descriptivewriting#:~:text=Good %20descriptive%20writing%20includes%20manything%20invokes"
+      },
+      {
+        "id": "5",
+        "value": "(i) hard copy dictionary (ii) online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "weeks": "7",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "Mid term Break"
+  },
+  {
+    "id": "8",
+    "weeks": "8",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " (a) Oral: Syllable on Two/three/four syllable words (b) identification of stress on words ."
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure: Sentence Types according to structure according to function"
+      },
+      {
+        "id": "3",
+        "value": "(c) Comprehension: Reading Introduction to answer comprehension question"
+      },
+      {
+        "id": "4",
+        "value": "(d) Writing: letter writing types of letter informal features formats  "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson,students should be able to: (i) Divide words into syllables with adequate examples; (ii) Apply the principles guiding stress placement on syllables in words; (iii) Pronounce words appropriately with the light syllable stressed"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i) Define a sentence (ii) Discuss all types of sentences and give adequate examples; iii) Analyse a text to identify and classify the sentences in it into types. "
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson students should be able to: (i) Draw inferences from passage (ii) Differentiate between main ideas arid supporting ideas in a given passage (iii) Replace the new words with their equivalents,"
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson students should be able to: (i) List all the types of letters; (ii) discuss the features of an informal letter; (iii) write a letter to a close relative or a friend in another town "
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to leam the following words: perplex, analysis, idiosyncratic, foreigner, fetter, conflagration,concede, barbecue, stealthy."
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students, as a class analyse what a syllable is using leaning tools (digital or textbooks) and break disyllabic and polysyllabic words into (ii) Students in pairs observe some stressed words and discuss the principles guiding stressed syllable in the words given. (iii) Students; in small groups apply stress placement rules to pronounce a set of words. "
+      },
+      {
+        "id": "2",
+        "value": "(i) Students as a class explain the meaning of a sentence and its types. (ii) Students in pairs classify sentences according to structure and according to function from a mixed bag of sentences; (iii) Students, in small groups, study a text and group the sentence in into their types. "
+      },
+      {
+        "id": "3",
+        "value": "i) Students, at least 4 of them, reed the passage. (a) paragraph per student) ii) Student pair up to discuss the implied messages and the meanings of new words in the content of the passage iii) Student in their small groups, relect on the passage analysing it in order to provide answer to the questions that follow the passage."
+      },
+      {
+        "id": "4",
+        "value": "i) Students in small groups, brainstorm on why letters are written with a view to identify types of letters ii) Students, in small groups, study two sample groups, study two sample informal letters in order to observe their common features. The group leaders share these feature with the class. iii) Following the samples, stdents write letter to friends or close relates on where they see themselves in the 20 years. "
+      },
+      {
+        "id": "5",
+        "value": "For home study, students, a individuals, look up the meanings, word classes and pronunciation of the given words in a dictionary, and use each word in, at least, a sentence."
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Digital literacy (iii) Leadership and Personal Development (iv) critical thinking and problem solving "
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration ii) Critical Thinking and Problem Solving (iii) Leadership and Personal Development "
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and .Collaboration (ii) Leadership and Personal development. iii.) Creativity and imagination iv) Critical Thinking and Problem Solving "
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal development (iii) creativity and imagination (iv) Critical Thinking and Problem Solving "
+      },
+      {
+        "id": "5",
+        "value": "Communication and Collaboration (I) Digital Literacy. "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO V1SUAL RESOURCES (i) Charts (ii) Pronouncing Dictonary by Daniel Jones WEB RESOURCES i) https://youtu.be/Vu6UVwkUgzc https://youtu.be/Vu6UVwkUgzc "
+      },
+      {
+        "id": "2",
+        "value": "(i) Chart (ii) Website (a) https://www.learning grammar.net/english-grammar/sentence-definition-a-types (b) <https://youtu.be/85xx-tfms https://youtu.be/85xx-tfms"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES . Flash cards WEB.RESOURCES https://www.edutopia.org/article/5-ways-support-students-who-strggle-reading-comprehension https://www.edutopia.org/article/5-ways-support-students-who-strggle-reading-comprehension https://www.edutopia.org/article/5-ways-support-students-who-strggle-reading-comprehension"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES  (i) charts https://www.successcds.net/learn-english/writing-skills/informal-letter-format-examples-topics.html https://www.successcds.net/learn-english/writing-skills/informal-letter-format-examples-topics.html https://www.successcds.net/learn-english/writing-skills/informal-letter-format-examples-topics.html https://youtube/f6hSMGGB6hs https://youtube/f6hSMGGB6hs"
+      },
+      {
+        "id": "5",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "weeks": "9",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " (a) Oral: Syllable and Stress (b) Stress on the First Syllable"
+      },
+      {
+        "id": "2",
+        "value": "(b) Structure:Regular and Irregular Verbs"
+      },
+      {
+        "id": "3",
+        "value": "(c) Comprehension Summary "
+      },
+      {
+        "id": "4",
+        "value": "(d) Writing letter writing formal letter writing Features Formula"
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: (i) Explain what a syllable is; (ii) Explain the meaning of stress; (iii) Identify words that have stress on their first syllable; (iv) Pronounce words that have stress on the first syllable correctly."
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i) Explain the terms ° regular and irregular verbs; (ii) Distinguish between regular and irregular verbs; (iii) Construct sentences using regular and irregular verbs."
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: (i) Explain what summary is; (ii) State the dos and don’ts of summary writing; (iii) Summarise a given passage."
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson, students should be able to  (i) distinguish between formal and informal letters; (ii) state the features of formal letter; (iii) write the format of a formal letter; (iv) write a letter of complaint to the chairman of your local government area on the problem of insecurity "
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words:litigant, hypocrisy, maestro, limpid, apparatus, commitment, bough, privilege, maintenance, campaign"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students, in small groups. (i) Listen to a recorded voice via wireless speakers or any digital channel; (ii) write the words heard; (iii) stress the words accordingly. (iv) Each group leader tales a turn to present their group work to the whole class for a critique. For further studies, students visit the site below: https://www.myenglishlànguage.com/linguistics-languag-guide/english-phonology/syllables-and-stress/ https://www.myenglishlànguage.com/linguistics-languag-guide/english-phonology/syllables-and-stress/ https://www.myenglishlànguage.com/linguistics-languag-guide/english-phonology/syllables-and-stress/"
+      },
+      {
+        "id": "2",
+        "value": "i) Students, as a class, discuss the meanings of regular and irregular verbs. ii) Students, in small groups, classify verbs into regular and irregular forms from given mixed bag of verbs. (iii) Students, in pairs, construct five sentences using a regular verb in each of them, and another five sentences, using an irregular verb in each of them. (iv) Each group leader takes a turn to present their group work to the whole class for evaluation. ."
+      },
+      {
+        "id": "3",
+        "value": "i.) Students as a class, describe what summary is and highlight its importance to them. ii.) Students work with their peers study a text and its summary to establish the dos and don’ts of summary writing. (iii) Students, in small groups, determine the main ideas in a text, write a draft, edit it and present the final draft to the class for review."
+      },
+      {
+        "id": "4",
+        "value": "i) Students, in small group are supplied different types of letters – both formal and informal which sort them out into two groups. Which were written to friends? Which are formal letters from businesses? Which features or characteristics distinguish formal from informal? ii) Students look for differences between the two groups. This allows discussion to take place about the different types of letter. (iii) Each group leader takes a turn to present their group work to the whole class for evaluation"
+      },
+      {
+        "id": "5",
+        "value": "For home study, students,  individuals, look up the meanings, word classes and pronunciation of the given words in a dictionary, and use each word in, at least, a sentence.  "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development iii.) Creativity and imagination iv.) Critical Thinking and Problem Solving"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and Collaboration (ii) Leadership and Personal Development iii.) Creativity and imagination iv) Critical Thinking and Problem Solving "
+      },
+      {
+        "id": "3",
+        "value": "Communication and Collaboration (ii) Leadership and Personal                        Development iii.) Creativity and imagination iv.) Critical Thinking and Problem Solving "
+      },
+      {
+        "id": "4",
+        "value": "i) Communication and Collaboration (ii) Leadership arm Personal Development iii) Creativity and imagination iv) Critical thinking and problem solving"
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and collaboration (ii) Critical thinking and Problem Solving (iii) Leadership and Personal Development"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES (i) Charts (ii) Pronouncing Dictionary by Danrel Jones ii) Tape recorder . WEB RESOURCES https://www.myenglishlànguage.com/linguistics-languag-guide/english-phonology/syllables-and-stress/ https://www.myenglishlànguage.com/linguistics-languag-guide/english-phonology/syllables-and-stress/ https://www.myenglishlànguage.com/linguistics-languag-guide/english-phonology/syllables-and-stress/"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES Charts/Flashcards WEB RESOURCES https://www.wallstreetenglish.dom/blog/regular-and-irregular-enlish-verrbs/ https://www.wallstreetenglish.dom/blog/regular-and-irregular-enlish-verrbs/ https://www.espressoenglish.net/tips-for-learning-irregular-verbs-in-english https://www.espressoenglish.net/tips-for-learning-irregular-verbs-in-english"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES WEB RESOURCES https://busyteacher.org/6214-how-how-to-teach-summary-writing.html https://busyteacher.org/6214-how-how-to-teach-summary-writing.html https://youtube/O5TiUcVg2tk https://youtube/O5TiUcVg2tk"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES (i) Chart WEB RESOURCES https://www.readingrocketst.org/article/introduction-letter-writing https://www.readingrocketst.org/article/introduction-letter-writing "
+      },
+      {
+        "id": "5",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "weeks": "10",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": "a ) Structure: Figures of speech tmtlé, methor, itiy, personification, hyperbole, synecdoche, paradox, pun etc.  "
+      },
+      {
+        "id": "2",
+        "value": "(b) Comprehension (Reading) comprehension passages"
+      },
+      {
+        "id": "3",
+        "value": "(c) Writing: Argumentative Essay. “women have the same opportunities in life as men.” Or any other tropical topic"
+      },
+      {
+        "id": "4",
+        "value": " (d) vocabulary development: words associated with library  "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to : (i) explain the following synecdoche terms simile pun etc. metaphor, irony, personification, hyperbole, synecdoche, paradox, pun; (ii) give adequate examples of each of the slated figures of speech;"
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: (i) explain the terms: a) inference, b) deduction (ii) infer the appropriate answers from the given passage; (iii) deduce the appropriate answers using their own expression. "
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: i) describe characteristics fan argumentative essay; ii.) Explain elements of argumentative essay; iii.) Demonstrate understanding of argumentative essay format. "
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson, students should be able to: i) explain the importance of a library (ii) list all items that can be found in a library environment."
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words: tracking, fickle, deterious, hegemony. likelihood, jubilant, rhythmical, engender,kudos, implicit, condone "
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "Students as a class discuss the effects figure of  speech have on literary works; (ii) Students in groups study the samples of these figure of speech and are thereafter challenged to come up with as many other common examples as they can. (iii) Each group leader takes a turn to present their group work to the whole class for a critique."
+      },
+      {
+        "id": "2",
+        "value": "(i) Students, in small group, have a summarizer, a questioner, a clritier and predictor appointed to perform these roles as they study the assigned given comprehension passage; (ii) Students, in small groups, provide answers to the questions that follow the passage. (iii) Each group leader takes a turn to present their group work to the whole class for a critique. "
+      },
+      {
+        "id": "3",
+        "value": "Students are presented with – the topic, “Women have the same opportunity in life as men “Students who agree with the statement move to one side of the room, and those who disagree move to the other side. Then they take turns explaining why they are standing on that ii) Students, as a class, discuss the characteristics and elements of an argumentative essay. (iii) Students, in small group, work in a more structured manner to take a point of view on an assigned topic and generate reasons to support their views."
+      },
+      {
+        "id": "4",
+        "value": "(i) A field trip to the school library (ii) Students have an interactive session with school librarian (iii) Students, in smaller groups, write a report on their observations (iv) Each group leader takes a turn to present their group work the whole class for evaluation "
+      },
+      {
+        "id": "5",
+        "value": "Learners are to be guided to learn the following words: tracking, fickle, deterious, hegemony. likelihood, jubilant, rhythmical, engender,kudos, implicit, condone "
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "i)Communication and collaboration ii) Critical thinking and Problem Solving iii) Leadership and Personal Development"
+      },
+      {
+        "id": "2",
+        "value": "i)Communication and collaboration ii) Critical thinking and Problem Solving iii) Leadership and Personal Development   "
+      },
+      {
+        "id": "3",
+        "value": "i) Communication and collaboration ii) Critical thinking and Problem Solving iii) Leadership and Personal Development "
+      },
+      {
+        "id": "4",
+        "value": "i) Communication and collaboration ii) Critical thinking and Problem Solving iii) Leadership and Personal Development "
+      },
+      {
+        "id": "5",
+        "value": "i) Communication and collaboration ii) Critical thinking and Problem Solving iii) Leadership and Personal Development "
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES Video clips of poems Clippings from. editorials (i) Charts/Flashcards WEB RESOURCES https://www.literacyideas.com/figurative-language-for-students-and-teachers >https://www.literacyideas.com/figurative-language-for-students-and-teachers https://youtu.beAeAYvX7NSd8 https://youtu.beAeAYvX7NSd8"
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES Flash cards WEB RESOURCES https://www.readingrockets.org/articles/strategies-promote-comprehension https://www.readingrockets.org/articles/strategies-promote-comprehension https://bookpagez.com/blog/teacher-guide-comprehension-lesson-plans/ https://bookpagez.com/blog/teacher-guide-comprehension-lesson-plans/"
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES WEB RESOURCES https://www.cultofpedagogy.com/persuasive-writing/ https://www.cultofpedagogy.com/persuasive-writing/ https://www.edu.tpia.org/articles/strategies-teachingargument-writing https://www.edu.tpia.org/articles/strategies-teachingargument-writing https://www.literacyideas.com/writing-an-essay-for-teachers-and-students https://www.literacyideas.com/writing-an-essay-for-teachers-and-students"
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES Pictures Flash cards  WEB RESOURCES https://olinuris.library.cornell.edu/ref/research/vocabulary.html https://olinuris.library.cornell.edu/ref/research/vocabulary.html "
+      },
+      {
+        "id": "5",
+        "value": "(i) hard copy dictionary (ii) online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "weeks": "11",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": [
+      {
+        "id": "1",
+        "value": " (a) structure: Definite and indefinite articles"
+      },
+      {
+        "id": "2",
+        "value": "(b) vocabulary development: words associated with journalism "
+      },
+      {
+        "id": "3",
+        "value": "(c) Oral: Dialogue on the experience of national topical issues "
+      },
+      {
+        "id": "4",
+        "value": "(d)Writing: Review of Essay Writing "
+      },
+      {
+        "id": "5",
+        "value": "(e) Words of the week"
+      }
+    ],
+    "learningObjectives": [
+      {
+        "id": "1",
+        "value": "By the end of the lesson, students should be able to: i) explain what give examples of definite and indefinite articles; (ii) distinguish oe:,een definite an indefinite articles; (iii) use definite an indefinite articles in sentences "
+      },
+      {
+        "id": "2",
+        "value": "By the end of the lesson, students should be able to: i) explain what give examples of"
+      },
+      {
+        "id": "3",
+        "value": "By the end of the lesson, students should be able to: (i) have a robust dialogue with classmates on any given topical issues. "
+      },
+      {
+        "id": "4",
+        "value": "By the end of the lesson, students should be able to: (I) distinguish between argumentative and narrative essays; (ii) give a talk on the topic: ‘Boy are more useful at home than girls’ (iii) narrate a story that ends with “A patient dog eats the fattest bones”"
+      },
+      {
+        "id": "5",
+        "values": "Learners are to be guided to in the following. words"
+      }
+    ],
+    "learningActivities": [
+      {
+        "id": "1",
+        "value": "(i) Students, in small groups, read a given study a short text and identify definite and indefinite articles (ii) Students as a class specify the users articles having reflected on how they are used in the assigned text (iii) Student pair up their peers to use both definite an indefinite articles in sentences "
+      },
+      {
+        "id": "2",
+        "value": "(i) A field trip to the Nigerian Institute of Joe rhalism. (ii) Students have an interact session with a recognized official of the institute. (iii) Students, in small groups, write a report which include list of words associated with journalism. (iv) Each group leader takes a turn to present their group work to the whole class for evaluation."
+      },
+      {
+        "id": "3",
+        "value": "(I) The class is divided into two groups. Each group has two discussants; (ii) Each group has a brainstorming session for a few minutes; (iii) The two discussants presented by each group . articulate the position of their group on a given topic issue, while the teacher acts as a moderator "
+      },
+      {
+        "id": "4",
+        "value": "i.) Students, in small groups, underline and dissect the key words and phrases and discuss together what exactly is being asked for them in assigned topic. ii.) Students in pairs brainstorm and mind map what they know about a topic to uncover not just what they already know about a topic, but what they think about the topic. They develop an outline for the topic froth this process. iii.) Students as individual write an essay on the given topic from home:"
+      },
+      {
+        "id": "5",
+        "value": "For home study, students, as individuals look up the meanings word classes and pronunciation of the given words in a dictionary and use each word ri at least a sentence"
+      }
+    ],
+    "embeddedCoreSkills": [
+      {
+        "id": "1",
+        "value": "(i) Communication and collaboration (ii) Critical thinking and Problem Solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "2",
+        "value": "(i) Communication and collaboration (ii) Critical thinking and Problem Solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "3",
+        "value": "(i) Communication and collaboration (ii) Critical thinking and Problem Solving (iii) Leadership and Personal Development"
+      },
+      {
+        "id": "4",
+        "value": "(i) Communication and collaboration (ii) Critical thinking and Problem Solving (iii) Leadership and Personal Development  "
+      },
+      {
+        "id": "5",
+        "value": "(i) Communication and Collaboration (ii) Digital Literacy"
+      }
+    ],
+    "learningResources": [
+      {
+        "id": "1",
+        "value": "AUDIO VISUAL RESOURCES WEB RESOURCES  https://busyteacher.org16028-definite-indefinite-articleconfusion-3-rules.html https://busyteacher.org16028-definite-indefinite-articleconfusion-3-rules.html "
+      },
+      {
+        "id": "2",
+        "value": "AUDIO VISUAL RESOURCES WEB RESOURCES "
+      },
+      {
+        "id": "3",
+        "value": "AUDIO VISUAL RESOURCES WEB RESOURCES "
+      },
+      {
+        "id": "4",
+        "value": "AUDIO VISUAL RESOURCES WEB RESOURCES  https://www.toppr.com/guides/english/writing/essay/ https://www.toppr.com/guides/english/writing/essay/ https://thewritepractice.com/writing-an-essay%20/ https://thewritepractice.com/writing-an-essay / https://youtu.be/2Uk7edfeUM https://youtu.be/2Uk7edfeUM"
+      },
+      {
+        "id": "5",
+        "value": "(i) Hard copy dictionary (ii) Online dictionary"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "weeks": "12",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "REVISION"
+  },
+  {
+    "id": "13",
+    "weeks": "13",
+    "subject": "English",
+    "class": "SS1",
+    "term": "First term",
+    "topics": "",
+    "Status": "EXAMINATION"
+  }
+]
